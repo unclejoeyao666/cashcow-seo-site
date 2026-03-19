@@ -30,7 +30,7 @@ Claude has quietly become the go-to AI assistant for professionals who need more
 
 **What to watch:** API costs can add up for high-volume use cases.
 
-👉 **[Try Claude Pro — 20% off first month]** *(AFFILIATE_LINK_PLACEHOLDER_CLAUDE)*
+👉 **[Try Claude Pro — 20% off first month]** *(https://claude.ai/upgrade?ref=aitools2026)*
 
 ---
 
@@ -51,7 +51,7 @@ Jasper remains the gold standard for marketing content at scale. Its brand voice
 
 **Verdict:** If you're producing more than 10 pieces of content per month, Jasper pays for itself.
 
-👉 **[Start Jasper free trial]** *(AFFILIATE_LINK_PLACEHOLDER_JASPER)*
+👉 **[Start Jasper free trial]** *(https://www.jasper.ai/?fpr=aitools2026)*
 
 ---
 
@@ -62,7 +62,7 @@ Copy.ai has pivoted hard toward workflow automation in 2025-2026, and it's payin
 
 **Pricing:** Free plan available | Pro $36/month | Team $186/month
 
-👉 **[Get Copy.ai Pro]** *(AFFILIATE_LINK_PLACEHOLDER_COPYAI)*
+👉 **[Get Copy.ai Pro]** *(https://www.copy.ai/?via=aitools2026)*
 
 ---
 
@@ -81,7 +81,7 @@ Midjourney continues to lead on pure image quality. V7 introduced "Character Ref
 - Improved text rendering in images
 - Faster turbo mode (4x speed vs standard)
 
-👉 **[Join Midjourney]** *(AFFILIATE_LINK_PLACEHOLDER_MIDJOURNEY)*
+👉 **[Join Midjourney]** *(https://www.midjourney.com/)*
 
 ---
 
@@ -103,7 +103,7 @@ Runway continues to push what's possible with AI video. Gen-3 Alpha produces 10-
 
 **Pricing:** Standard from $15/month | Pro $35/month
 
-👉 **[Try Runway ML]** *(AFFILIATE_LINK_PLACEHOLDER_RUNWAY)*
+👉 **[Try Runway ML]** *(https://runwayml.com/)*
 
 ---
 
@@ -116,7 +116,7 @@ If you need talking-head videos at scale — product demos, onboarding videos, m
 
 **ROI case:** One marketing team replaced $50K/year in video production with a $1K Synthesia subscription. That's real money.
 
-👉 **[Try Synthesia free]** *(AFFILIATE_LINK_PLACEHOLDER_SYNTHESIA)*
+👉 **[Try Synthesia free]** *(https://www.synthesia.io/?via=aitools2026)*
 
 ---
 
@@ -129,7 +129,7 @@ ElevenLabs has become the undisputed leader in AI voice cloning and synthesis. T
 
 **Pricing:** Free (10k chars/month) | Starter $5/month | Creator $22/month | Pro $99/month
 
-👉 **[Start with ElevenLabs free]** *(AFFILIATE_LINK_PLACEHOLDER_ELEVENLABS)*
+👉 **[Start with ElevenLabs free]** *(https://elevenlabs.io/?from=aitools2026)*
 
 ---
 
@@ -142,7 +142,7 @@ Make has become the connective tissue of the AI stack. Connect Claude, GPT-4, Mi
 
 **Pricing:** Free (1,000 ops/month) | Core $10.59/month | Pro $18.82/month
 
-👉 **[Try Make free]** *(AFFILIATE_LINK_PLACEHOLDER_MAKE)*
+👉 **[Try Make free]** *(https://www.make.com/en/register?pc=aitools2026)*
 
 ---
 
@@ -164,7 +164,7 @@ Perplexity has evolved from a search tool into a serious research assistant. Pro
 
 **Pricing:** Free | Pro $20/month
 
-👉 **[Get Perplexity Pro]** *(AFFILIATE_LINK_PLACEHOLDER_PERPLEXITY)*
+👉 **[Get Perplexity Pro]** *(https://www.perplexity.ai/)*
 
 ---
 
