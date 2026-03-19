@@ -4,6 +4,7 @@ description: "Compare the best AI-powered email marketing tools in 2026. From Hu
 pubDate: 2026-03-19
 heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["email marketing", "AI tools", "marketing automation", "review"]
+affiliate: true
 ---
 
 # Best AI Email Marketing Tools 2026: Top 6 Platforms Reviewed
