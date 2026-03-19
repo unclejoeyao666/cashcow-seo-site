@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Plus Review 2026: Is It Worth $20/Month? (Honest Assessment)"
 description: "In-depth ChatGPT Plus review 2026. We tested GPT-4o, o3, Advanced Voice, DALL-E 3, and more. Find out if the $20/month subscription is worth it for you."
-publishDate: 2026-03-19
+pubDate: 2026-03-19
 tags: ["chatgpt", "chatgpt plus", "openai", "ai tools", "review"]
 ---
 

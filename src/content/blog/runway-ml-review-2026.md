@@ -1,7 +1,7 @@
 ---
 title: "Runway ML Review 2026: Is It the Best AI Video Generator?"
 description: "Honest Runway ML review after 4 months of testing. We cover Gen-3 Alpha, pricing, use cases, and whether it beats Sora, Pika, and Kling AI."
-pubDate: Mar 19 2026
+pubDate: 2026-03-19
 heroImage: "/images/runway-ml-review-2026.jpg"
 tags: ["AI Video", "Runway ML", "AI Tools Review", "Content Creation"]
 affiliate: true

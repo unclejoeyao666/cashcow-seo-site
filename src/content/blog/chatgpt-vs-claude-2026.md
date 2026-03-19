@@ -1,7 +1,7 @@
 ---
 title: 'ChatGPT vs Claude in 2026: Which AI Assistant Should You Use?'
 description: 'A detailed comparison of ChatGPT (GPT-4o) and Claude (Opus & Sonnet) in 2026. We test writing, coding, reasoning, and daily tasks to find the best AI for your needs.'
-pubDate: 'Mar 19 2026'
+pubDate: 2026-03-19
 heroImage: '../../assets/blog-placeholder-2.jpg'
 tags: ['ai-tools', 'comparison', 'chatgpt', 'claude']
 ---

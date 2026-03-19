@@ -1,8 +1,8 @@
 ---
 title: "Surfer SEO Review 2026: Is It Worth $99/Month for Content Teams?"
 description: "An honest Surfer SEO review covering content editor, SERP analyzer, keyword research, and whether it delivers real ranking results in 2026."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["seo-tools", "content-marketing", "review", "ai-writing"]
 ---
 

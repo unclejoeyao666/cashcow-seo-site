@@ -1,8 +1,8 @@
 ---
 title: "Zapier vs Make (Integromat) 2026: Which Automation Tool Wins?"
 description: "Zapier vs Make: An honest comparison of pricing, features, and use cases. Which no-code automation platform should you use in 2026?"
-pubDate: "Mar 19 2026"
-heroImage: "/blog-placeholder-4.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-4.jpg"
 tags: ["automation", "zapier", "make", "no-code", "review"]
 ---
 

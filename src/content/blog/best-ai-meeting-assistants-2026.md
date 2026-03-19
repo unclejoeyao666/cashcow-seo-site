@@ -1,8 +1,8 @@
 ---
 title: "Best AI Meeting Assistant Tools 2026: Record, Transcribe & Summarize Automatically"
 description: "Stop taking notes in meetings. The best AI meeting assistants in 2026 automatically record, transcribe, and summarize your calls—so you can focus on what matters."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["AI tools", "productivity", "meetings", "transcription"]
 ---
 

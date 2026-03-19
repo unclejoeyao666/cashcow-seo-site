@@ -1,8 +1,8 @@
 ---
 title: "Best AI Email Marketing Tools 2026: Top 6 Platforms Reviewed"
 description: "Compare the best AI-powered email marketing tools in 2026. From HubSpot to ConvertKit to ActiveCampaign — find the right platform for your business."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["email marketing", "AI tools", "marketing automation", "review"]
 ---
 

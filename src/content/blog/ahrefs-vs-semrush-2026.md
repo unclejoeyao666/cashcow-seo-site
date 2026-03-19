@@ -2,7 +2,7 @@
 title: "Ahrefs vs SEMrush 2026: Which SEO Tool Is Worth Your Money?"
 description: "A head-to-head comparison of Ahrefs and SEMrush in 2026 — covering keyword research, backlink analysis, pricing, and which tool wins for your use case."
 pubDate: "2026-03-19"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
 If you're serious about SEO in 2026, you've almost certainly wrestled with the same question: **Ahrefs or SEMrush?**

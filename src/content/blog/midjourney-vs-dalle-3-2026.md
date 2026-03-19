@@ -1,7 +1,7 @@
 ---
 title: "Midjourney vs DALL-E 3 (2026): Which AI Image Generator Wins?"
 description: "Midjourney vs DALL-E 3 head-to-head comparison. We tested both with 200+ prompts across realism, art styles, text rendering, and speed. See which is worth your money."
-pubDate: Mar 19 2026
+pubDate: 2026-03-19
 tags: ["ai tools", "image generation", "midjourney", "dall-e", "comparison"]
 author: "Shell Editorial Team"
 featured: true

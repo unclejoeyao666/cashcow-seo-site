@@ -1,7 +1,7 @@
 ---
 title: "Best AI Writing Tools 2026: The Ultimate Guide (Tested & Ranked)"
 description: "We tested 12+ AI writing tools in 2026 — here's the honest breakdown of what's worth paying for, what's overhyped, and which tool wins for each use case."
-pubDate: Mar 19 2026
+pubDate: 2026-03-19
 author: "Shell"
 tags: ["AI Writing Tools", "Content Creation", "Copywriting", "AI Tools 2026"]
 category: "AI Tools"

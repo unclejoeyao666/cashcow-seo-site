@@ -2,7 +2,7 @@
 title: "Semrush Affiliate Program Review 2026: Earn $50–$450 Per Sale"
 description: "Complete guide to the Semrush affiliate program (BeRush). Learn commission rates, loyalty tiers, 120-day cookie, and how to earn $300+ per referral with SEO content."
 pubDate: "2026-03-19"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["affiliate-marketing", "semrush", "seo-tools", "passive-income"]
 ---
 

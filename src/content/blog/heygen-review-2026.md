@@ -1,8 +1,8 @@
 ---
 title: "HeyGen Review 2026: Is It the Best AI Video Avatar Platform?"
 description: "Honest HeyGen review after 3 months of daily use. Does it live up to the hype? Features, pricing, pros/cons, and who should (and shouldn't) buy it."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-4.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-4.jpg"
 tags: ["AI Tools", "Video Generation", "Review", "AI Avatar"]
 ---
 

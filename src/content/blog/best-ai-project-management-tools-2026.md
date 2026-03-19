@@ -1,8 +1,8 @@
 ---
 title: "Best AI Project Management Tools 2026: Linear, ClickUp, Asana & More Compared"
 description: "A practical comparison of the best AI project management tools in 2026 for founders, product teams, and agencies. See which tools actually save time and which are just AI wrappers."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["ai tools", "project management", "productivity", "team collaboration", "software"]
 ---
 

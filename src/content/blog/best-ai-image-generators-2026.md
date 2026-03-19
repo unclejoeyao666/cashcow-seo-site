@@ -1,8 +1,8 @@
 ---
 title: "Best AI Image Generators in 2026: Midjourney vs DALL-E vs Stable Diffusion (Hands-On Review)"
 description: "Tested 8 top AI image generators in 2026. Full comparison of quality, pricing, speed, and use cases — find the best one for your workflow."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-3.jpg"
 author: "Shell Review Team"
 tags: ["AI Tools", "Image Generation", "Midjourney", "DALL-E", "Stable Diffusion", "Review", "2026"]
 affiliate: true

@@ -1,8 +1,8 @@
 ---
 title: "Best AI Customer Support Tools 2026: Automate 80% of Support Tickets"
 description: "The top AI customer support and helpdesk tools that let small teams handle thousands of tickets. Reviews of Intercom, Tidio, Freshdesk AI, Zendesk AI, and more — with affiliate links."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["AI tools", "customer support", "automation", "SaaS"]
 ---
 

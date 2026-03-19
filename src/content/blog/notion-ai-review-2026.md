@@ -1,8 +1,8 @@
 ---
 title: "Notion AI Review 2026: Is It Worth the Extra $10/Month?"
 description: "In-depth Notion AI review covering writing assistance, Q&A, database automation, and how it compares to standalone AI writing tools in 2026."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-2.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["notion", "ai review", "productivity", "notion ai", "writing tools"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Best AI Research Tools 2026: Top Picks for Students, Analysts & Academics"
 description: "Discover the best AI tools for research in 2026. Tested by real researchers — save 10+ hours per week on literature review, data analysis, and report writing."
-pubDate: Mar 19 2026
+pubDate: 2026-03-19
 tags: ["ai research tools", "ai for students", "ai for academics", "research productivity", "ai tools 2026"]
 image: "/images/best-ai-research-tools-2026.jpg"
 affiliate: true

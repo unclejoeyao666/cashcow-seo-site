@@ -2,7 +2,7 @@
 title: "DeepSeek Review 2026: Is It the Best Free ChatGPT Alternative?"
 description: "An in-depth DeepSeek review for 2026. We test DeepSeek R1 and V3 on coding, reasoning, and creative tasks to see if it beats GPT-4o and Claude — all for free."
 pubDate: "2026-03-19"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["ai-tools", "chatgpt-alternatives", "deepseek", "llm-review"]
 ---
 

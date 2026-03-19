@@ -2,7 +2,7 @@
 title: "ConvertKit (Kit) Review 2026: Is It Worth It for Creators?"
 description: "An in-depth ConvertKit (now Kit) review covering pricing, features, affiliate program, and how it compares to Mailchimp, ActiveCampaign, and Beehiiv in 2026."
 pubDate: "2026-03-19"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["email marketing", "creator tools", "affiliate", "newsletter"]
 ---
 

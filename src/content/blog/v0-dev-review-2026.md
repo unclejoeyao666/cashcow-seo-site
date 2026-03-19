@@ -2,7 +2,7 @@
 title: "v0.dev Review 2026: Is Vercel's AI UI Generator Worth It?"
 description: "In-depth v0.dev review covering pricing, features, real project tests, and how it compares to Bolt.new and Lovable. Find out if v0 is the best AI UI builder in 2026."
 pubDate: "2026-03-19"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["ai-tools", "web-development", "ai-builders", "vercel", "review"]
 ---
 

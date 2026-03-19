@@ -2,7 +2,7 @@
 title: "Grok AI Review 2026: Is xAI's Chatbot Worth It?"
 description: "An honest, in-depth Grok AI review for 2026. We test Grok 3, compare it to ChatGPT and Claude, and reveal who should (and shouldn't) use it."
 pubDate: "2026-03-19"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["ai-tools", "chatgpt-alternatives", "ai-review", "xai", "grok"]
 ---
 

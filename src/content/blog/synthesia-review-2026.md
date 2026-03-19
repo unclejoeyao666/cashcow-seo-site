@@ -1,8 +1,8 @@
 ---
 title: "Synthesia Review 2026: Is This AI Video Generator Worth It?"
 description: "Complete Synthesia review covering pricing, features, video quality, and real use cases. Find out if Synthesia is the right AI avatar video tool for your business."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["AI video", "Synthesia review", "AI avatar", "video generation", "business tools"]
 ---
 

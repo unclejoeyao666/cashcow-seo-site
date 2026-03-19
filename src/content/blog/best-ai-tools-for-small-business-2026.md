@@ -1,7 +1,7 @@
 ---
 title: "Best AI Tools for Small Business in 2026: Complete Guide for Owners & Teams"
 description: "Discover the top AI tools that save small businesses 10+ hours per week. From customer support to marketing automation — real ROI, real results."
-pubDate: Mar 19 2026
+pubDate: 2026-03-19
 heroImage: "/images/best-ai-tools-small-business-2026.jpg"
 tags: ["ai tools", "small business", "productivity", "automation", "2026"]
 ---

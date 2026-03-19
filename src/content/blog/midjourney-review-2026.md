@@ -1,8 +1,8 @@
 ---
 title: "Midjourney Review 2026: Is It Still the Best AI Image Generator?"
 description: "Comprehensive Midjourney review 2026 — pricing, image quality, new features, and how it stacks up against DALL-E 3, Stable Diffusion, and Adobe Firefly."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-2.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["midjourney", "ai image generator", "review", "midjourney review 2026"]
 ---
 

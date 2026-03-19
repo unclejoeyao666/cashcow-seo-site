@@ -1,8 +1,8 @@
 ---
 title: "15 Best AI Tools for Small Business in 2026 (Ranked & Reviewed)"
 description: "Discover the top AI tools that help small businesses save time, cut costs, and grow faster. Reviewed by real users with pricing, pros/cons, and ROI analysis."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["AI tools", "small business", "productivity", "automation"]
 ---
 

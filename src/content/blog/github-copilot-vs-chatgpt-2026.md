@@ -1,8 +1,8 @@
 ---
 title: "GitHub Copilot vs ChatGPT for Coding in 2026: Which AI Actually Writes Better Code?"
 description: "In-depth comparison of GitHub Copilot vs ChatGPT for developers. Real test results on code generation, debugging, refactoring, and pricing. Which should YOU pay for?"
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-2.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["ai tools", "coding", "github copilot", "chatgpt", "developer tools", "comparison"]
 ---
 

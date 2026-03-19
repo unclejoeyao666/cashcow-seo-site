@@ -1,8 +1,8 @@
 ---
 title: "Best AI Video Generators 2026: Top Tools Reviewed & Ranked"
 description: "Looking for the best AI video generator? We tested Runway, Synthesia, Pika, Kling, and more. Here's our honest review with pricing and use cases."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["ai-tools", "video", "affiliate"]
 ---
 

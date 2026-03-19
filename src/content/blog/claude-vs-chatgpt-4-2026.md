@@ -1,8 +1,8 @@
 ---
 title: "Claude 3.5 vs ChatGPT-4o: Which AI Is Best in 2026? (In-Depth Comparison)"
 description: "Claude 3.5 Sonnet vs ChatGPT-4o — we compared coding, writing, reasoning, and value. Here's the definitive answer for 2026."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-2.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["AI comparison", "Claude", "ChatGPT", "AI tools", "productivity"]
 ---
 

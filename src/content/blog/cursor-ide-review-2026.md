@@ -1,8 +1,8 @@
 ---
 title: "Cursor IDE Review 2026: The AI Code Editor That's Replacing GitHub Copilot"
 description: "An honest, hands-on Cursor IDE review for 2026. We cover pricing, features, vs GitHub Copilot, and whether it's worth $20/month for developers."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
 # Cursor IDE Review 2026: Is It Worth $20/Month?

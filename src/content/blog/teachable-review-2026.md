@@ -2,7 +2,7 @@
 title: "Teachable Review 2026: Is It Still the Best Online Course Platform?"
 description: "Comprehensive Teachable review covering pricing, features, pros & cons, and how it compares to Thinkific and Kajabi. Find out if Teachable is right for you."
 pubDate: "2026-03-19"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["online courses", "teachable", "course platforms", "passive income", "affiliate"]
 ---
 

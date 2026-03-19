@@ -1,8 +1,8 @@
 ---
 title: "Best AI Plugins for WordPress in 2026: Boost Your Site with Artificial Intelligence"
 description: "Discover the top AI plugins for WordPress that can automate content creation, SEO, chatbots, and more. Honest reviews with pricing, pros, and cons."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["wordpress", "ai-plugins", "seo", "automation", "review"]
 affiliate: true
 ---

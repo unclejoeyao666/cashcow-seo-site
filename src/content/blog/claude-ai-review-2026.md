@@ -1,8 +1,8 @@
 ---
 title: "Claude AI Review 2026: Is Anthropic's AI Worth It?"
 description: "Honest Claude AI review covering Claude 4, Sonnet, Haiku, pricing, and how it compares to ChatGPT in 2026. Real benchmarks, use cases, and verdict."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["claude ai", "anthropic", "ai review", "chatgpt alternative", "claude vs chatgpt"]
 ---
 

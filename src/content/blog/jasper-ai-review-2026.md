@@ -1,8 +1,8 @@
 ---
 title: "Jasper AI Review 2026: Is It Worth $49/Month for Content Creation?"
 description: "After 3 months and 500+ pieces of content, here's our honest Jasper AI review. Pros, cons, pricing, and whether it beats free alternatives like Claude."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-2.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["AI Writing", "Jasper AI", "Content Marketing", "AI Tools Review"]
 ---
 

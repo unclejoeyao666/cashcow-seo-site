@@ -2,7 +2,7 @@
 title: "Thinkific vs Teachable 2026: Which Online Course Platform Is Right for You?"
 description: "An in-depth comparison of Thinkific vs Teachable for course creators in 2026. Pricing, features, commissions, and which platform pays affiliates more."
 pubDate: "2026-03-19"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["online courses", "thinkific", "teachable", "course platforms", "affiliate"]
 ---
 

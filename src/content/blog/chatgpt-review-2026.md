@@ -2,7 +2,7 @@
 title: "ChatGPT Review 2026: Is It Still Worth It? (Honest Assessment)"
 description: "A comprehensive ChatGPT review for 2026. We cover GPT-4o features, pricing, real-world performance, limitations, and whether ChatGPT Plus is worth $20/month compared to Claude, Gemini, and Perplexity."
 pubDate: "2026-03-19"
-heroImage: "/blog-placeholder-3.jpg"
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["ChatGPT", "AI Review", "GPT-4o", "OpenAI", "AI Tools"]
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Best AI Tools for Freelancers in 2026: Work Smarter, Earn More"
 description: "The ultimate guide to AI tools that actually help freelancers save time, win more clients, and increase earnings. Tested across 6 months of real freelance work."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["ai tools", "freelancing", "productivity", "make money", "remote work"]
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Best AI Copywriting Tools in 2026: Tested & Ranked (With Real ROI Data)"
 description: "We tested 9 AI copywriting tools head-to-head so you don't have to. See which tools actually deliver ROI—ranked by output quality, pricing, and automation capabilities."
-pubDate: "Mar 19 2026"
-heroImage: "/blog-placeholder-2.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["ai-tools", "copywriting", "content-marketing", "affiliate"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Gemini vs Claude 2026: Which AI Is Actually Better?"
 description: "An honest, data-driven comparison of Google Gemini and Anthropic Claude in 2026. We tested both across 15+ real tasks to find the winner."
-pubDate: Mar 19 2026
+pubDate: 2026-03-19
 heroImage: "/images/gemini-vs-claude-2026.jpg"
 tags: ["AI comparison", "Gemini", "Claude", "AI tools", "ChatGPT alternatives"]
 ---

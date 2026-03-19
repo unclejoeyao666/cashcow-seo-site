@@ -1,8 +1,8 @@
 ---
 title: "Best AI Productivity Tools 2026: Supercharge Your Workflow"
 description: "Comprehensive review of the top AI productivity tools in 2026. From task automation to smart scheduling, these tools save hours every week."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["ai tools", "productivity", "automation", "workflow", "software"]
 ---
 

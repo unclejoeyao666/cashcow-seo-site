@@ -1,8 +1,8 @@
 ---
 title: "Perplexity AI vs ChatGPT (2026): Which AI Search Tool Actually Wins?"
 description: "In-depth comparison of Perplexity AI vs ChatGPT in 2026. We test real-time search, accuracy, pricing, and use cases so you can pick the right tool."
-pubDate: Mar 19 2026
-heroImage: "/blog-placeholder-2.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["AI Tools", "Perplexity AI", "ChatGPT", "AI Comparison", "AI Search"]
 ---
 

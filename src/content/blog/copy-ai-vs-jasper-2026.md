@@ -1,7 +1,7 @@
 ---
 title: "Copy.ai vs Jasper AI 2026: Which AI Writing Tool Is Worth Your Money?"
 description: "An in-depth comparison of Copy.ai vs Jasper AI in 2026. We tested both tools across 15+ use cases to find out which delivers better ROI for marketers and content teams."
-pubDate: Mar 19 2026
+pubDate: 2026-03-19
 heroImage: "/images/copy-ai-vs-jasper.jpg"
 tags: ["ai writing tools", "copy.ai review", "jasper ai review", "ai content generation", "comparison"]
 ---

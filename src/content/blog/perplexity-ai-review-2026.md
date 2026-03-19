@@ -1,8 +1,8 @@
 ---
 title: "Perplexity AI Review 2026: The Best AI Search Engine?"
 description: "An in-depth review of Perplexity AI — how it compares to Google, ChatGPT, and Claude for research. Is Perplexity Pro worth $20/month?"
-pubDate: "Mar 19 2026"
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: 2026-03-19
+heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["ai-search", "perplexity", "review", "research-tools"]
 ---
 

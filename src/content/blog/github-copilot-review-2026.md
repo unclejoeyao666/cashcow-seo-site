@@ -2,7 +2,7 @@
 title: "GitHub Copilot Review 2026: Is It Still the Best AI Coding Assistant?"
 description: "An in-depth GitHub Copilot review for 2026. Features, pricing, performance vs Cursor & Tabnine, and whether it's worth $10–$19/month for developers."
 pubDate: "2026-03-19"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["github copilot", "ai coding tools", "developer tools", "code completion", "review"]
 ---
 
