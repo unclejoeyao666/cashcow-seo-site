@@ -33,13 +33,15 @@ const topTools = [
   { name: 'Cursor IDE', badge: 'Best for Devs', rating: 5, price: '$20/mo', link: 'https://cursor.com/', desc: 'AI-first code editor. Understands your entire codebase.' },
 ];
 
+const totalArticles = allPosts.filter(post => !SKIP_IDS.includes(post.id)).length;
+
 const websiteSchema = {
   "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://joevonlong.github.io/ai-tools-hub/#website",
-      "url": "https://joevonlong.github.io/ai-tools-hub/",
+      "@id": "https://unclejoeyao666.github.io/cashcow-seo-site/#website",
+      "url": "https://unclejoeyao666.github.io/cashcow-seo-site/",
       "name": "AI Tools Hub",
       "description": SITE_DESCRIPTION,
     },
@@ -299,8 +301,8 @@ const websiteSchema = {
         <a href={`${base}/blog`} class="btn-outline">Read Reviews</a>
       </div>
       <div class="hero-stats">
-        <div class="hero-stat"><span class="num">60+</span><span class="lbl">Tools Reviewed</span></div>
-        <div class="hero-stat"><span class="num">70+</span><span class="lbl">In-Depth Articles</span></div>
+        <div class="hero-stat"><span class="num">80+</span><span class="lbl">Tools Reviewed</span></div>
+        <div class="hero-stat"><span class="num">{totalArticles}+</span><span class="lbl">In-Depth Articles</span></div>
         <div class="hero-stat"><span class="num">100%</span><span class="lbl">Independent</span></div>
         <div class="hero-stat"><span class="num">2026</span><span class="lbl">Up to Date</span></div>
       </div>

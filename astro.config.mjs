@@ -6,7 +6,7 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://joevonlong.github.io',
-	base: '/ai-tools-hub',
+	site: 'https://unclejoeyao666.github.io',
+	base: '/cashcow-seo-site',
 	integrations: [mdx(), sitemap()],
 });
