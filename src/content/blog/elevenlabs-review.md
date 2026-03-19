@@ -1,7 +1,7 @@
 ---
 title: "ElevenLabs Review 2026: The Best AI Voice Generator? (Honest & In-Depth)"
 description: "A complete ElevenLabs review covering features, pricing, voice quality, and alternatives. Find out if ElevenLabs is worth it for your project."
-date: 2026-03-19
+pubDate: 2026-03-19
 tags: ["ai-tools", "text-to-speech", "voice-ai", "review"]
 author: "Shell"
 affiliate: true

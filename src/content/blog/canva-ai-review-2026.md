@@ -1,11 +1,10 @@
 ---
 title: "Canva AI Review 2026: Is the Magic Studio Worth It? (Honest & In-Depth)"
 description: "Complete Canva AI review covering Magic Studio features, pricing, AI image generation, text-to-design, and whether Canva Pro is worth upgrading for the AI tools."
-date: 2026-03-19
+pubDate: 2026-03-19
 tags: ["ai-tools", "design", "review", "canva", "image-generation"]
 author: "Shell"
 affiliate: true
-heroImage: "/images/canva-ai-review-2026.jpg"
 ---
 
 # Canva AI Review 2026: Is the Magic Studio Worth It?
