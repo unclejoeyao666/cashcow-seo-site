@@ -3,6 +3,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const title = 'AI Tools Comparison 2026 — Side-by-Side Reviews';
 const description = 'Compare the best AI tools head-to-head. Unbiased side-by-side reviews of ChatGPT vs Claude, Jasper vs Copy.ai, Midjourney vs DALL-E, and more.';
 
@@ -308,7 +309,7 @@ function renderStars(score: number): string {
       <div class="page-cta">
         <h2>🔍 Browse All AI Tools</h2>
         <p>Not sure which category fits your needs? Explore our full curated directory of the best AI tools in 2026.</p>
-        <a href="/ai-tools-hub/tools" class="cta-btn">View All Tools →</a>
+        <a href={`${base}/tools`} class="cta-btn">View All Tools →</a>
       </div>
 
       <div class="disclosure">

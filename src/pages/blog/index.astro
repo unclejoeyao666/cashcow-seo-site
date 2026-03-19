@@ -3,112 +3,197 @@
 import { getCollection } from 'astro:content';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
-import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 
-const posts = (await getCollection('blog')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
-);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const TITLE = 'AI Tool Reviews 2026 — All Articles | AIToolsHub';
+const DESC = 'In-depth, honest reviews of the best AI tools. Updated for 2026.';
+
+const SKIP_SLUGS = ['first-post', 'second-post', 'third-post', 'markdown-style-guide', 'using-mdx'];
+
+const allPosts = (await getCollection('blog'))
+  .filter(p => !SKIP_SLUGS.includes(p.id))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const CATEGORIES = [
+  { label: 'All', value: '' },
+  { label: '✍️ Writing', value: 'writing' },
+  { label: '💻 Coding', value: 'coding' },
+  { label: '🎨 Images', value: 'images' },
+  { label: '📈 SEO', value: 'seo' },
+  { label: '🎙️ Voice/Video', value: 'video' },
+  { label: '💰 Affiliate', value: 'affiliate' },
+];
 ---
 
 <!doctype html>
 <html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-		<style>
-			main {
-				width: 960px;
-			}
-			ul {
-				display: flex;
-				flex-wrap: wrap;
-				gap: 2rem;
-				list-style-type: none;
-				margin: 0;
-				padding: 0;
-			}
-			ul li {
-				width: calc(50% - 1rem);
-			}
-			ul li * {
-				text-decoration: none;
-				transition: 0.2s ease;
-			}
-			ul li:first-child {
-				width: 100%;
-				margin-bottom: 1rem;
-				text-align: center;
-			}
-			ul li:first-child img {
-				width: 100%;
-			}
-			ul li:first-child .title {
-				font-size: 2.369rem;
-			}
-			ul li img {
-				margin-bottom: 0.5rem;
-				border-radius: 12px;
-			}
-			ul li a {
-				display: block;
-			}
-			.title {
-				margin: 0;
-				color: rgb(var(--black));
-				line-height: 1;
-			}
-			.date {
-				margin: 0;
-				color: rgb(var(--gray));
-			}
-			ul li a:hover h4,
-			ul li a:hover .date {
-				color: rgb(var(--accent));
-			}
-			ul a:hover img {
-				box-shadow: var(--box-shadow);
-			}
-			@media (max-width: 720px) {
-				ul {
-					gap: 0.5em;
-				}
-				ul li {
-					width: 100%;
-					text-align: center;
-				}
-				ul li:first-child {
-					margin-bottom: 0;
-				}
-				ul li:first-child .title {
-					font-size: 1.563em;
-				}
-			}
-		</style>
-	</head>
-	<body>
-		<Header />
-		<main>
-			<section>
-				<ul>
-					{
-						posts.map((post) => (
-							<li>
-								<a href={`/blog/${post.id}/`}>
-									{post.data.heroImage && (
-										<img width={720} height={360} src={post.data.heroImage} alt={post.data.title} />
-									)}
-									<h4 class="title">{post.data.title}</h4>
-									<p class="date">
-										<FormattedDate date={post.data.pubDate} />
-									</p>
-								</a>
-							</li>
-						))
-					}
-				</ul>
-			</section>
-		</main>
-		<Footer />
-	</body>
+  <head>
+    <BaseHead title={TITLE} description={DESC} />
+    <style>
+      .page-hero {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 3rem 1.5rem 2.5rem;
+        text-align: center;
+      }
+      .page-hero h1 { font-size: clamp(1.6rem, 4vw, 2.4rem); margin: 0 0 0.6rem; color: white; }
+      .page-hero p { opacity: 0.9; max-width: 560px; margin: 0 auto; font-size: 1.05rem; }
+
+      .container {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 2rem 1.5rem 4rem;
+      }
+
+      .filter-bar {
+        display: flex;
+        gap: 0.5rem;
+        flex-wrap: wrap;
+        margin-bottom: 2rem;
+      }
+      .filter-btn {
+        padding: 0.4rem 0.9rem;
+        border-radius: 20px;
+        border: 1px solid #e5e7eb;
+        background: white;
+        font-size: 0.85rem;
+        cursor: pointer;
+        color: #374151;
+        transition: all 0.15s;
+        text-decoration: none;
+        display: inline-block;
+      }
+      .filter-btn:hover, .filter-btn.active {
+        background: #7c3aed;
+        color: white;
+        border-color: #7c3aed;
+      }
+
+      .posts-count {
+        font-size: 0.85rem;
+        color: #888;
+        margin-bottom: 1.5rem;
+      }
+
+      .posts-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 1.25rem;
+      }
+
+      .post-card {
+        background: white;
+        border: 1px solid #e5e7eb;
+        border-radius: 12px;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        text-decoration: none;
+        color: inherit;
+        transition: box-shadow 0.2s, transform 0.2s;
+      }
+      .post-card:hover {
+        box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+        transform: translateY(-3px);
+      }
+
+      .post-img {
+        width: 100%;
+        height: 160px;
+        object-fit: cover;
+        background: linear-gradient(135deg, #667eea22 0%, #764ba222 100%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 3rem;
+        color: #764ba2;
+      }
+      .post-img img { width: 100%; height: 100%; object-fit: cover; }
+
+      .post-body {
+        padding: 1.2rem;
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+      }
+      .post-title {
+        font-size: 0.98rem;
+        font-weight: 700;
+        color: #1a1a2e;
+        margin: 0 0 0.5rem;
+        line-height: 1.4;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+      .post-desc {
+        font-size: 0.83rem;
+        color: #6b7280;
+        margin: 0;
+        line-height: 1.5;
+        flex: 1;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+      .post-meta {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 0.8rem;
+        padding-top: 0.8rem;
+        border-top: 1px solid #f3f4f6;
+        font-size: 0.75rem;
+        color: #9ca3af;
+      }
+      .read-more {
+        color: #7c3aed;
+        font-weight: 600;
+        font-size: 0.8rem;
+      }
+
+      @media (max-width: 600px) {
+        .posts-grid { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <Header />
+
+    <div class="page-hero">
+      <h1>📚 AI Tool Reviews 2026</h1>
+      <p>{allPosts.length} honest, in-depth reviews — updated regularly</p>
+    </div>
+
+    <div class="container">
+      <p class="posts-count">Showing {allPosts.length} articles</p>
+
+      <div class="posts-grid">
+        {allPosts.map(post => (
+          <a href={`${base}/blog/${post.id}`} class="post-card">
+            <div class="post-img">
+              {post.data.heroImage
+                ? <img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+                : <span>🤖</span>
+              }
+            </div>
+            <div class="post-body">
+              <div class="post-title">{post.data.title}</div>
+              <p class="post-desc">{post.data.description}</p>
+              <div class="post-meta">
+                <time>{post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</time>
+                <span class="read-more">Read →</span>
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+
+    <Footer />
+  </body>
 </html>

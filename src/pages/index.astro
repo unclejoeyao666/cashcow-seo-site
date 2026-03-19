@@ -4,29 +4,33 @@ import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import { getCollection } from 'astro:content';
 
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
 const SITE_TITLE = 'AI Tools Hub 2026 — Honest Reviews & Comparisons';
-const SITE_DESCRIPTION = 'Find the best AI tools for writing, coding, image generation, and productivity. Unbiased reviews, side-by-side comparisons, and expert recommendations to maximize your ROI.';
+const SITE_DESCRIPTION = 'Find the best AI tools for writing, coding, image generation, and productivity. Unbiased reviews, side-by-side comparisons, and expert recommendations.';
+
+const SKIP_IDS = ['first-post', 'second-post', 'third-post', 'markdown-style-guide', 'using-mdx'];
 
 const allPosts = await getCollection('blog');
 const recentPosts = allPosts
-  .filter(post => !['first-post', 'second-post', 'third-post', 'markdown-style-guide', 'using-mdx'].includes(post.slug))
+  .filter(post => !SKIP_IDS.includes(post.id))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 6);
 
 const featuredCategories = [
-  { icon: '✍️', name: 'AI Writing', link: '/ai-tools-hub/blog/best-ai-writing-tools-2026', count: '12 reviews' },
-  { icon: '💻', name: 'AI Coding', link: '/ai-tools-hub/blog/best-ai-coding-assistants-2026', count: '8 reviews' },
-  { icon: '🎨', name: 'AI Images', link: '/ai-tools-hub/blog/best-ai-image-generators-2026', count: '10 reviews' },
-  { icon: '📈', name: 'AI SEO', link: '/ai-tools-hub/blog/best-ai-seo-tools-2026', count: '7 reviews' },
-  { icon: '🎙️', name: 'AI Voice', link: '/ai-tools-hub/blog/elevenlabs-review', count: '5 reviews' },
-  { icon: '🤖', name: 'AI Productivity', link: '/ai-tools-hub/blog/best-ai-productivity-tools-2026', count: '15 reviews' },
+  { icon: '✍️', name: 'AI Writing', link: `${base}/blog/best-ai-writing-tools-2026`, count: '12 reviews' },
+  { icon: '💻', name: 'AI Coding', link: `${base}/blog/best-ai-coding-assistants-2026`, count: '8 reviews' },
+  { icon: '🎨', name: 'AI Images', link: `${base}/blog/best-ai-image-generators-2026`, count: '10 reviews' },
+  { icon: '📈', name: 'AI SEO', link: `${base}/blog/best-ai-seo-tools-2026`, count: '7 reviews' },
+  { icon: '🎙️', name: 'AI Voice', link: `${base}/blog/elevenlabs-review`, count: '5 reviews' },
+  { icon: '🤖', name: 'AI Productivity', link: `${base}/blog/best-ai-productivity-tools-2026`, count: '15 reviews' },
 ];
 
 const topTools = [
-  { name: 'Claude AI', badge: "Editor's Choice", rating: 5, price: 'Free / $20/mo', link: 'https://claude.ai/?ref=aitoolshub2026', desc: 'Best for writing, coding & analysis. Superior reasoning capabilities.' },
-  { name: 'ChatGPT Plus', badge: 'Most Popular', rating: 5, price: '$20/mo', link: 'https://chat.openai.com/?ref=aitoolshub2026', desc: 'The most versatile AI assistant. DALL-E 3, code interpreter & plugins.' },
-  { name: 'Midjourney', badge: 'Best Images', rating: 5, price: 'From $10/mo', link: 'https://www.midjourney.com/?ref=aitoolshub2026', desc: 'Stunning AI art generation. Industry standard for visual content.' },
-  { name: 'Cursor IDE', badge: 'Best for Devs', rating: 5, price: '$20/mo', link: 'https://cursor.com/?ref=aitoolshub2026', desc: 'AI-first code editor. Understands your entire codebase.' },
+  { name: 'Claude AI', badge: "Editor's Choice", rating: 5, price: 'Free / $20/mo', link: 'https://claude.ai/', desc: 'Best for writing, coding & analysis. Superior reasoning and accuracy.' },
+  { name: 'ChatGPT Plus', badge: 'Most Popular', rating: 5, price: '$20/mo', link: 'https://chat.openai.com/', desc: 'The most versatile AI assistant. DALL-E 3, code interpreter & plugins.' },
+  { name: 'Midjourney', badge: 'Best Images', rating: 5, price: 'From $10/mo', link: 'https://www.midjourney.com/', desc: 'Stunning AI art generation. Industry standard for visual content.' },
+  { name: 'Cursor IDE', badge: 'Best for Devs', rating: 5, price: '$20/mo', link: 'https://cursor.com/', desc: 'AI-first code editor. Understands your entire codebase.' },
 ];
 
 const websiteSchema = {
@@ -38,19 +42,7 @@ const websiteSchema = {
       "url": "https://joevonlong.github.io/ai-tools-hub/",
       "name": "AI Tools Hub",
       "description": SITE_DESCRIPTION,
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": "https://joevonlong.github.io/ai-tools-hub/blog?q={search_term_string}",
-        "query-input": "required name=search_term_string"
-      }
     },
-    {
-      "@type": "Organization",
-      "@id": "https://joevonlong.github.io/ai-tools-hub/#org",
-      "name": "AI Tools Hub",
-      "url": "https://joevonlong.github.io/ai-tools-hub/",
-      "logo": "https://joevonlong.github.io/ai-tools-hub/favicon.svg"
-    }
   ]
 };
 ---
@@ -61,57 +53,37 @@ const websiteSchema = {
     <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
     <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
     <style>
-      /* Hero Section */
+      /* ─── Hero ─── */
       .hero {
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         color: white;
-        padding: 4rem 1.5rem;
+        padding: 4.5rem 1.5rem 3.5rem;
         text-align: center;
       }
       .hero-badge {
         display: inline-block;
-        background: rgba(255,255,255,0.2);
-        border: 1px solid rgba(255,255,255,0.4);
+        background: rgba(255,255,255,0.18);
+        border: 1px solid rgba(255,255,255,0.35);
         border-radius: 20px;
         padding: 0.3rem 1rem;
-        font-size: 0.85rem;
+        font-size: 0.82rem;
         margin-bottom: 1.2rem;
-        backdrop-filter: blur(10px);
+        letter-spacing: 0.02em;
       }
       .hero h1 {
-        font-size: clamp(1.8rem, 5vw, 3.2rem);
+        font-size: clamp(1.8rem, 5vw, 3rem);
         font-weight: 800;
-        margin: 0 0 1rem 0;
+        margin: 0 0 1rem;
         line-height: 1.2;
         color: white;
       }
       .hero p {
-        font-size: 1.15rem;
-        opacity: 0.9;
-        max-width: 620px;
+        font-size: 1.1rem;
+        opacity: 0.92;
+        max-width: 600px;
         margin: 0 auto 2rem;
-        color: white;
+        line-height: 1.6;
       }
-      .hero-stats {
-        display: flex;
-        justify-content: center;
-        gap: 2.5rem;
-        flex-wrap: wrap;
-        margin-top: 2rem;
-      }
-      .hero-stat {
-        text-align: center;
-      }
-      .hero-stat .num {
-        font-size: 1.8rem;
-        font-weight: 800;
-        display: block;
-      }
-      .hero-stat .lbl {
-        font-size: 0.8rem;
-        opacity: 0.8;
-      }
-      /* CTA Buttons */
       .hero-ctas {
         display: flex;
         gap: 1rem;
@@ -121,136 +93,145 @@ const websiteSchema = {
       .btn-primary {
         background: white;
         color: #764ba2;
-        padding: 0.75rem 1.8rem;
+        padding: 0.8rem 2rem;
         border-radius: 8px;
         font-weight: 700;
         text-decoration: none;
         font-size: 1rem;
-        transition: transform 0.2s;
+        transition: transform 0.2s, box-shadow 0.2s;
+        display: inline-block;
       }
-      .btn-primary:hover { transform: translateY(-2px); }
+      .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,0.2); }
       .btn-outline {
         background: transparent;
         color: white;
         border: 2px solid rgba(255,255,255,0.7);
-        padding: 0.75rem 1.8rem;
+        padding: 0.8rem 2rem;
         border-radius: 8px;
         font-weight: 600;
         text-decoration: none;
         font-size: 1rem;
         transition: background 0.2s;
+        display: inline-block;
       }
       .btn-outline:hover { background: rgba(255,255,255,0.15); }
+      .hero-stats {
+        display: flex;
+        justify-content: center;
+        gap: 3rem;
+        flex-wrap: wrap;
+        margin-top: 3rem;
+        padding-top: 2rem;
+        border-top: 1px solid rgba(255,255,255,0.2);
+      }
+      .hero-stat .num { font-size: 2rem; font-weight: 800; display: block; }
+      .hero-stat .lbl { font-size: 0.78rem; opacity: 0.75; letter-spacing: 0.04em; text-transform: uppercase; }
 
-      /* Main content */
+      /* ─── Layout ─── */
       .container {
         max-width: 1100px;
         margin: 0 auto;
         padding: 0 1.5rem;
       }
-
-      /* Section titles */
       .section-header {
         text-align: center;
-        margin: 3.5rem 0 2rem;
+        margin: 4rem 0 1.75rem;
       }
-      .section-header h2 {
-        font-size: 1.9rem;
-        font-weight: 800;
-        margin: 0 0 0.5rem;
-      }
-      .section-header p {
-        color: #666;
-        font-size: 1.05rem;
-        margin: 0;
-      }
+      .section-header h2 { font-size: 1.8rem; font-weight: 800; margin: 0 0 0.4rem; }
+      .section-header p { color: #6b7280; font-size: 1rem; margin: 0; }
 
-      /* Top Tools Grid */
+      /* ─── Top Tools ─── */
       .tools-grid {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
         gap: 1.2rem;
-        margin-bottom: 2rem;
+        margin-bottom: 1rem;
       }
       .tool-card {
         background: white;
         border: 1px solid #e5e7eb;
-        border-radius: 12px;
-        padding: 1.4rem;
-        transition: box-shadow 0.2s, transform 0.2s;
+        border-radius: 14px;
+        padding: 1.5rem;
         text-decoration: none;
         color: inherit;
         display: block;
+        transition: box-shadow 0.2s, transform 0.2s;
+        position: relative;
+        overflow: hidden;
+      }
+      .tool-card::before {
+        content: '';
+        position: absolute;
+        top: 0; left: 0; right: 0;
+        height: 3px;
+        background: linear-gradient(90deg, #667eea, #764ba2);
       }
       .tool-card:hover {
-        box-shadow: 0 8px 25px rgba(0,0,0,0.1);
-        transform: translateY(-3px);
+        box-shadow: 0 10px 30px rgba(118,75,162,0.15);
+        transform: translateY(-4px);
       }
       .tool-badge {
         display: inline-block;
-        background: #f3e8ff;
+        background: #ede9fe;
         color: #7c3aed;
-        font-size: 0.72rem;
+        font-size: 0.7rem;
         font-weight: 700;
-        padding: 0.2rem 0.6rem;
+        padding: 0.2rem 0.65rem;
         border-radius: 20px;
-        margin-bottom: 0.6rem;
+        margin-bottom: 0.7rem;
         text-transform: uppercase;
-        letter-spacing: 0.05em;
+        letter-spacing: 0.06em;
       }
-      .tool-name {
-        font-size: 1.1rem;
-        font-weight: 700;
-        margin: 0 0 0.3rem;
-      }
-      .tool-stars {
-        color: #f59e0b;
-        font-size: 0.9rem;
-        margin-bottom: 0.4rem;
-      }
-      .tool-price {
-        font-size: 0.8rem;
-        color: #059669;
-        font-weight: 600;
-        margin-bottom: 0.5rem;
-      }
-      .tool-desc {
-        font-size: 0.88rem;
-        color: #666;
-        line-height: 1.5;
-        margin: 0;
-      }
+      .tool-name { font-size: 1.15rem; font-weight: 700; margin: 0 0 0.25rem; }
+      .tool-stars { color: #f59e0b; font-size: 0.9rem; margin-bottom: 0.3rem; }
+      .tool-price { font-size: 0.8rem; color: #059669; font-weight: 600; margin-bottom: 0.6rem; }
+      .tool-desc { font-size: 0.85rem; color: #6b7280; line-height: 1.5; margin: 0; }
 
-      /* Category cards */
+      /* ─── Trust bar ─── */
+      .trust-bar {
+        background: #faf5ff;
+        border: 1px solid #e9d5ff;
+        border-radius: 10px;
+        padding: 1.2rem 1.5rem;
+        text-align: center;
+        color: #6b7280;
+        font-size: 0.85rem;
+        margin: 2.5rem 0;
+        line-height: 1.6;
+      }
+      .trust-bar strong { color: #4b5563; }
+
+      /* ─── Categories ─── */
       .categories-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
         gap: 1rem;
-        margin-bottom: 1rem;
       }
       .category-card {
         background: white;
         border: 1px solid #e5e7eb;
-        border-radius: 10px;
-        padding: 1.2rem 1rem;
+        border-radius: 12px;
+        padding: 1.4rem 1rem;
         text-align: center;
         text-decoration: none;
         color: inherit;
-        transition: box-shadow 0.2s, border-color 0.2s;
+        transition: box-shadow 0.2s, border-color 0.2s, transform 0.2s;
+        display: block;
       }
       .category-card:hover {
-        box-shadow: 0 4px 15px rgba(118,75,162,0.15);
-        border-color: #764ba2;
+        box-shadow: 0 6px 20px rgba(118,75,162,0.12);
+        border-color: #a78bfa;
+        transform: translateY(-2px);
       }
-      .cat-icon { font-size: 1.8rem; margin-bottom: 0.4rem; }
-      .cat-name { font-weight: 700; font-size: 0.9rem; display: block; }
-      .cat-count { font-size: 0.78rem; color: #888; }
+      .cat-icon { font-size: 2rem; display: block; margin-bottom: 0.5rem; }
+      .cat-name { font-weight: 700; font-size: 0.9rem; display: block; color: #1f2937; }
+      .cat-count { font-size: 0.75rem; color: #9ca3af; margin-top: 0.2rem; display: block; }
 
-      /* Recent posts */
+      /* ─── Recent posts ─── */
       .posts-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-        gap: 1.2rem;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 1.25rem;
       }
       .post-card {
         background: white;
@@ -259,63 +240,49 @@ const websiteSchema = {
         padding: 1.4rem;
         text-decoration: none;
         color: inherit;
-        display: block;
-        transition: box-shadow 0.2s;
+        display: flex;
+        flex-direction: column;
+        transition: box-shadow 0.2s, transform 0.2s;
       }
-      .post-card:hover { box-shadow: 0 4px 20px rgba(0,0,0,0.08); }
-      .post-title {
-        font-size: 1rem;
-        font-weight: 700;
-        margin: 0 0 0.5rem;
-        line-height: 1.4;
-        color: #1a1a2e;
+      .post-card:hover {
+        box-shadow: 0 6px 25px rgba(0,0,0,0.09);
+        transform: translateY(-2px);
       }
-      .post-desc {
-        font-size: 0.85rem;
-        color: #666;
-        margin: 0;
-        line-height: 1.5;
-        display: -webkit-box;
-        -webkit-line-clamp: 3;
-        -webkit-box-orient: vertical;
-        overflow: hidden;
-      }
-      .post-date {
-        font-size: 0.75rem;
-        color: #aaa;
-        margin-top: 0.7rem;
-        display: block;
-      }
+      .post-title { font-size: 0.97rem; font-weight: 700; margin: 0 0 0.5rem; line-height: 1.4; color: #111827; }
+      .post-desc { font-size: 0.83rem; color: #6b7280; margin: 0; line-height: 1.5; flex: 1; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+      .post-footer { display: flex; justify-content: space-between; align-items: center; margin-top: 0.9rem; padding-top: 0.75rem; border-top: 1px solid #f3f4f6; }
+      .post-date { font-size: 0.75rem; color: #9ca3af; }
+      .post-read { font-size: 0.78rem; color: #7c3aed; font-weight: 600; }
 
-      /* Trust bar */
-      .trust-bar {
-        background: #f9fafb;
-        border-top: 1px solid #e5e7eb;
-        border-bottom: 1px solid #e5e7eb;
-        padding: 1.5rem;
-        text-align: center;
-        color: #666;
-        font-size: 0.88rem;
-        margin: 3rem 0;
-      }
-      .trust-bar strong { color: #333; }
-
-      /* CTA Banner */
+      /* ─── CTA Banner ─── */
       .cta-banner {
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         color: white;
-        border-radius: 16px;
-        padding: 2.5rem 2rem;
+        border-radius: 18px;
+        padding: 3rem 2rem;
         text-align: center;
-        margin: 3rem 0 4rem;
+        margin: 4rem 0 5rem;
       }
-      .cta-banner h2 { color: white; margin: 0 0 0.7rem; font-size: 1.6rem; }
-      .cta-banner p { color: rgba(255,255,255,0.9); margin: 0 0 1.5rem; }
+      .cta-banner h2 { color: white; margin: 0 0 0.7rem; font-size: 1.7rem; }
+      .cta-banner p { color: rgba(255,255,255,0.88); margin: 0 0 1.8rem; font-size: 1.05rem; }
+      .btn-white {
+        background: white;
+        color: #764ba2;
+        padding: 0.85rem 2.2rem;
+        border-radius: 8px;
+        font-weight: 700;
+        text-decoration: none;
+        font-size: 1rem;
+        display: inline-block;
+        transition: transform 0.2s;
+      }
+      .btn-white:hover { transform: translateY(-2px); }
 
       @media (max-width: 600px) {
-        .hero { padding: 2.5rem 1rem; }
+        .hero { padding: 3rem 1rem 2.5rem; }
         .hero-stats { gap: 1.5rem; }
         .tools-grid { grid-template-columns: 1fr; }
+        .posts-grid { grid-template-columns: 1fr; }
       }
     </style>
   </head>
@@ -325,15 +292,15 @@ const websiteSchema = {
     <!-- Hero -->
     <section class="hero">
       <div class="hero-badge">🔍 Independent AI Tool Reviews — No Paid Placements</div>
-      <h1>Find the Best AI Tools for Your Business in 2026</h1>
+      <h1>Find the Best AI Tools<br/>for Your Business in 2026</h1>
       <p>Honest, data-driven reviews and comparisons. We test every tool so you don't waste money on the wrong one.</p>
       <div class="hero-ctas">
-        <a href="/ai-tools-hub/tools" class="btn-primary">Browse All AI Tools →</a>
-        <a href="/ai-tools-hub/blog" class="btn-outline">Read Reviews</a>
+        <a href={`${base}/tools`} class="btn-primary">Browse All AI Tools →</a>
+        <a href={`${base}/blog`} class="btn-outline">Read Reviews</a>
       </div>
       <div class="hero-stats">
         <div class="hero-stat"><span class="num">60+</span><span class="lbl">Tools Reviewed</span></div>
-        <div class="hero-stat"><span class="num">50+</span><span class="lbl">In-Depth Articles</span></div>
+        <div class="hero-stat"><span class="num">70+</span><span class="lbl">In-Depth Articles</span></div>
         <div class="hero-stat"><span class="num">100%</span><span class="lbl">Independent</span></div>
         <div class="hero-stat"><span class="num">2026</span><span class="lbl">Up to Date</span></div>
       </div>
@@ -344,11 +311,11 @@ const websiteSchema = {
       <!-- Top Picks -->
       <div class="section-header">
         <h2>⭐ Our Top AI Tool Picks for 2026</h2>
-        <p>Tested and ranked by our team — updated monthly</p>
+        <p>Tested and ranked — updated monthly</p>
       </div>
       <div class="tools-grid">
         {topTools.map(tool => (
-          <a href={tool.link} class="tool-card" target="_blank" rel="noopener sponsored">
+          <a href={tool.link} class="tool-card" target="_blank" rel="noopener noreferrer">
             <div class="tool-badge">{tool.badge}</div>
             <div class="tool-name">{tool.name}</div>
             <div class="tool-stars">{'★'.repeat(tool.rating)}{'☆'.repeat(5 - tool.rating)}</div>
@@ -358,9 +325,9 @@ const websiteSchema = {
         ))}
       </div>
 
-      <!-- Trust Bar -->
+      <!-- Trust bar -->
       <div class="trust-bar">
-        <strong>How we review:</strong> We purchase and test every tool ourselves. Our reviews contain affiliate links — if you buy through them, we earn a small commission at no extra cost to you. This keeps our reviews free and independent.
+        <strong>How we review:</strong> We purchase and test every tool ourselves. Our reviews contain affiliate links — if you buy through them, we earn a small commission at no extra cost to you. This keeps our site free and independent.
       </div>
 
       <!-- Categories -->
@@ -371,7 +338,7 @@ const websiteSchema = {
       <div class="categories-grid">
         {featuredCategories.map(cat => (
           <a href={cat.link} class="category-card">
-            <div class="cat-icon">{cat.icon}</div>
+            <span class="cat-icon">{cat.icon}</span>
             <span class="cat-name">{cat.name}</span>
             <span class="cat-count">{cat.count}</span>
           </a>
@@ -385,22 +352,25 @@ const websiteSchema = {
       </div>
       <div class="posts-grid">
         {recentPosts.map(post => (
-          <a href={`/ai-tools-hub/blog/${post.slug}`} class="post-card">
+          <a href={`${base}/blog/${post.id}`} class="post-card">
             <div class="post-title">{post.data.title}</div>
             <p class="post-desc">{post.data.description}</p>
-            <span class="post-date">{post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</span>
+            <div class="post-footer">
+              <time class="post-date">{post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</time>
+              <span class="post-read">Read review →</span>
+            </div>
           </a>
         ))}
       </div>
       <div style="text-align:center; margin: 2rem 0;">
-        <a href="/ai-tools-hub/blog" class="btn-primary" style="background: #764ba2; color: white; display: inline-block;">View All Reviews →</a>
+        <a href={`${base}/blog`} class="btn-primary" style="background:#764ba2;color:white;">View All {allPosts.filter(p => !SKIP_IDS.includes(p.id)).length} Reviews →</a>
       </div>
 
       <!-- CTA Banner -->
       <div class="cta-banner">
         <h2>Not Sure Which AI Tool Is Right for You?</h2>
         <p>Compare tools side-by-side and find the perfect match for your workflow and budget.</p>
-        <a href="/ai-tools-hub/compare" class="btn-primary">Compare AI Tools →</a>
+        <a href={`${base}/compare`} class="btn-white">Compare AI Tools →</a>
       </div>
 
     </div>
