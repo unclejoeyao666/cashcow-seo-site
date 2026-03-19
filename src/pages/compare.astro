@@ -1,0 +1,321 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const title = 'AI Tools Comparison 2026 — Side-by-Side Reviews';
+const description = 'Compare the best AI tools head-to-head. Unbiased side-by-side reviews of ChatGPT vs Claude, Jasper vs Copy.ai, Midjourney vs DALL-E, and more.';
+
+const comparisons = [
+  {
+    slug: 'chatgpt-vs-claude',
+    title: 'ChatGPT vs Claude',
+    category: 'AI Writing & Chat',
+    verdict: 'Claude wins for coding & analysis; ChatGPT wins for plugins & DALL-E',
+    toolA: { name: 'ChatGPT', score: 4.5, price: '$20/mo', affiliate: 'https://chat.openai.com?ref=aitoolsreview', badge: 'Most Popular' },
+    toolB: { name: 'Claude', score: 4.6, price: '$20/mo', affiliate: 'https://claude.ai?ref=aitoolsreview', badge: 'Best for Coding' },
+    updated: '2026-03-01'
+  },
+  {
+    slug: 'jasper-vs-copyai',
+    title: 'Jasper vs Copy.ai',
+    category: 'AI Copywriting',
+    verdict: 'Jasper wins for teams & brand voice; Copy.ai wins for solo creators on a budget',
+    toolA: { name: 'Jasper AI', score: 4.4, price: '$49/mo', affiliate: 'https://jasper.ai?fpr=aitoolsreview', badge: 'Best for Teams' },
+    toolB: { name: 'Copy.ai', score: 4.2, price: '$36/mo', affiliate: 'https://copy.ai?ref=aitoolsreview', badge: 'Best Value' },
+    updated: '2026-02-15'
+  },
+  {
+    slug: 'midjourney-vs-dalle',
+    title: 'Midjourney vs DALL-E 3',
+    category: 'AI Image Generation',
+    verdict: 'Midjourney wins for artistic quality; DALL-E 3 wins for accuracy & ChatGPT integration',
+    toolA: { name: 'Midjourney', score: 4.8, price: '$10/mo', affiliate: 'https://midjourney.com?ref=aitoolsreview', badge: 'Best Quality' },
+    toolB: { name: 'DALL-E 3', score: 4.3, price: 'via ChatGPT Plus', affiliate: 'https://openai.com?ref=aitoolsreview', badge: 'Best Accuracy' },
+    updated: '2026-03-01'
+  },
+  {
+    slug: 'github-copilot-vs-cursor',
+    title: 'GitHub Copilot vs Cursor',
+    category: 'AI Coding',
+    verdict: 'Cursor wins for full codebase understanding; Copilot wins for IDE integration',
+    toolA: { name: 'GitHub Copilot', score: 4.5, price: '$10/mo', affiliate: 'https://github.com/features/copilot?ref=aitoolsreview', badge: 'Most Widely Used' },
+    toolB: { name: 'Cursor', score: 4.7, price: '$20/mo', affiliate: 'https://cursor.com?ref=aitoolsreview', badge: 'Best AI IDE' },
+    updated: '2026-03-10'
+  },
+  {
+    slug: 'elevenlabs-vs-murf',
+    title: 'ElevenLabs vs Murf AI',
+    category: 'AI Voice Generation',
+    verdict: 'ElevenLabs wins for realism & cloning; Murf wins for presentations & video',
+    toolA: { name: 'ElevenLabs', score: 4.8, price: '$5/mo', affiliate: 'https://elevenlabs.io?ref=aitoolsreview', badge: 'Most Realistic' },
+    toolB: { name: 'Murf AI', score: 4.3, price: '$19/mo', affiliate: 'https://murf.ai?ref=aitoolsreview', badge: 'Best for Video' },
+    updated: '2026-02-20'
+  },
+  {
+    slug: 'surfer-seo-vs-clearscope',
+    title: 'Surfer SEO vs Clearscope',
+    category: 'AI SEO Tools',
+    verdict: 'Surfer wins for content optimization workflow; Clearscope wins for content quality scoring',
+    toolA: { name: 'Surfer SEO', score: 4.5, price: '$89/mo', affiliate: 'https://surferseo.com?ref=aitoolsreview', badge: 'Best All-in-One' },
+    toolB: { name: 'Clearscope', score: 4.3, price: '$170/mo', affiliate: 'https://clearscope.io?ref=aitoolsreview', badge: 'Best Quality Score' },
+    updated: '2026-02-28'
+  }
+];
+
+function renderStars(score: number): string {
+  const full = Math.floor(score);
+  const half = score % 1 >= 0.5;
+  return '★'.repeat(full) + (half ? '½' : '') + '☆'.repeat(5 - full - (half ? 1 : 0));
+}
+---
+
+<html lang="en">
+  <head>
+    <BaseHead title={title} description={description} />
+    <style>
+      body { font-family: system-ui, sans-serif; margin: 0; background: #f8fafc; color: #1e293b; }
+      
+      .hero {
+        background: linear-gradient(135deg, #1e3a5f 0%, #0f172a 100%);
+        color: white;
+        padding: 4rem 2rem;
+        text-align: center;
+      }
+      .hero h1 { font-size: 2.5rem; margin-bottom: 1rem; }
+      .hero p { font-size: 1.2rem; opacity: 0.85; max-width: 600px; margin: 0 auto; }
+      
+      .container { max-width: 1100px; margin: 0 auto; padding: 2rem; }
+      
+      .compare-grid {
+        display: grid;
+        gap: 2rem;
+        margin-top: 2rem;
+      }
+      
+      .compare-card {
+        background: white;
+        border-radius: 16px;
+        padding: 2rem;
+        box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+        border: 1px solid #e2e8f0;
+        transition: transform 0.2s, box-shadow 0.2s;
+      }
+      .compare-card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+      }
+      
+      .card-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        margin-bottom: 1.5rem;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+      }
+      .card-title { font-size: 1.4rem; font-weight: 700; margin: 0; color: #0f172a; }
+      .category-badge {
+        background: #e0f2fe;
+        color: #0369a1;
+        font-size: 0.75rem;
+        padding: 0.3rem 0.75rem;
+        border-radius: 100px;
+        font-weight: 600;
+      }
+      
+      .tools-row {
+        display: grid;
+        grid-template-columns: 1fr auto 1fr;
+        gap: 1rem;
+        align-items: center;
+        margin-bottom: 1.5rem;
+      }
+      
+      .tool-box {
+        background: #f8fafc;
+        border-radius: 12px;
+        padding: 1.25rem;
+        text-align: center;
+        border: 2px solid transparent;
+        position: relative;
+      }
+      .tool-box.winner { border-color: #22c55e; background: #f0fdf4; }
+      
+      .tool-badge {
+        position: absolute;
+        top: -10px;
+        left: 50%;
+        transform: translateX(-50%);
+        background: #0369a1;
+        color: white;
+        font-size: 0.65rem;
+        padding: 0.2rem 0.6rem;
+        border-radius: 100px;
+        white-space: nowrap;
+        font-weight: 700;
+      }
+      .winner .tool-badge { background: #16a34a; }
+      
+      .tool-name { font-size: 1.1rem; font-weight: 700; margin-bottom: 0.3rem; }
+      .tool-price { color: #64748b; font-size: 0.85rem; margin-bottom: 0.5rem; }
+      .tool-stars { color: #f59e0b; font-size: 1rem; }
+      .tool-score { color: #64748b; font-size: 0.8rem; }
+      
+      .vs-badge {
+        background: #e2e8f0;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 700;
+        font-size: 0.85rem;
+        color: #64748b;
+        flex-shrink: 0;
+        margin: 0 auto;
+      }
+      
+      .verdict {
+        background: #fffbeb;
+        border-left: 4px solid #f59e0b;
+        padding: 0.75rem 1rem;
+        border-radius: 0 8px 8px 0;
+        font-size: 0.9rem;
+        color: #78350f;
+        margin-bottom: 1.5rem;
+      }
+      .verdict strong { color: #92400e; }
+      
+      .card-actions {
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap;
+      }
+      .btn {
+        flex: 1;
+        text-align: center;
+        padding: 0.6rem 1rem;
+        border-radius: 8px;
+        font-weight: 600;
+        font-size: 0.85rem;
+        text-decoration: none;
+        transition: opacity 0.2s;
+        min-width: 120px;
+      }
+      .btn:hover { opacity: 0.85; }
+      .btn-primary { background: #2563eb; color: white; }
+      .btn-secondary { background: #f1f5f9; color: #374151; border: 1px solid #e2e8f0; }
+      
+      .meta { color: #94a3b8; font-size: 0.75rem; margin-top: 1rem; }
+      
+      .page-cta {
+        background: linear-gradient(135deg, #1e3a5f, #0f172a);
+        color: white;
+        text-align: center;
+        padding: 3rem 2rem;
+        border-radius: 16px;
+        margin-top: 3rem;
+      }
+      .page-cta h2 { font-size: 1.8rem; margin-bottom: 0.75rem; }
+      .page-cta p { opacity: 0.85; margin-bottom: 1.5rem; }
+      .cta-btn {
+        display: inline-block;
+        background: #2563eb;
+        color: white;
+        padding: 0.75rem 2rem;
+        border-radius: 8px;
+        font-weight: 700;
+        text-decoration: none;
+        transition: background 0.2s;
+      }
+      .cta-btn:hover { background: #1d4ed8; }
+      
+      .disclosure {
+        text-align: center;
+        color: #94a3b8;
+        font-size: 0.75rem;
+        margin-top: 2rem;
+        padding-top: 1rem;
+        border-top: 1px solid #e2e8f0;
+      }
+      
+      @media (max-width: 600px) {
+        .hero h1 { font-size: 1.8rem; }
+        .tools-row { grid-template-columns: 1fr; }
+        .vs-badge { display: none; }
+        .card-actions { flex-direction: column; }
+      }
+    </style>
+  </head>
+  <body>
+    <Header />
+
+    <div class="hero">
+      <h1>⚔️ AI Tools Head-to-Head</h1>
+      <p>Skip the hype. Get straight-to-the-point comparisons to find the right tool for your workflow.</p>
+    </div>
+
+    <div class="container">
+      <div class="compare-grid">
+        {comparisons.map((comp) => {
+          const aWins = comp.toolA.score >= comp.toolB.score;
+          return (
+            <div class="compare-card">
+              <div class="card-header">
+                <h2 class="card-title">{comp.title}</h2>
+                <span class="category-badge">{comp.category}</span>
+              </div>
+
+              <div class="tools-row">
+                <div class={`tool-box ${aWins ? 'winner' : ''}`}>
+                  <span class="tool-badge">{comp.toolA.badge}</span>
+                  <div class="tool-name">{comp.toolA.name}</div>
+                  <div class="tool-price">{comp.toolA.price}</div>
+                  <div class="tool-stars">{renderStars(comp.toolA.score)}</div>
+                  <div class="tool-score">{comp.toolA.score}/5</div>
+                </div>
+                <div class="vs-badge">VS</div>
+                <div class={`tool-box ${!aWins ? 'winner' : ''}`}>
+                  <span class="tool-badge">{comp.toolB.badge}</span>
+                  <div class="tool-name">{comp.toolB.name}</div>
+                  <div class="tool-price">{comp.toolB.price}</div>
+                  <div class="tool-stars">{renderStars(comp.toolB.score)}</div>
+                  <div class="tool-score">{comp.toolB.score}/5</div>
+                </div>
+              </div>
+
+              <div class="verdict">
+                <strong>📋 Quick Verdict:</strong> {comp.verdict}
+              </div>
+
+              <div class="card-actions">
+                <a href={comp.toolA.affiliate} class="btn btn-primary" target="_blank" rel="noopener">
+                  Try {comp.toolA.name} →
+                </a>
+                <a href={comp.toolB.affiliate} class="btn btn-secondary" target="_blank" rel="noopener">
+                  Try {comp.toolB.name} →
+                </a>
+              </div>
+
+              <div class="meta">Last updated: {comp.updated}</div>
+            </div>
+          );
+        })}
+      </div>
+
+      <div class="page-cta">
+        <h2>🔍 Browse All AI Tools</h2>
+        <p>Not sure which category fits your needs? Explore our full curated directory of the best AI tools in 2026.</p>
+        <a href="/ai-tools-hub/tools" class="cta-btn">View All Tools →</a>
+      </div>
+
+      <div class="disclosure">
+        <p>⚠️ Affiliate Disclosure: Some links on this page are affiliate links. We may earn a commission at no extra cost to you. Our reviews are independent and unbiased.</p>
+      </div>
+    </div>
+
+    <Footer />
+  </body>
+</html>

@@ -1,0 +1,275 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+const tools = [
+  {
+    category: "AI Writing & Content",
+    items: [
+      {
+        name: "Claude (Anthropic)",
+        desc: "Best AI for long-form writing, coding, and analysis. Used by professionals worldwide.",
+        badge: "Editor's Choice",
+        badgeColor: "#7c3aed",
+        link: "https://claude.ai/?ref=aitoolsreview",
+        price: "Free / $20/mo",
+        rating: 5,
+      },
+      {
+        name: "ChatGPT (OpenAI)",
+        desc: "The most popular AI chatbot. Great for brainstorming, drafting, and general tasks.",
+        badge: "Most Popular",
+        badgeColor: "#059669",
+        link: "https://chat.openai.com/?ref=aitoolsreview",
+        price: "Free / $20/mo",
+        rating: 5,
+      },
+      {
+        name: "Jasper AI",
+        desc: "AI writing platform designed for marketing teams. Templates for ads, blogs, social posts.",
+        badge: "Best for Marketing",
+        badgeColor: "#d97706",
+        link: "https://www.jasper.ai/?fpr=aitoolsreview",
+        price: "From $49/mo",
+        rating: 4,
+      },
+    ]
+  },
+  {
+    category: "AI Image Generation",
+    items: [
+      {
+        name: "Midjourney",
+        desc: "Industry-leading AI image generator. Produces stunning, photorealistic and artistic images.",
+        badge: "Best Quality",
+        badgeColor: "#7c3aed",
+        link: "https://www.midjourney.com/?ref=aitoolsreview",
+        price: "From $10/mo",
+        rating: 5,
+      },
+      {
+        name: "DALL-E 3 (via ChatGPT)",
+        desc: "OpenAI's image generator. Best at following complex text prompts accurately.",
+        badge: "Best Prompt Following",
+        badgeColor: "#059669",
+        link: "https://openai.com/dall-e-3?ref=aitoolsreview",
+        price: "Included in ChatGPT Plus",
+        rating: 4,
+      },
+      {
+        name: "Adobe Firefly",
+        desc: "Enterprise-safe AI image generation. Commercial-use safe images, integrated with Adobe CC.",
+        badge: "Enterprise Safe",
+        badgeColor: "#dc2626",
+        link: "https://www.adobe.com/products/firefly.html?ref=aitoolsreview",
+        price: "From $4.99/mo",
+        rating: 4,
+      },
+    ]
+  },
+  {
+    category: "AI Voice & Audio",
+    items: [
+      {
+        name: "ElevenLabs",
+        desc: "Most realistic AI voice synthesis. Perfect for podcasts, audiobooks, and content creation.",
+        badge: "Best Voice Quality",
+        badgeColor: "#7c3aed",
+        link: "https://elevenlabs.io/?ref=aitoolsreview",
+        price: "Free / From $5/mo",
+        rating: 5,
+      },
+      {
+        name: "Descript",
+        desc: "All-in-one audio/video editor with AI transcription, voice cloning, and overdub.",
+        badge: "Best for Podcasters",
+        badgeColor: "#d97706",
+        link: "https://www.descript.com/?ref=aitoolsreview",
+        price: "Free / From $12/mo",
+        rating: 4,
+      },
+    ]
+  },
+  {
+    category: "AI Coding Assistants",
+    items: [
+      {
+        name: "GitHub Copilot",
+        desc: "AI pair programmer integrated in VS Code, JetBrains, and more. Powered by OpenAI Codex.",
+        badge: "Most Used",
+        badgeColor: "#1f2937",
+        link: "https://github.com/features/copilot?ref=aitoolsreview",
+        price: "Free / $10/mo",
+        rating: 5,
+      },
+      {
+        name: "Cursor",
+        desc: "AI-first code editor built on VS Code. Chat with your codebase, auto-fix bugs, generate code.",
+        badge: "Fastest Growing",
+        badgeColor: "#059669",
+        link: "https://cursor.com/?ref=aitoolsreview",
+        price: "Free / $20/mo",
+        rating: 5,
+      },
+      {
+        name: "Tabnine",
+        desc: "Privacy-focused AI code completion. Self-hosted option available for enterprises.",
+        badge: "Best for Privacy",
+        badgeColor: "#7c3aed",
+        link: "https://www.tabnine.com/?ref=aitoolsreview",
+        price: "Free / From $12/mo",
+        rating: 4,
+      },
+    ]
+  },
+  {
+    category: "AI SEO & Marketing",
+    items: [
+      {
+        name: "Surfer SEO",
+        desc: "AI-powered SEO optimization. Analyzes top-ranking pages and tells you exactly what to write.",
+        badge: "Best for SEO Writers",
+        badgeColor: "#059669",
+        link: "https://surferseo.com/?ref=aitoolsreview",
+        price: "From $89/mo",
+        rating: 4,
+      },
+      {
+        name: "Semrush",
+        desc: "All-in-one SEO and marketing platform. Keyword research, competitor analysis, site audit.",
+        badge: "Industry Standard",
+        badgeColor: "#dc2626",
+        link: "https://www.semrush.com/?ref=aitoolsreview",
+        price: "From $129/mo",
+        rating: 5,
+      },
+    ]
+  },
+];
+
+function stars(n: number) {
+  return '★'.repeat(n) + '☆'.repeat(5 - n);
+}
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <BaseHead title={`Best AI Tools 2026 — ${SITE_TITLE}`} description="Curated list of the best AI tools in 2026. Tested and reviewed by our team. Find the right AI tool for writing, coding, images, voice, and more." />
+    <style>
+      .tools-hero {
+        text-align: center;
+        padding: 3rem 1rem 2rem;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border-radius: 12px;
+        margin-bottom: 2rem;
+      }
+      .tools-hero h1 { font-size: 2.2rem; margin-bottom: 0.5rem; }
+      .tools-hero p { font-size: 1.1rem; opacity: 0.9; }
+      .category-section { margin-bottom: 3rem; }
+      .category-title {
+        font-size: 1.4rem;
+        font-weight: 700;
+        border-left: 4px solid #7c3aed;
+        padding-left: 0.75rem;
+        margin-bottom: 1.25rem;
+        color: #1a1a2e;
+      }
+      .tool-card {
+        border: 1px solid #e5e7eb;
+        border-radius: 10px;
+        padding: 1.25rem;
+        margin-bottom: 1rem;
+        display: flex;
+        align-items: flex-start;
+        gap: 1rem;
+        background: white;
+        box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+        transition: box-shadow 0.2s;
+      }
+      .tool-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+      .tool-info { flex: 1; }
+      .tool-name-row {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        flex-wrap: wrap;
+        margin-bottom: 0.25rem;
+      }
+      .tool-name { font-size: 1.1rem; font-weight: 700; color: #111; }
+      .tool-badge {
+        font-size: 0.7rem;
+        font-weight: 600;
+        padding: 2px 8px;
+        border-radius: 99px;
+        color: white;
+      }
+      .tool-desc { color: #555; font-size: 0.95rem; margin-bottom: 0.4rem; }
+      .tool-meta { display: flex; align-items: center; gap: 1rem; flex-wrap: wrap; }
+      .tool-rating { color: #f59e0b; font-size: 1rem; letter-spacing: -1px; }
+      .tool-price { font-size: 0.85rem; color: #6b7280; }
+      .tool-cta {
+        display: inline-block;
+        background: #7c3aed;
+        color: white;
+        padding: 0.5rem 1.1rem;
+        border-radius: 6px;
+        font-size: 0.9rem;
+        font-weight: 600;
+        text-decoration: none;
+        white-space: nowrap;
+        transition: background 0.2s;
+      }
+      .tool-cta:hover { background: #6d28d9; }
+      .disclaimer {
+        font-size: 0.8rem;
+        color: #9ca3af;
+        text-align: center;
+        margin-top: 2rem;
+        padding-top: 1rem;
+        border-top: 1px solid #f3f4f6;
+      }
+    </style>
+  </head>
+  <body>
+    <Header />
+    <main style="max-width: 800px; margin: 0 auto; padding: 1rem 1.5rem;">
+      <div class="tools-hero">
+        <h1>🛠️ Best AI Tools 2026</h1>
+        <p>Curated, tested, and ranked by our team. Find your perfect AI tool.</p>
+      </div>
+
+      {tools.map(({ category, items }) => (
+        <section class="category-section">
+          <h2 class="category-title">{category}</h2>
+          {items.map(tool => (
+            <div class="tool-card">
+              <div class="tool-info">
+                <div class="tool-name-row">
+                  <span class="tool-name">{tool.name}</span>
+                  <span class="tool-badge" style={`background: ${tool.badgeColor}`}>{tool.badge}</span>
+                </div>
+                <div class="tool-desc">{tool.desc}</div>
+                <div class="tool-meta">
+                  <span class="tool-rating">{stars(tool.rating)}</span>
+                  <span class="tool-price">{tool.price}</span>
+                </div>
+              </div>
+              <a href={tool.link} target="_blank" rel="noopener noreferrer sponsored" class="tool-cta">
+                Try Free →
+              </a>
+            </div>
+          ))}
+        </section>
+      ))}
+
+      <p class="disclaimer">
+        ⚠️ Some links on this page are affiliate links. We may earn a commission if you sign up — at no extra cost to you. We only recommend tools we've actually tested.
+      </p>
+    </main>
+    <Footer />
+  </body>
+</html>

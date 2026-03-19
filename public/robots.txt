@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://joevonlong.github.io/ai-tools-hub/sitemap-index.xml
