@@ -1,6 +1,6 @@
 ---
 title: 'Third post'
-description: 'Lorem ipsum dolor sit amet'
+description: "Your guide to AI tools success. Learn how to choose, implement, and maximize AI in your workflow."
 pubDate: 2022-07-22
 heroImage: '../../assets/blog-placeholder-2.jpg'
 ---

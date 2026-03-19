@@ -1,6 +1,6 @@
 ---
 title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
+description: "Discover the best AI tools for modern productivity and business. Comprehensive reviews, comparisons, and recommendations."
 pubDate: 2022-07-08
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---

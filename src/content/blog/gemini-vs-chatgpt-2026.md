@@ -1,6 +1,6 @@
 ---
 title: "Gemini vs ChatGPT (2026): Which AI Assistant Is Actually Better?"
-description: "Comprehensive comparison of Google Gemini and ChatGPT in 2026. We tested both on writing, coding, research, and multimodal tasks. Find out which one wins — and when to use each."
+description: "Gemini vs ChatGPT 2026: compare features, accuracy, pricing, and which AI assistant is best for you."
 pubDate: 2026-03-19
 updatedDate: "2026-03-19"
 heroImage: "../../assets/blog-placeholder-3.jpg"

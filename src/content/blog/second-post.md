@@ -1,6 +1,6 @@
 ---
 title: 'Second post'
-description: 'Lorem ipsum dolor sit amet'
+description: "AI is transforming how we work. Explore the top AI tools, platforms, and trends shaping 2026."
 pubDate: 2022-07-15
 heroImage: '../../assets/blog-placeholder-4.jpg'
 ---

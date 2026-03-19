@@ -1,6 +1,6 @@
 ---
 title: "Sora vs Kling vs Runway vs Pika 2026: Best AI Video Generator Compared"
-description: "We tested all four top AI video generators head-to-head. Sora, Kling, Runway Gen-3, and Pika — which one is worth your money in 2026? Full review with pricing, quality tests, and our verdict."
+description: "Compare AI video generators: Sora, Kling, Runway. Features, pricing, quality, and which tool to choose."
 pubDate: 2026-03-19
 heroImage: "../../assets/blog-placeholder-4.jpg"
 tags: ["AI video", "Sora", "Kling AI", "Runway ML", "Pika", "AI tools", "comparison"]
