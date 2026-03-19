@@ -1,7 +1,7 @@
 ---
 title: "Best AI Customer Support Tools 2026 — Intelligent Service Automation"
 description: "Compare top AI customer support platforms: Zendesk, Intercom, Freshdesk AI, Tidio, and HubSpot Service Hub. Features, pricing, and complete buyer's guide."
-date: 2026-03-19
+pubDate: 2026-03-19
 category: "Business Tools"
 featured: false
 affiliate: true

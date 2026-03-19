@@ -1,7 +1,7 @@
 ---
 title: "Best AI Accounting Tools 2026 — Bookkeeping, Tax & Financial Forecasting"
 description: "Top 5 AI accounting solutions for bookkeeping automation, tax compliance, and financial forecasting. Compare features and pricing."
-date: "2026-03-19"
+pubDate: "2026-03-19"
 tags: ["AI Tools", "Accounting", "B2B", "Finance"]
 author: "CashCow Team"
 featured: false

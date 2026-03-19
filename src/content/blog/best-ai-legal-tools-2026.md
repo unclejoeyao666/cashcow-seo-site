@@ -1,7 +1,7 @@
 ---
 title: "Best AI Legal Tools 2026 — Contract Review & Document Generation"
 description: "Top 5 AI legal tools for contract analysis, due diligence, and automated document generation. Compare features, pricing, and integrations."
-date: "2026-03-19"
+pubDate: "2026-03-19"
 tags: ["AI Tools", "Legal", "B2B"]
 author: "CashCow Team"
 featured: false
