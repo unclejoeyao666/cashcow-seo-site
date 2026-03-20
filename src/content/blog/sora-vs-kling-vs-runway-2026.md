@@ -6,6 +6,12 @@ heroImage: "../../assets/blog-placeholder-4.jpg"
 tags: ["AI video", "Sora", "Kling AI", "Runway ML", "Pika", "AI tools", "comparison"]
 ---
 
+<div style="background: linear-gradient(135deg, #7c3aed 0%, #2563eb 45%, #ec4899 100%); padding: 3rem; border-radius: 12px; text-align: center; color: white; margin: 0 0 2rem 0; box-shadow: 0 20px 50px rgba(15, 23, 42, 0.26);">
+  <div style="font-size: 3rem; line-height: 1; margin-bottom: 0.75rem;">🎥⚔️🤖</div>
+  <div style="font-size: 2.35rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.9rem; letter-spacing: -0.02em;">Sora vs Kling vs Runway vs Pika 2026: Best AI Video Generator Compared</div>
+  <div style="font-size: 1.08rem; line-height: 1.7; max-width: 760px; margin: 0 auto; color: rgba(255,255,255,0.92);">Compare AI video generators: Sora, Kling, Runway. Features, pricing, quality, and which tool to choose.</div>
+</div>
+
 # Sora vs Kling vs Runway vs Pika 2026: The Ultimate AI Video Generator Showdown
 
 AI video generation has exploded in 2026. What started as blurry, glitchy clips has evolved into near-cinematic quality output. But with so many tools competing — OpenAI's Sora, Kling AI, Runway Gen-3, and Pika — choosing the right one is harder than ever.

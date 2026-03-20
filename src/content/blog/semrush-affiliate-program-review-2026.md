@@ -6,6 +6,12 @@ heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["affiliate-marketing", "semrush", "seo-tools", "passive-income"]
 ---
 
+<div style="background: linear-gradient(135deg, #f97316 0%, #ea580c 45%, #7c2d12 100%); padding: 3rem; border-radius: 12px; text-align: center; color: white; margin: 0 0 2rem 0; box-shadow: 0 20px 50px rgba(15, 23, 42, 0.26);">
+  <div style="font-size: 3rem; line-height: 1; margin-bottom: 0.75rem;">📈💸🧡</div>
+  <div style="font-size: 2.35rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.9rem; letter-spacing: -0.02em;">Semrush Affiliate Program Review 2026: Earn $50–$450 Per Sale</div>
+  <div style="font-size: 1.08rem; line-height: 1.7; max-width: 760px; margin: 0 auto; color: rgba(255,255,255,0.92);">Complete guide to the Semrush affiliate program (BeRush). Learn commission rates, loyalty tiers, 120-day cookie, and how to earn $300+ per referral with SEO content.</div>
+</div>
+
 # Semrush Affiliate Program Review 2026: Up to $450 Per Sale
 
 If you're building a content site around digital marketing or SEO, the **Semrush affiliate program** is one of the most lucrative one-time-commission programs available — paying **$50 to $450 per sale** depending on your performance tier, plus **$10 per free trial** signup.

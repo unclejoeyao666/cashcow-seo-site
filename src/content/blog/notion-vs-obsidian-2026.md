@@ -5,6 +5,12 @@ pubDate: "2026-03-19"
 heroImage: "../../assets/blog-placeholder-3.jpg"
 ---
 
+<div style="background: linear-gradient(135deg, #111827 0%, #374151 40%, #3b82f6 100%); padding: 3rem; border-radius: 12px; text-align: center; color: white; margin: 0 0 2rem 0; box-shadow: 0 20px 50px rgba(15, 23, 42, 0.26);">
+  <div style="font-size: 3rem; line-height: 1; margin-bottom: 0.75rem;">📝⚔️🧠</div>
+  <div style="font-size: 2.35rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.9rem; letter-spacing: -0.02em;">Notion vs Obsidian 2026: Which Note-Taking App Wins?</div>
+  <div style="font-size: 1.08rem; line-height: 1.7; max-width: 760px; margin: 0 auto; color: rgba(255,255,255,0.92);">Notion vs Obsidian compared in 2026: features, pricing, offline access, AI, and which works better for different workflows. Honest deep-dive review.</div>
+</div>
+
 The **Notion vs Obsidian** debate has been raging for years, and in 2026, both tools have evolved dramatically. Notion doubled down on AI and collaboration. Obsidian doubled down on local-first, privacy, and extensibility.
 
 Choosing between them isn't about which is "better" — it's about which matches **your brain and your workflow**.

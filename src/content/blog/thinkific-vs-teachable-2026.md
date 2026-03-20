@@ -6,6 +6,12 @@ heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["online courses", "thinkific", "teachable", "course platforms", "affiliate"]
 ---
 
+<div style="background: linear-gradient(135deg, #2563eb 0%, #7c3aed 50%, #ec4899 100%); padding: 3rem; border-radius: 12px; text-align: center; color: white; margin: 0 0 2rem 0; box-shadow: 0 20px 50px rgba(15, 23, 42, 0.26);">
+  <div style="font-size: 3rem; line-height: 1; margin-bottom: 0.75rem;">🎓⚔️💸</div>
+  <div style="font-size: 2.35rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.9rem; letter-spacing: -0.02em;">Thinkific vs Teachable 2026: Which Online Course Platform Is Right for You?</div>
+  <div style="font-size: 1.08rem; line-height: 1.7; max-width: 760px; margin: 0 auto; color: rgba(255,255,255,0.92);">An in-depth comparison of Thinkific vs Teachable for course creators in 2026. Pricing, features, commissions, and which platform pays affiliates more.</div>
+</div>
+
 # Thinkific vs Teachable 2026: The Definitive Comparison
 
 Whether you're launching your first online course or scaling a course business, **Thinkific** and **Teachable** are the two names that come up again and again. Both are excellent platforms — but they're built for slightly different creators.

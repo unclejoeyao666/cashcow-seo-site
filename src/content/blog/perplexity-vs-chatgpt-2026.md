@@ -6,6 +6,12 @@ heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["AI Tools", "Perplexity AI", "ChatGPT", "AI Comparison", "AI Search"]
 ---
 
+<div style="background: linear-gradient(135deg, #2563eb 0%, #06b6d4 45%, #10b981 100%); padding: 3rem; border-radius: 12px; text-align: center; color: white; margin: 0 0 2rem 0; box-shadow: 0 20px 50px rgba(15, 23, 42, 0.26);">
+  <div style="font-size: 3rem; line-height: 1; margin-bottom: 0.75rem;">🔎⚔️💬</div>
+  <div style="font-size: 2.35rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.9rem; letter-spacing: -0.02em;">Perplexity AI vs ChatGPT (2026): Which AI Search Tool Actually Wins?</div>
+  <div style="font-size: 1.08rem; line-height: 1.7; max-width: 760px; margin: 0 auto; color: rgba(255,255,255,0.92);">In-depth comparison of Perplexity AI vs ChatGPT in 2026. We test real-time search, accuracy, pricing, and use cases so you can pick the right tool.</div>
+</div>
+
 If you've been torn between **Perplexity AI** and **ChatGPT**, you're not alone. They look similar on the surface—both are AI assistants you can chat with—but under the hood, they're built for very different jobs.
 
 After spending weeks testing both tools daily, here's the bottom line: **Perplexity wins for research and real-time information; ChatGPT wins for creative work, coding, and long-form tasks.** Read on for the full breakdown.

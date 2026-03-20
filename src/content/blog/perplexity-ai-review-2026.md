@@ -6,6 +6,12 @@ heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["ai-search", "perplexity", "review", "research-tools"]
 ---
 
+<div style="background: linear-gradient(135deg, #0f172a 0%, #2563eb 45%, #06b6d4 100%); padding: 3rem; border-radius: 12px; text-align: center; color: white; margin: 0 0 2rem 0; box-shadow: 0 20px 50px rgba(15, 23, 42, 0.26);">
+  <div style="font-size: 3rem; line-height: 1; margin-bottom: 0.75rem;">🔎🤖⚡</div>
+  <div style="font-size: 2.35rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.9rem; letter-spacing: -0.02em;">Perplexity AI Review 2026: The Best AI Search Engine?</div>
+  <div style="font-size: 1.08rem; line-height: 1.7; max-width: 760px; margin: 0 auto; color: rgba(255,255,255,0.92);">An in-depth review of Perplexity AI — how it compares to Google, ChatGPT, and Claude for research. Is Perplexity Pro worth $20/month?</div>
+</div>
+
 If you've been frustrated with Google's AI Overviews giving you hallucinated answers, or tired of ChatGPT's knowledge cutoff, **Perplexity AI** might just be the research tool you've been waiting for.
 
 I've been using Perplexity daily for the past 6 months — for competitive research, fact-checking, technical documentation lookup, and market analysis. Here's my honest take.

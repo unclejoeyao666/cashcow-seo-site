@@ -86,3 +86,8 @@
 - 为10篇教程/评测/affiliate 文章补齐 HTML hero 图（赚钱、ChatGPT business、HubSpot、Jasper、Kajabi、Lovable、Midjourney、Notion）
 - build 成功：152 pages
 - 下一步：继续处理 T061
+
+## 2026-03-20 03:19 — T061 完成（补图批次 11/12）
+- 为10篇对比/评测/affiliate 文章补齐 HTML hero 图（Notion/Obsidian、Perplexity、Runway、Semrush、Sora/Kling/Runway、Surfer、Synthesia、Teachable、Thinkific）
+- build 成功：152 pages
+- 下一步：处理最后一批 T062
