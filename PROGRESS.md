@@ -106,3 +106,21 @@
 - 清理 TASK_QUEUE 中遗留的拆分子任务 T059A–T062B，统一并入已完成主任务 T059–T062
 - 避免后续 cron 将已完成补图任务误判为 PENDING
 - 下一步：进入质量审查 / 内链补强 / SEO 巡检
+
+## 2026-03-20 04:27 — Planner 二次重排完成
+- 读取 TASK_QUEUE / BLOCKERS / OPERATIONS_DASHBOARD / PROGRESS，并检查 EXECUTION_LOG 最近20条
+- 队列统计：Active 26（P1=25 / P2=1），PENDING=26，`QUEUE_EMPTY=false`，无需新增 batch
+- 日志统计（最近20条）：`shell` 12 success / 0 fail，`seo-sprint` 7 success / 0 fail，`heartbeat` 1 success / 0 fail；`duration_s` 字段缺失，无法稳定统计平均耗时
+- 已按“收益接近度 / SEO价值 / 自主可行性”完成重排，首要目标切换为高 intent 对比内容
+- 已将 3 个 >10 分钟内容 batch（T015/T016/T017）拆成 9 个文章级子任务（T015A-T017C），降低单轮超时风险
+- 已将残留 DONE 子任务 T059A-T062B 移入 Archive
+- 已删除明显重复的 PENDING batch：T023 / T024 / T025 / T026 / T031 / T036 / T038 / T039 / T041 / T043 / T048 / T050
+- 本轮未生成新任务，因此未触发话题审计子 agent
+- 下一步：按新顺序并行执行 T015A / T015B / T015C，优先落地 3 篇高商业意图对比文章
+
+
+## 2026-03-20 04:31 — 子任务收口（T015 / T017）
+- 已确认并收口 6 个已存在成品的内容子任务：T015A/B/C、T017A/B/C
+- 对应文章已在仓库中存在：Canva/Figma/Adobe、Descript/Riverside/Squadcast、Loom/Vidyard/Sendspark、Notion/Coda/Slite、AI Note-Taking Ranked、Knowledge Base Tools
+- 本轮为队列校正，无内容重写
+- 下一步：优先执行仍未落地的 T016A / T016B / T016C
