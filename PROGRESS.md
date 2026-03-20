@@ -81,3 +81,8 @@
 - 过程中部分子 agent 因认证/限流异常未正常收口，但文件改动已成功落盘并本地验证
 - build 成功：152 pages
 - 下一步：继续处理 T060
+
+## 2026-03-20 03:18 — T060 完成（补图批次 10/12）
+- 为10篇教程/评测/affiliate 文章补齐 HTML hero 图（赚钱、ChatGPT business、HubSpot、Jasper、Kajabi、Lovable、Midjourney、Notion）
+- build 成功：152 pages
+- 下一步：继续处理 T061

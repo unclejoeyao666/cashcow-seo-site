@@ -6,6 +6,12 @@ heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["notion", "ai review", "productivity", "notion ai", "writing tools"]
 ---
 
+<div style="background: linear-gradient(135deg, #111827 0%, #334155 45%, #64748b 100%); padding: 3rem; border-radius: 12px; text-align: center; color: white; margin: 0 0 2rem 0; box-shadow: 0 20px 50px rgba(15, 23, 42, 0.26);">
+  <div style="font-size: 3rem; line-height: 1; margin-bottom: 0.75rem;">📝🤖⚡</div>
+  <div style="font-size: 2.35rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.9rem; letter-spacing: -0.02em;">Notion AI Review 2026: Is It Worth the Extra $10/Month?</div>
+  <div style="font-size: 1.08rem; line-height: 1.7; max-width: 760px; margin: 0 auto; color: rgba(255,255,255,0.92);">In-depth Notion AI review covering writing assistance, Q&A, database automation, and how it compares to standalone AI writing tools in 2026.</div>
+</div>
+
 # Notion AI Review 2026: Is It Worth the Extra $10/Month?
 
 Notion AI has quietly become one of the most embedded AI assistants in the productivity space. Unlike standalone AI tools, it lives directly inside your workspace — where your notes, docs, and databases already are. But is the $10/month add-on actually worth it in 2026, or should you stick with ChatGPT or Claude?

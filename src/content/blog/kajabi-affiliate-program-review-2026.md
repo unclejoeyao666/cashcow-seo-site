@@ -6,6 +6,12 @@ heroImage: '../../assets/blog-placeholder-5.jpg'
 tags: ["kajabi", "affiliate-marketing", "online-courses", "passive-income", "recurring-commissions"]
 ---
 
+<div style="background: linear-gradient(135deg, #8b5cf6 0%, #d946ef 50%, #ec4899 100%); padding: 3rem; border-radius: 12px; text-align: center; color: white; margin: 0 0 2rem 0; box-shadow: 0 20px 50px rgba(15, 23, 42, 0.26);">
+  <div style="font-size: 3rem; line-height: 1; margin-bottom: 0.75rem;">🎓💸🌈</div>
+  <div style="font-size: 2.35rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.9rem; letter-spacing: -0.02em;">Kajabi Affiliate Program Review 2026: 30% Lifetime Recurring Commission</div>
+  <div style="font-size: 1.08rem; line-height: 1.7; max-width: 760px; margin: 0 auto; color: rgba(255,255,255,0.92);">Complete review of the Kajabi affiliate program: 30% lifetime recurring commissions, pricing tiers, how to earn $44-$120/month per referral forever.</div>
+</div>
+
 # Kajabi Affiliate Program Review 2026: 30% Lifetime Recurring Commission
 
 If you're looking for an affiliate program with **high recurring commissions from a premium product**, Kajabi is one of the best options available in 2026. With **30% lifetime recurring commissions** on one of the most popular all-in-one course platforms, the earning potential is significant.

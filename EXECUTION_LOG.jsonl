@@ -40,3 +40,4 @@
 {"task":"T057-R","action":"Recover missed hero image commit for best-ai-tools-small-business-2026","status":"DONE","timestamp":"2026-03-20T03:10:00Z","agent":"shell","build":"152 pages OK"}
 {"ts": "2026-03-20T02:14:00Z", "type": "heartbeat", "layer": "seo-sprint", "status": "no_quick_pending"}
 {"task":"T059","action":"Add HTML hero images batch 9/12 (10 articles)","status":"DONE","timestamp":"2026-03-20T03:15:00Z","agent":"shell","method":"subagent-assisted fallback + local verification","build":"152 pages OK"}
+{"task":"T060","action":"Add HTML hero images batch 10/12 (10 articles)","status":"DONE","timestamp":"2026-03-20T03:18:00Z","agent":"shell","method":"local scripted fallback after subagent kickoff","build":"152 pages OK"}
