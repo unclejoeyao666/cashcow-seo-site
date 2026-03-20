@@ -4,14 +4,14 @@
 
 | ID | Priority | Tag | Status | Task | depends_on | Updated |
 |----|----------|-----|--------|------|------------|---------|
-| T059A | P0 | [COMPLEX] | PENDING | 【补图批次9A/12】给以下5篇文章补 HTML hero 图：cursor-ide-review-2026, deepseek-review-2026, gemini-vs-claude-2026, github-copilot-review-2026, github-copilot-vs-chatgpt-2026 | — | 2026-03-20 03:10 |
-| T059B | P0 | [COMPLEX] | PENDING | 【补图批次9B/12】给以下5篇文章补 HTML hero 图：grammarly-review-2026, grok-ai-review-2026, heygen-review-2026, how-to-automate-workflows-with-ai-2026, how-to-build-ai-chatbot-no-code-2026 | — | 2026-03-20 03:10 |
-| T060A | P0 | [COMPLEX] | PENDING | 【补图批次10A/12】给以下5篇文章补 HTML hero 图：how-to-make-money-with-ai-2026, how-to-use-chatgpt-for-business-2026, hubspot-affiliate-program-review-2026, jasper-ai-review-2026, jasper-vs-writesonic-2026 | — | 2026-03-20 03:10 |
-| T060B | P0 | [COMPLEX] | PENDING | 【补图批次10B/12】给以下5篇文章补 HTML hero 图：kajabi-affiliate-program-review-2026, lovable-review-2026, midjourney-review-2026, notion-affiliate-program-review-2026, notion-ai-review-2026 | — | 2026-03-20 03:10 |
-| T061A | P0 | [COMPLEX] | PENDING | 【补图批次11A/12】给以下5篇文章补 HTML hero 图：notion-vs-obsidian-2026, perplexity-ai-review-2026, perplexity-vs-chatgpt-2026, runway-ml-review-2026, semrush-affiliate-program-review-2026 | — | 2026-03-20 03:10 |
-| T061B | P0 | [COMPLEX] | PENDING | 【补图批次11B/12】给以下5篇文章补 HTML hero 图：sora-vs-kling-vs-runway-2026, surfer-seo-review-2026, synthesia-review-2026, teachable-review-2026, thinkific-vs-teachable-2026 | — | 2026-03-20 03:10 |
-| T062A | P0 | [COMPLEX] | PENDING | 【补图批次12A/12】给以下3篇文章补 HTML hero 图：v0-dev-review-2026, windsurf-review-2026, markdown-style-guide | — | 2026-03-20 03:10 |
-| T062B | P0 | [COMPLEX] | PENDING | 【补图批次12B/12】清理/补齐 first-post, second-post, third-post 占位内容并执行全站 build 验证 + git push | T062A | 2026-03-20 03:10 |
+| T059A | P0 | [COMPLEX] | DONE | 【补图批次9A/12】给以下5篇文章补 HTML hero 图：cursor-ide-review-2026, deepseek-review-2026, gemini-vs-claude-2026, github-copilot-review-2026, github-copilot-vs-chatgpt-2026 | merged into T059 | 2026-03-20 03:15 |
+| T059B | P0 | [COMPLEX] | DONE | 【补图批次9B/12】给以下5篇文章补 HTML hero 图：grammarly-review-2026, grok-ai-review-2026, heygen-review-2026, how-to-automate-workflows-with-ai-2026, how-to-build-ai-chatbot-no-code-2026 | merged into T059 | 2026-03-20 03:15 |
+| T060A | P0 | [COMPLEX] | DONE | 【补图批次10A/12】给以下5篇文章补 HTML hero 图：how-to-make-money-with-ai-2026, how-to-use-chatgpt-for-business-2026, hubspot-affiliate-program-review-2026, jasper-ai-review-2026, jasper-vs-writesonic-2026 | merged into T060 | 2026-03-20 03:18 |
+| T060B | P0 | [COMPLEX] | DONE | 【补图批次10B/12】给以下5篇文章补 HTML hero 图：kajabi-affiliate-program-review-2026, lovable-review-2026, midjourney-review-2026, notion-affiliate-program-review-2026, notion-ai-review-2026 | merged into T060 | 2026-03-20 03:18 |
+| T061A | P0 | [COMPLEX] | DONE | 【补图批次11A/12】给以下5篇文章补 HTML hero 图：notion-vs-obsidian-2026, perplexity-ai-review-2026, perplexity-vs-chatgpt-2026, runway-ml-review-2026, semrush-affiliate-program-review-2026 | merged into T061 | 2026-03-20 03:19 |
+| T061B | P0 | [COMPLEX] | DONE | 【补图批次11B/12】给以下5篇文章补 HTML hero 图：sora-vs-kling-vs-runway-2026, surfer-seo-review-2026, synthesia-review-2026, teachable-review-2026, thinkific-vs-teachable-2026 | merged into T061 | 2026-03-20 03:19 |
+| T062A | P0 | [COMPLEX] | DONE | 【补图批次12A/12】给以下3篇文章补 HTML hero 图：v0-dev-review-2026, windsurf-review-2026, markdown-style-guide | merged into T062 | 2026-03-20 03:20 |
+| T062B | P0 | [COMPLEX] | DONE | 【补图批次12B/12】清理/补齐 first-post, second-post, third-post 占位内容并执行全站 build 验证 + git push | merged into T062 | 2026-03-20 03:20 |
 | T015 | P1 |  | IN_PROGRESS | 新增3篇高质量AI工具评测文章（Batch 24: Canva AI vs Adobe Express vs Figma AI, Descript vs Riverside vs Squadcast, Loom AI vs Vidyard vs Sendspark） | — | 2026-03-20 02:16 |
 | T016 | P1 |  | IN_PROGRESS | 新增3篇高质量AI工具评测文章（Batch 25: Zapier AI vs Make vs n8n AI, Best AI Workflow Automation 2026, AI Integration Platforms Compared） | — | 2026-03-20 02:22 |
 | T017 | P1 |  | IN_PROGRESS | 新增3篇高质量AI工具评测文章（Batch 26: Notion AI vs Coda AI vs Slite, AI Note-Taking Apps Ranked 2026, Best AI Knowledge Base Tools 2026） | — | 2026-03-20 02:30 |

@@ -47,3 +47,4 @@
 {"ts": "2026-03-20T02:28:30Z", "cron_id": "9f5016e6-a16e-49c7-a2f6-9d0710fc225d", "runner": "shell:seo-sprint", "event": "heartbeat", "detail": "No eligible [QUICK] PENDING task found"}
 {"ts_utc": "2026-03-20T02:40:01Z", "agent": "shell", "layer": "seo-sprint", "type": "heartbeat", "result": "no_quick_pending", "queue_file": "/Users/unclejoe/Dev_Workspace/CashCow/seo-site/TASK_QUEUE.md"}
 {"ts": "2026-03-20T02:52:37Z", "layer": "seo-sprint", "job": "quick-only", "status": "heartbeat", "message": "No [QUICK] PENDING task available in TASK_QUEUE.md"}
+{"task":"QUEUE-CLEANUP","action":"Mark residual split tasks T059A-T062B as merged/done","status":"DONE","timestamp":"2026-03-20T03:59:00Z","agent":"shell"}
