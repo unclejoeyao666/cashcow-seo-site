@@ -31,3 +31,8 @@
 - 本地遗留改动已确认可构建，build 成功：149 pages
 - 已准备提交并推送清理 commit
 - 下一步：继续处理 P0 补图任务 T054
+
+## 2026-03-20 02:57 — T054 完成（补图批次 4/12）
+- 为10篇文章补齐 HTML hero 图（podcast / presentation / productivity / project management / real estate / recruiting / research / resume / sales / scheduling）
+- build 成功：149 pages
+- 下一步：继续处理 T055
