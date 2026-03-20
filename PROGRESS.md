@@ -56,3 +56,9 @@
 - 为10篇文章补齐 HTML hero 图（workflow automation / writing assistants / writing tools / wordpress plugins / bolt / chatgpt / claude / claude vs chatgpt / convertkit / copy.ai vs jasper）
 - build 成功：149 pages
 - 下一步：继续处理 T059
+
+## 2026-03-20 03:10 — 收尾提交（T018 + T057补漏）
+- 补提交流水线遗漏的 `best-ai-tools-small-business-2026` hero 图改动
+- 完成并落库 Batch 27 三篇写作工具文章：Grammarly vs ProWritingAid vs QuillBot、Best AI Grammar Checkers 2026、AI Paraphrasing Tools Compared
+- build 成功：152 pages
+- 下一步：继续处理 T059

@@ -19,7 +19,7 @@
 | T015 | P1 | | IN_PROGRESS | 新增3篇高质量AI工具评测文章（Batch 24: Canva AI vs Adobe Express vs Figma AI, Descript vs Riverside vs Squadcast, Loom AI vs Vidyard vs Sendspark） | — | 2026-03-20 02:16 |
 | T016 | P1 | | IN_PROGRESS | 新增3篇高质量AI工具评测文章（Batch 25: Zapier AI vs Make vs n8n AI, Best AI Workflow Automation 2026, AI Integration Platforms Compared） | — | 2026-03-20 02:22 |
 | T017 | P1 | | IN_PROGRESS | 新增3篇高质量AI工具评测文章（Batch 26: Notion AI vs Coda AI vs Slite, AI Note-Taking Apps Ranked 2026, Best AI Knowledge Base Tools 2026） | — | 2026-03-20 02:30 |
-| T018 | P1 | | PENDING | 新增3篇高质量AI工具评测文章（Batch 27） | — | 2026-03-20 |
+| T018 | P1 | | DONE | 新增3篇高质量AI工具评测文章（Batch 27: Grammarly vs ProWritingAid vs QuillBot, Best AI Grammar Checkers 2026, AI Paraphrasing Tools Compared） | — | 2026-03-20 03:10 |
 | T019 | P1 | [COMPLEX] | DONE | 全站 SEO audit：检查 meta descriptions、OG tags、schema markup 完整性 | T004 | 2026-03-20 01:59 |
 | T020 | P1 | | PENDING | 新增3篇高质量AI工具评测文章（Batch 28） | — | 2026-03-20 |
 | T021 | P1 | | PENDING | 新增3篇：Notion AI vs Coda AI vs Slite, AI Note-Taking Apps Ranked, Best AI Knowledge Base Tools | — | 2026-03-20 |
