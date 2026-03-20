@@ -210,7 +210,7 @@ Use code UPGRADE10 for 10% off."
 4. **Week 1:** Add CRM integration + monitoring
 5. **Week 2:** Measure savings, refine
 
-**[Related Articles](/best-ai-chatbot-builders-2026)** • **[Workflow Automation](/how-to-automate-workflows-with-ai-2026)** • **[ChatGPT Guide](/how-to-use-chatgpt-for-business-2026)**
+**[Related Articles](/cashcow-seo-site/blog/best-ai-chatbot-builders-2026)** • **[Workflow Automation](/cashcow-seo-site/blog/how-to-automate-workflows-with-ai-2026)** • **[ChatGPT Guide](/cashcow-seo-site/blog/how-to-use-chatgpt-for-business-2026)**
 
 ---
 

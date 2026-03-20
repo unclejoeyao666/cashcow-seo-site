@@ -178,7 +178,7 @@ Send to prospect + Slack alert
 3. **Week 3:** Measure time savings, refine prompts
 4. **Week 4:** Build second workflow, expand to team
 
-**[Related Articles](/best-ai-project-management-tools-2026)** • **[ChatGPT for Business](/how-to-use-chatgpt-for-business-2026)** • **[Chatbot Building](/how-to-build-ai-chatbot-no-code-2026)**
+**[Related Articles](/cashcow-seo-site/blog/best-ai-project-management-tools-2026)** • **[ChatGPT for Business](/cashcow-seo-site/blog/how-to-use-chatgpt-for-business-2026)** • **[Chatbot Building](/cashcow-seo-site/blog/how-to-build-ai-chatbot-no-code-2026)**
 
 ---
 
