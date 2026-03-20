@@ -96,3 +96,8 @@
 - 为最后6篇文章补齐 HTML hero 图（v0、Windsurf、first/second/third-post、markdown-style-guide）
 - 完成最终 build 验证：152 pages
 - 下一步：补图主线已全部完成，可转入质量审查/内链/SEO 巡检
+
+## 2026-03-20 03:22 — T059 完成（补图批次 9/12）
+- 核验 10 篇文章的 HTML hero 图状态：全部已存在，无需修改
+- build 成功：152 pages
+- 下一步：继续处理 T060
