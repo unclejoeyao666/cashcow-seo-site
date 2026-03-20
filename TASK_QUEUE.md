@@ -12,12 +12,12 @@
 | T008 | P1 | | DONE | 新增3篇高质量AI工具评测文章（Batch 19: AI for Supply Chain, AI Translation, AI Personal Finance） | — | 2026-03-20 01:35 |
 | T009 | P1 | | DONE | 新增3篇高质量AI工具评测文章（Batch 20: AI for Healthcare, AI Social Media, AI Project Management） | — | 2026-03-20 01:35 |
 | T010 | P1 | | DONE | 新增3篇高质量AI工具评测文章（Batch 21: AI for Agriculture, AI for Gaming, AI for Journalism） | — | 2026-03-20 01:46 |
-| T011 | P1 | | IN_PROGRESS | 新增3篇高质量AI工具评测文章（Batch 22: AI for Fashion, AI for Food Industry, AI for Sports Analytics） | — | 2026-03-20 01:47 |
-| T012 | P1 | | IN_PROGRESS | 新增3篇高质量AI工具评测文章（Batch 23: AI for Construction, AI for Insurance, AI for Logistics） | — | 2026-03-20 |
+| T011 | P1 | | IN_PROGRESS | 新增3篇高质量AI工具评测文章（Batch 22: AI for Fashion, AI for Food Industry, AI for Sports Analytics） | — | 2026-03-20 02:10 |
+| T012 | P1 | | DONE | 新增3篇高质量AI工具评测文章（Batch 23: AI for Construction, AI for Insurance, AI for Logistics） | — | 2026-03-20 02:09 |
 | T013 | P2 | | PENDING | 增强文章内链结构：每篇文章至少2个内部交叉链接 | T006 | 2026-03-20 |
 | T014 | P2 | [QUICK] | DONE | 更新首页 hero stats 数字（Tools Reviewed / Articles 数量） | T006 | 2026-03-20 01:39 |
-| T015 | P1 | | PENDING | 新增3篇高质量AI工具评测文章（Batch 24） | — | 2026-03-20 |
-| T016 | P1 | | PENDING | 新增3篇高质量AI工具评测文章（Batch 25） | — | 2026-03-20 |
+| T015 | P1 | | IN_PROGRESS | 新增3篇高质量AI工具评测文章（Batch 24: Canva AI vs Adobe Express vs Figma AI, Descript vs Riverside vs Squadcast, Loom AI vs Vidyard vs Sendspark） | — | 2026-03-20 02:16 |
+| T016 | P1 | | IN_PROGRESS | 新增3篇高质量AI工具评测文章（Batch 25: Zapier AI vs Make vs n8n AI, Best AI Workflow Automation 2026, AI Integration Platforms Compared） | — | 2026-03-20 02:22 |
 | T017 | P1 | | PENDING | 新增3篇高质量AI工具评测文章（Batch 26） | — | 2026-03-20 |
 | T018 | P1 | | PENDING | 新增3篇高质量AI工具评测文章（Batch 27） | — | 2026-03-20 |
 | T019 | P1 | [COMPLEX] | DONE | 全站 SEO audit：检查 meta descriptions、OG tags、schema markup 完整性 | T004 | 2026-03-20 01:59 |

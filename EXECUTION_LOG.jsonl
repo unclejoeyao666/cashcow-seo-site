@@ -13,3 +13,12 @@
 {"ts":"2026-03-20T01:59:00+01:00","event":"watchdog_heartbeat","in_progress":"T011","pending_count":8,"p0_pending":0,"blockers":0,"progress_stale":false,"queue_empty":false,"urgent":false,"deadline_approaching":false,"status":"OK"}
 {"id":"T019","action":"DONE","ts":"2026-03-20T01:59:00Z","details":"SEO audit complete: 66 heroImages added, 11 articles enhanced with HTML banners/charts. Build: 135 pages, 0 broken links. Schema markup, meta desc, OG tags all verified."}
 {"ts":"2026-03-20T01:04:00Z","layer":"sprint","event":"heartbeat","msg":"No [QUICK] PENDING tasks found"}
+{"ts":"2026-03-20T02:08:00+01:00","type":"watchdog","actions":["reset T011 PENDING","reset T012 PENDING","URGENT=true","PROGRESS stale warning"],"pending_count":42,"p0_pending":12,"blockers":0}
+{"timestamp":"2026-03-20T02:09:00Z","task_id":"T012","batch":23,"articles":["best-ai-construction-tools-2026.md","best-ai-insurance-tools-2026.md","best-ai-logistics-tools-2026.md"],"status":"DONE","commit":"b4484f4","pages_built":138}
+{"ts":"2026-03-20T01:09:00Z","agent":"seo-sprint","action":"heartbeat","detail":"No [QUICK] PENDING tasks. All [QUICK] tasks (T001, T005, T014) are DONE."}
+{"ts":"2026-03-20T01:15:00Z","agent":"seo-sprint","action":"heartbeat","detail":"No [QUICK] PENDING tasks. All [QUICK] tasks (T001,T005,T014) are DONE."}
+{"ts":"2026-03-20T02:15:00+01:00","event":"watchdog_heartbeat","in_progress":"T011","pending_count":48,"p0_pending_count":12,"blockers":0,"queue_empty":false,"urgent":true,"deadline_approaching":false,"anomalies":[]}
+{"ts":"2026-03-20T01:21:00Z","layer":"sprint","event":"heartbeat","msg":"No [QUICK] PENDING tasks found. All [QUICK] tasks DONE."}
+{"ts":"2026-03-20T02:21:00+01:00","event":"watchdog","in_progress":["T011","T015"],"pending_count":48,"p0_pending":12,"blockers":0,"progress_age_min":12,"queue_empty":false,"urgent":true,"deadline_approaching":false,"status":"OK"}
+{"ts":"2026-03-20T01:27:00Z","layer":"sprint","event":"heartbeat","note":"No [QUICK] PENDING tasks found"}
+{"ts":"2026-03-20T02:27:00+01:00","event":"watchdog_heartbeat","in_progress":["T011","T015","T016"],"pending_count":40,"p0_pending":12,"blockers":0,"progress_stale":false,"queue_empty":false,"urgent":true,"deadline_approaching":false}

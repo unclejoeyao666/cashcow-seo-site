@@ -13,3 +13,15 @@
 - build 成功 130 pages，断链 3227 → 0
 - git push 完成，GitHub Pages 自动部署中
 - 6层 cron 框架已注册并运行
+
+## ⚠️ 2026-03-20 02:08 — Watchdog 警告
+- PROGRESS.md 超过30分钟未更新（上次: 01:30）
+- T011, T012 因超时(>20min IN_PROGRESS, 无checkpoint)被重置为 PENDING
+- P0 补图任务 T051-T062 全部 PENDING，URGENT=true
+
+## 2026-03-20 02:09 — Batch 23 完成
+- T012 DONE：3篇新文章（Construction, Insurance, Logistics）
+- 文件：best-ai-construction-tools-2026.md, best-ai-insurance-tools-2026.md, best-ai-logistics-tools-2026.md
+- Build 成功：138 pages，无错误
+- Git push: commit b4484f4
+- 总文章数：~128篇
