@@ -2,6 +2,7 @@
 title: "Best AI Interior Design Tools 2026 — Redesign Any Room in Minutes"
 description: "Top 5 AI interior design tools for 2026. Upload a photo of your room and get instant redesign ideas, furniture suggestions, and style previews."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-5.jpg'
 category: "AI Tools"
 tags: ["ai interior design", "room design", "ai home", "decor tools"]
 ---

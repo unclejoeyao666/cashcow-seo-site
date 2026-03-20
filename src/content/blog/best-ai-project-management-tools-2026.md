@@ -2,6 +2,7 @@
 title: "Best AI Project Management Tools 2026 — Smart Workflow Automation"
 description: "Explore top AI project management platforms: Asana, Monday.com, ClickUp, Notion AI, Linear. Features, pricing, and detailed buyer's guide."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-4.jpg'
 category: "Business Tools"
 featured: false
 affiliate: true

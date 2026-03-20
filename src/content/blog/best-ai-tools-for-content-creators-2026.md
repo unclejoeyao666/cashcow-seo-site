@@ -2,6 +2,7 @@
 title: "Best AI Tools for Content Creators in 2026 — YouTubers, TikTokers & Streamers"
 description: "Top 5 AI tools every content creator needs in 2026. From video editing to thumbnail generation, boost your workflow and grow faster."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-1.jpg'
 category: "AI Tools"
 tags: ["ai tools", "content creators", "youtube", "tiktok", "video editing", "2026"]
 ---

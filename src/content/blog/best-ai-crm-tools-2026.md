@@ -2,6 +2,7 @@
 title: "Best AI CRM Tools in 2026: Automate Sales & Grow Revenue"
 description: "Compare the top AI-powered CRM platforms for sales automation, lead scoring, and customer insights. Find the best AI CRM for your business."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-1.jpg'
 category: "AI Tools"
 tags: ["ai tools", "crm", "sales", "business"]
 affiliate: true

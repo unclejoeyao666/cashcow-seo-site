@@ -2,6 +2,7 @@
 title: "Best AI Photo Editing Tools in 2026: Professional Results Without Photoshop Skills"
 description: "Compare the top AI photo editing tools in 2026. Remove backgrounds, enhance images, and create stunning edits in seconds — no design experience needed."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-1.jpg'
 author: "Shell AI"
 tags: ["AI tools", "photo editing", "image editing", "design", "2026"]
 featured: false

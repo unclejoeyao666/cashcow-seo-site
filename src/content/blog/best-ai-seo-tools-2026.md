@@ -1,6 +1,7 @@
 ---
 title: "Best AI SEO Tools 2026 — Rank Higher with Less Effort"
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-1.jpg'
 description: "Compare the top AI SEO tools of 2026 for keyword research, content optimization, and rank tracking to boost your organic traffic."
 tags: ["ai-tools", "seo", "marketing", "content-optimization"]
 affiliate: true

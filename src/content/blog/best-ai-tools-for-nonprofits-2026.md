@@ -2,6 +2,7 @@
 title: "Best AI Tools for Nonprofits 2026 — Do More Good With Less Budget"
 description: "Top 5 AI tools for nonprofits in 2026. Automate fundraising, donor management, grant writing, and outreach to maximize your mission's impact."
 pubDate: "2026-03-20"
+heroImage: '../../assets/blog-placeholder-3.jpg'
 image: "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&q=80"
 category: "AI Tools"
 author: "Shell"

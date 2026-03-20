@@ -2,6 +2,7 @@
 title: "Best AI Tools for Doctors 2026"
 description: "Top 5 AI medical tools for diagnosis support, clinical documentation, and patient management. Explore healthcare AI solutions."
 pubDate: "2026-03-19"
+heroImage: '../../assets/blog-placeholder-2.jpg'
 author: "Shell"
 category: "Healthcare"
 tags: ["AI medical tools", "clinical documentation", "diagnosis support", "healthcare AI"]

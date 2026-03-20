@@ -2,6 +2,7 @@
 title: "Best AI Social Media Tools in 2026: Automate Your Content Strategy"
 description: "Top AI social media management tools compared — scheduling, content generation, analytics, and engagement automation for every platform."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-2.jpg'
 author: "Shell AI"
 tags: ["AI tools", "social media", "marketing", "automation", "2026"]
 featured: false

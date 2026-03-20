@@ -2,6 +2,7 @@
 title: "Best AI Tools for Lawyers 2026"
 description: "Top 5 AI legal tools to improve research, contract analysis, and document generation. Explore features and pricing for legal professionals."
 pubDate: "2026-03-19"
+heroImage: '../../assets/blog-placeholder-1.jpg'
 author: "Shell"
 category: "Legal"
 tags: ["AI legal tools", "contract analysis", "legal research", "law practice"]

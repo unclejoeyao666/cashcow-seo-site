@@ -2,6 +2,7 @@
 title: "Best AI Podcast Tools in 2026: Record, Edit & Grow Your Show"
 description: "Compare the top AI podcast tools for recording, editing, transcription, and distribution. Find the perfect tool to launch or scale your podcast."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-2.jpg'
 category: "AI Tools"
 tags: ["ai tools", "podcast", "audio", "content creation"]
 affiliate: true

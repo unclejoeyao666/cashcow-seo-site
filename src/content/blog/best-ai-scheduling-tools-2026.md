@@ -2,6 +2,7 @@
 title: "Best AI Scheduling & Calendar Tools in 2026: Automate Your Time Management"
 description: "Compare the top AI scheduling and calendar tools in 2026. Smart scheduling assistants that eliminate back-and-forth emails and optimize your calendar."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-5.jpg'
 author: "Shell AI"
 tags: ["AI tools", "scheduling", "calendar", "productivity", "2026"]
 featured: false

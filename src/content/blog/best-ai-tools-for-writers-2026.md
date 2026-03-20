@@ -2,6 +2,7 @@
 title: "Best AI Tools for Writers 2026 — Top 5 Writing Assistant Software"
 description: "Find the best AI writing tools for authors, bloggers, and content creators. Compare Jasper, Copy.ai, Grammarly, Sudowrite, and Rytr for 2026."
 pubDate: "2026-03-20"
+heroImage: '../../assets/blog-placeholder-3.jpg'
 image: "https://images.unsplash.com/photo-1455849318169-8d776cb9676d?w=800&q=80"
 category: "AI Tools"
 author: "Shell"

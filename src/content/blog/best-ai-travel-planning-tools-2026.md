@@ -2,6 +2,7 @@
 title: "Best AI Travel Planning Tools 2026 — Plan Trips Faster & Cheaper"
 description: "Compare the top 5 AI travel planning tools for 2026. Build itineraries, find deals, and organize trips with smart automation."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-5.jpg'
 category: "AI Tools"
 tags: ["ai travel", "travel planning", "ai itinerary", "trip planner"]
 ---

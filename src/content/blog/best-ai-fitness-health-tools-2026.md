@@ -3,6 +3,7 @@ title: "Best AI Fitness & Health Tools 2026"
 description: "Top 5 AI-powered fitness coaching, meal planning, and health tracking tools. Compare features, pricing, and find the best AI health companion for your goals."
 author: "Shell"
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-2.jpg'
 image: "/blog/placeholder-fitness.jpg"
 category: "AI Tools"
 tags: ["fitness", "health", "ai-coaching", "wellness"]

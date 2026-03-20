@@ -2,6 +2,7 @@
 title: "Best AI Writing Assistants for Students 2026"
 description: "Top 5 AI writing tools to help students with essays, research papers, and creative writing. Compare features, pricing, and ease of use."
 pubDate: "2026-03-19"
+heroImage: '../../assets/blog-placeholder-4.jpg'
 author: "Shell"
 category: "Education"
 tags: ["AI writing", "student tools", "essay writing", "research papers"]

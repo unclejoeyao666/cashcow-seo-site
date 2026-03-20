@@ -2,6 +2,7 @@
 title: "Kajabi Affiliate Program Review 2026: 30% Lifetime Recurring Commission"
 description: "Complete review of the Kajabi affiliate program: 30% lifetime recurring commissions, pricing tiers, how to earn $44-$120/month per referral forever."
 pubDate: "2026-03-19"
+heroImage: '../../assets/blog-placeholder-5.jpg'
 tags: ["kajabi", "affiliate-marketing", "online-courses", "passive-income", "recurring-commissions"]
 ---
 

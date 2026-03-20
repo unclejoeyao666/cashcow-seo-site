@@ -2,6 +2,7 @@
 title: "How to Automate Workflows with AI: Step-by-Step 2026 Guide"
 slug: how-to-automate-workflows-with-ai-2026
 pubDate: 2026-03-20
+heroImage: '../../assets/blog-placeholder-1.jpg'
 author: "Joe Long"
 description: "Learn how to automate business workflows using AI tools. Complete guide with real examples, tools comparison, and ROI metrics for 2026."
 image: "/images/ai-automation.jpg"

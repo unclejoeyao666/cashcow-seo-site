@@ -2,6 +2,7 @@
 title: "Best AI Mental Health & Wellness Tools 2026"
 description: "Top AI tools for mental health, meditation, and wellness. Compare Woebot, Youper, and wellness apps."
 pubDate: "2026-03-20"
+heroImage: '../../assets/blog-placeholder-5.jpg'
 author: "Shell"
 tags: ["mental health", "wellness tools", "meditation", "AI therapy"]
 canonical: "https://unclejoeyao666.github.io/cashcow-seo-site/blog/best-ai-mental-health-wellness-tools-2026/"

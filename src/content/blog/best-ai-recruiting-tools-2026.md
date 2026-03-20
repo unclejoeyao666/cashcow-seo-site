@@ -1,6 +1,7 @@
 ---
 title: "Best AI Recruiting Tools 2026 — Hire Faster, Screen Smarter"
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-1.jpg'
 description: "Discover the top AI recruiting tools of 2026 for resume screening, candidate matching, interview scheduling, and bias-free hiring."
 tags: ["ai-tools", "recruiting", "hr", "hiring"]
 affiliate: true

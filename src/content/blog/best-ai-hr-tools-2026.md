@@ -2,6 +2,7 @@
 title: "Best AI HR Tools 2026 — Recruitment, Payroll & Employee Management"
 description: "Top 5 AI HR platforms for recruiting, onboarding, payroll automation, and employee engagement. Compare pricing and features."
 pubDate: "2026-03-19"
+heroImage: '../../assets/blog-placeholder-4.jpg'
 tags: ["AI Tools", "HR", "B2B", "Recruitment"]
 author: "CashCow Team"
 featured: false

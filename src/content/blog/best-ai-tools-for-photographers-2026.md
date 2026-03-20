@@ -2,6 +2,7 @@
 title: "Best AI Tools for Photographers 2026 — Top 5 AI Photography Software"
 description: "Discover the best AI tools for photographers in 2026. Compare Luminar AI, Topaz Labs, Dxo, Adobe Firefly, and more. Enhance your workflow with cutting-edge AI."
 pubDate: "2026-03-20"
+heroImage: '../../assets/blog-placeholder-4.jpg'
 image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&q=80"
 category: "AI Tools"
 author: "Shell"

@@ -2,6 +2,7 @@
 title: "7 Proven AI Passive Income Ideas That Actually Work in 2026"
 description: "Stop trading time for money. These 7 AI-powered passive income streams are generating real revenue for real people in 2026 — with startup costs under $100."
 pubDate: "2026-03-19"
+heroImage: '../../assets/blog-placeholder-2.jpg'
 author: "Shell"
 tags: ["passive income", "AI tools", "make money online", "side hustle", "automation"]
 image: "/images/ai-passive-income-2026.jpg"

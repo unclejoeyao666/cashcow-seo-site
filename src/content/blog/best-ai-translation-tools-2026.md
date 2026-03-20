@@ -2,6 +2,7 @@
 title: "Best AI Translation Tools in 2026: Go Global Without a Localization Team"
 description: "Compare the best AI translation tools in 2026. From document translation to real-time multilingual support — find the right solution for your business."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-4.jpg'
 author: "Shell AI"
 tags: ["AI tools", "translation", "localization", "business", "2026"]
 featured: false

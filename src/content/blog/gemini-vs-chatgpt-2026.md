@@ -7,6 +7,56 @@ heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["gemini", "chatgpt", "ai comparison", "google ai", "openai"]
 ---
 
+<div style="background: linear-gradient(135deg, #4285f4 0%, #10b981 100%); border-radius: 16px; padding: 40px 30px; text-align: center; margin: 20px 0 30px 0; color: white;">
+  <div style="font-size: 48px; margin-bottom: 10px;">✨ vs 💬</div>
+  <h2 style="color: white; font-size: 28px; margin: 0 0 8px 0; font-weight: 800;">Gemini vs ChatGPT 2026</h2>
+  <p style="color: rgba(255,255,255,0.9); font-size: 16px; margin: 0;">Google vs OpenAI — Who Wins?</p>
+</div>
+
+
+<div style="background: #f8f9fa; border-radius: 12px; padding: 24px; margin: 24px 0;">
+<h3 style="text-align: center; margin-bottom: 16px;">📊 Performance Comparison</h3>
+<div style="display: flex; flex-direction: column; gap: 12px;">
+  <div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 4px;"><span><strong>Writing</strong></span><span>ChatGPT wins</span></div>
+    <div style="display: flex; gap: 4px; height: 24px;">
+      <div style="background: linear-gradient(90deg, #4285f4, #4285f4cc); width: 78%; border-radius: 6px; display: flex; align-items: center; padding-left: 8px; color: white; font-size: 12px;">Gemini 7.8/10</div>
+      <div style="background: linear-gradient(90deg, #10b981, #10b981cc); width: 85%; border-radius: 6px; display: flex; align-items: center; padding-left: 8px; color: white; font-size: 12px;">ChatGPT 8.5/10</div>
+    </div>
+  </div>
+  <div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 4px;"><span><strong>Coding</strong></span><span>ChatGPT wins</span></div>
+    <div style="display: flex; gap: 4px; height: 24px;">
+      <div style="background: linear-gradient(90deg, #4285f4, #4285f4cc); width: 82%; border-radius: 6px; display: flex; align-items: center; padding-left: 8px; color: white; font-size: 12px;">Gemini 8.2/10</div>
+      <div style="background: linear-gradient(90deg, #10b981, #10b981cc); width: 88%; border-radius: 6px; display: flex; align-items: center; padding-left: 8px; color: white; font-size: 12px;">ChatGPT 8.8/10</div>
+    </div>
+  </div>
+  <div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 4px;"><span><strong>Research</strong></span><span>Gemini wins</span></div>
+    <div style="display: flex; gap: 4px; height: 24px;">
+      <div style="background: linear-gradient(90deg, #4285f4, #4285f4cc); width: 90%; border-radius: 6px; display: flex; align-items: center; padding-left: 8px; color: white; font-size: 12px;">Gemini 9.0/10</div>
+      <div style="background: linear-gradient(90deg, #10b981, #10b981cc); width: 80%; border-radius: 6px; display: flex; align-items: center; padding-left: 8px; color: white; font-size: 12px;">ChatGPT 8.0/10</div>
+    </div>
+  </div>
+  <div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 4px;"><span><strong>Multimodal</strong></span><span>Gemini wins</span></div>
+    <div style="display: flex; gap: 4px; height: 24px;">
+      <div style="background: linear-gradient(90deg, #4285f4, #4285f4cc); width: 92%; border-radius: 6px; display: flex; align-items: center; padding-left: 8px; color: white; font-size: 12px;">Gemini 9.2/10</div>
+      <div style="background: linear-gradient(90deg, #10b981, #10b981cc); width: 88%; border-radius: 6px; display: flex; align-items: center; padding-left: 8px; color: white; font-size: 12px;">ChatGPT 8.8/10</div>
+    </div>
+  </div>
+  <div>
+    <div style="display: flex; justify-content: space-between; margin-bottom: 4px;"><span><strong>Speed</strong></span><span>Gemini wins</span></div>
+    <div style="display: flex; gap: 4px; height: 24px;">
+      <div style="background: linear-gradient(90deg, #4285f4, #4285f4cc); width: 88%; border-radius: 6px; display: flex; align-items: center; padding-left: 8px; color: white; font-size: 12px;">Gemini 8.8/10</div>
+      <div style="background: linear-gradient(90deg, #10b981, #10b981cc); width: 85%; border-radius: 6px; display: flex; align-items: center; padding-left: 8px; color: white; font-size: 12px;">ChatGPT 8.5/10</div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
 Google Gemini and ChatGPT are the two most widely used AI assistants in the world. Both have improved dramatically, both offer free tiers, and both claim to be "the best." So which one should you actually use?
 
 I spent two weeks testing both extensively — for writing, coding, research, math, image understanding, and everyday tasks. Here's what I found.

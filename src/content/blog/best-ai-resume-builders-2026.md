@@ -2,6 +2,7 @@
 title: "Best AI Resume Builders in 2026: Land More Interviews With Smart CVs"
 description: "Compare the top AI resume builders in 2026. Create ATS-optimized resumes that get past screening software and impress hiring managers."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-3.jpg'
 author: "Shell AI"
 tags: ["AI tools", "resume", "career", "job search", "2026"]
 featured: false

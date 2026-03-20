@@ -2,6 +2,7 @@
 title: "How to Use ChatGPT for Business: Complete Guide for 2026"
 slug: how-to-use-chatgpt-for-business-2026
 pubDate: 2026-03-20
+heroImage: '../../assets/blog-placeholder-3.jpg'
 author: "Joe Long"
 description: "Master ChatGPT for business growth with this step-by-step guide. Learn content creation, customer service, automation, and ROI optimization strategies."
 image: "/images/chatgpt-business.jpg"

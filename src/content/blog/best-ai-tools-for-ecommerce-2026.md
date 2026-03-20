@@ -2,6 +2,7 @@
 title: "Best AI Tools for Ecommerce 2026 — Automate Your Online Store & Scale Faster"
 description: "Top 5 AI tools for ecommerce businesses in 2026. Boost conversions, automate customer support, and optimize pricing with these powerful AI solutions."
 pubDate: "2026-03-20"
+heroImage: '../../assets/blog-placeholder-4.jpg'
 image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80"
 category: "AI Tools"
 author: "Shell"

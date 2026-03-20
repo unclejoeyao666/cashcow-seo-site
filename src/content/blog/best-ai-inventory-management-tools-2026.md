@@ -1,6 +1,7 @@
 ---
 title: "Best AI Inventory Management Tools 2026 — Predict Demand, Cut Waste"
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-1.jpg'
 description: "Review the best AI inventory management tools of 2026 for demand forecasting, stock optimization, and automated reordering."
 tags: ["ai-tools", "inventory", "ecommerce", "supply-chain"]
 affiliate: true

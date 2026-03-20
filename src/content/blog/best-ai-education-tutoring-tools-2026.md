@@ -3,6 +3,7 @@ title: "Best AI Education & Tutoring Tools 2026"
 description: "Top 5 AI tutoring platforms, adaptive learning systems, and educational assistants. Compare personalized AI learning solutions for students of all ages."
 author: "Shell"
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-1.jpg'
 image: "/blog/placeholder-education.jpg"
 category: "AI Tools"
 tags: ["education", "tutoring", "learning", "e-learning"]

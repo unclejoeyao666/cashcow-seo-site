@@ -2,6 +2,7 @@
 title: "How to Build an AI Chatbot Without Coding: Complete 2026 Guide"
 slug: how-to-build-ai-chatbot-no-code-2026
 pubDate: 2026-03-20
+heroImage: '../../assets/blog-placeholder-2.jpg'
 author: "Joe Long"
 description: "Build AI chatbots without coding in 2026. No-code platforms, step-by-step setup, and proven templates for customer service, sales, and support."
 image: "/images/no-code-chatbot.jpg"

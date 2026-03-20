@@ -2,6 +2,7 @@
 title: "Best AI Team Collaboration Tools 2026 — Work Smarter Together"
 description: "Top 5 AI-powered team collaboration tools for 2026. Automate standups, summarize meetings, and keep remote teams aligned with less effort."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-3.jpg'
 category: "AI Tools"
 tags: ["ai collaboration", "team tools", "remote work", "ai productivity"]
 ---

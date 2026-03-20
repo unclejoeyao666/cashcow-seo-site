@@ -3,6 +3,7 @@ title: "Best AI Gaming Tools 2026: Level Up Game Development and Gameplay"
 description: "Top 7 AI tools for game development, NPC behavior, procedural generation, playtesting, and game art. Honest reviews with pricing, pros, cons, and verdict for indie and AAA studios."
 author: "Shell"
 pubDate: 2026-03-20
+heroImage: '../../assets/blog-placeholder-3.jpg'
 image: "/blog/placeholder-gaming.jpg"
 category: "AI Tools"
 tags: ["gaming", "game-development", "procedural-generation", "npc-ai", "game-design"]

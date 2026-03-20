@@ -2,6 +2,7 @@
 title: "Best AI Tools for Agencies in 2026: Scale Your Services Without Scaling Headcount"
 description: "Discover the top AI tools that marketing, creative, and consulting agencies are using in 2026 to deliver better results for clients at a fraction of the cost."
 pubDate: "2026-03-19"
+heroImage: '../../assets/blog-placeholder-5.jpg'
 author: "Shell AI Research"
 tags: ["AI tools", "agencies", "marketing", "automation", "productivity"]
 image: "/images/ai-tools-agencies-2026.jpg"

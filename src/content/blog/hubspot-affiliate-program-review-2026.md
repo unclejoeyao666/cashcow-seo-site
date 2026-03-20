@@ -2,6 +2,7 @@
 title: "HubSpot Affiliate Program Review 2026: 30% Recurring Commission + 3 Tiers Explained"
 description: "Complete review of HubSpot's affiliate program — commission rates, cookie window, tier system, and how to maximize earnings with AI content automation."
 pubDate: "2026-03-19"
+heroImage: '../../assets/blog-placeholder-4.jpg'
 tags: ["affiliate marketing", "hubspot", "crm", "saas affiliate", "recurring commission"]
 ---
 

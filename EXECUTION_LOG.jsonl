@@ -5,3 +5,9 @@
 {"ts":"2026-03-20T01:39:00Z","layer":"sprint","task":"T014","action":"DONE","detail":"Updated hero stats: 80+ → 150+ Tools Reviewed; Articles count already dynamic. Built & pushed."}
 {"ts":"2026-03-20T01:39:00+01:00","event":"watchdog_heartbeat","status":"OK","in_progress":"T010","pending_count":8,"p0_pending":0,"blockers":0,"progress_stale":false,"deadline_approaching":false}
 {"ts":"2026-03-20T00:41:00Z","layer":"seo-sprint","event":"heartbeat","msg":"No [QUICK] PENDING tasks found. All QUICK tasks DONE (T001,T005,T014)."}
+{"ts":"2026-03-20T00:46:00Z","agent":"seo-sprint","event":"heartbeat","detail":"No [QUICK] PENDING tasks found. All [QUICK] tasks DONE."}
+{"ts":"2026-03-20T01:46:00+01:00","event":"watchdog_heartbeat","in_progress":0,"pending":9,"done":11,"blocked":0,"timeout_resets":0,"format_ok":true,"blockers_needing_joe":false,"progress_stale":false,"queue_empty":false,"urgent":false,"deadline_approaching":false}
+{"ts":"2026-03-20T01:52:00+01:00","event":"watchdog_heartbeat","in_progress":"T011","pending_count":8,"p0_pending":0,"blockers":0,"progress_age_min":22,"deadline_hours_left":6.1,"status":"ALL_GREEN"}
+{"ts":"2026-03-20T00:53:00Z","type":"heartbeat","layer":"sprint","msg":"No [QUICK] PENDING tasks"}
+{"ts":"2026-03-20T00:58:00Z","agent":"seo-sprint","event":"heartbeat","detail":"No [QUICK] PENDING tasks found. All [QUICK] tasks DONE."}
+{"ts":"2026-03-20T01:59:00+01:00","event":"watchdog_heartbeat","in_progress":"T011","pending_count":8,"p0_pending":0,"blockers":0,"progress_stale":false,"queue_empty":false,"urgent":false,"deadline_approaching":false,"status":"OK"}

@@ -2,6 +2,7 @@
 title: "Best AI Tools in 2026: The Ultimate Guide for Professionals"
 description: "A comprehensive review of the top AI tools in 2026 — from writing assistants to image generators, video creators, and automation platforms."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-4.jpg'
 author: "Shell AI"
 tags: ["AI tools", "productivity", "review", "2026"]
 featured: true

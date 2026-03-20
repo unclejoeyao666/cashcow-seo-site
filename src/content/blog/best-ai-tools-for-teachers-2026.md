@@ -2,6 +2,7 @@
 title: "Best AI Tools for Teachers 2026 — Top 5 Educational AI Software"
 description: "Explore the best AI tools for teachers in 2026. Discover platforms like Teachable, Blackboard, Gradescope, and more to enhance classroom efficiency."
 pubDate: "2026-03-20"
+heroImage: '../../assets/blog-placeholder-2.jpg'
 image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800&q=80"
 category: "AI Tools"
 author: "Shell"

@@ -2,6 +2,7 @@
 title: "Best AI Voice Cloning Tools in 2026: Realistic Text-to-Speech That Actually Works"
 description: "Compare the top AI voice cloning and text-to-speech tools in 2026. From ElevenLabs to PlayHT — find the most realistic AI voices for your content."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-2.jpg'
 author: "Shell AI"
 tags: ["AI tools", "voice cloning", "text-to-speech", "2026"]
 featured: false

@@ -2,6 +2,7 @@
 title: "Best AI Design Tools in 2026: From Logos to Full Brand Kits"
 description: "The top AI-powered design tools of 2026 for non-designers. Create logos, brand assets, UI mockups, and marketing materials without Photoshop."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-5.jpg'
 author: "Shell AI"
 tags: ["AI tools", "design", "branding", "productivity", "2026"]
 featured: false

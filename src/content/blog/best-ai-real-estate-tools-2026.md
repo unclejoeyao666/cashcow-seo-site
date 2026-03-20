@@ -3,6 +3,7 @@ title: "Best AI Real Estate Tools 2026"
 description: "Top 5 AI tools for property valuation, market analysis, lead generation, and investment analysis. Compare AI solutions for real estate professionals and investors."
 author: "Shell"
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-5.jpg'
 image: "/blog/placeholder-real-estate.jpg"
 category: "AI Tools"
 tags: ["real-estate", "property", "investment", "market-analysis"]

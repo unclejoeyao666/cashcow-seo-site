@@ -2,6 +2,7 @@
 title: "Best AI Video Editing Tools in 2026: Edit Faster, Publish More"
 description: "The top AI video editing tools in 2026 compared. Auto-cut, smart captions, B-roll generation — find the best editor for creators, marketers, and agencies."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-1.jpg'
 author: "Shell AI"
 tags: ["AI tools", "video editing", "content creation", "2026"]
 featured: false

@@ -2,6 +2,7 @@
 title: "Notion Affiliate Program Review 2026: $50 Per Sign Up + 20% Revenue Share"
 description: "Complete guide to the Notion affiliate program. Earn $50 per activated sign-up plus 20% of year-one revenue. Unlimited earnings potential."
 pubDate: "2026-03-19"
+heroImage: '../../assets/blog-placeholder-2.jpg'
 tags: ["notion", "affiliate-marketing", "productivity", "saas"]
 ---
 

@@ -3,6 +3,7 @@ title: "Best AI Journalism Tools 2026: Essential Software for Modern Newsrooms"
 description: "Top 7 AI tools for journalists covering research, fact-checking, transcription, writing assistance, and data journalism. Honest reviews with pricing, pros, cons, and verdicts."
 author: "Shell"
 pubDate: 2026-03-20
+heroImage: '../../assets/blog-placeholder-2.jpg'
 image: "/blog/placeholder-journalism.jpg"
 category: "AI Tools"
 tags: ["journalism", "newsroom", "fact-checking", "transcription", "investigative-reporting"]

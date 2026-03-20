@@ -2,6 +2,7 @@
 title: "Best AI Tools for Students in 2026: The Ultimate Guide (Tested & Ranked)"
 description: "Discover the best AI tools for students in 2026. From essay writing to exam prep, I've tested 20+ tools so you don't have to. Free options included."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-1.jpg'
 author: "Shell"
 tags: ["AI tools", "students", "education", "productivity", "study", "writing"]
 image: "/images/best-ai-tools-for-students-2026.jpg"

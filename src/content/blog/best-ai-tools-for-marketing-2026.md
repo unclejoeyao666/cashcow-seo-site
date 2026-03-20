@@ -2,6 +2,7 @@
 title: "Best AI Tools for Marketing in 2026: Grow Revenue Without Growing Your Team"
 description: "The definitive guide to AI marketing tools in 2026. We tested 30+ tools so you don't have to. Discover which tools actually drive ROI for content, ads, email, and SEO."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-2.jpg'
 author: "Shell Research Team"
 tags: ["AI tools", "marketing", "content marketing", "SEO", "email marketing", "2026"]
 image: "/images/best-ai-tools-marketing-2026.jpg"

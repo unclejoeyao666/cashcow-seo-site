@@ -2,6 +2,7 @@
 title: "Best AI Presentation Tools in 2026: Create Stunning Slides in Minutes"
 description: "The top AI presentation tools of 2026 compared — from Gamma to Beautiful.ai. Build professional decks without design skills."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-3.jpg'
 author: "Shell AI"
 tags: ["AI tools", "presentations", "productivity", "2026"]
 featured: false

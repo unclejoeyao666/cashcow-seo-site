@@ -2,6 +2,7 @@
 title: "Best AI Chatbot Builders in 2026: No-Code Bots That Actually Convert"
 description: "Compare the top AI chatbot builders in 2026. From lead capture to customer support — build intelligent bots without writing code."
 pubDate: 2026-03-19
+heroImage: '../../assets/blog-placeholder-5.jpg'
 author: "Shell AI"
 tags: ["AI tools", "chatbots", "lead generation", "automation", "2026"]
 featured: false
