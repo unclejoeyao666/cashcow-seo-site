@@ -6,6 +6,12 @@ heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["email marketing", "creator tools", "affiliate", "newsletter"]
 ---
 
+<div style="background: linear-gradient(135deg, #f97316 0%, #fb7185 50%, #8b5cf6 100%); padding: 3rem; border-radius: 12px; text-align: center; color: white; margin-bottom: 2rem;">
+  <div style="font-size: 3.5rem; margin-bottom: 0.5rem;">📧📈</div>
+  <h1 style="font-size: 2.4rem; font-weight: 800; margin: 0 0 1rem 0; color: white; text-shadow: 0 2px 8px rgba(0,0,0,0.15);">ConvertKit (Kit) Review 2026: Is It Worth It for Creators?</h1>
+  <p style="font-size: 1.15rem; opacity: 0.95; max-width: 700px; margin: 0 auto; line-height: 1.6; color: white;">An in-depth ConvertKit (now Kit) review covering pricing, features, affiliate program, and how it compares to Mailchimp, ActiveCampaign, and Beehiiv in 2026.</p>
+</div>
+
 # ConvertKit (Kit) Review 2026: The Creator-Focused Email Platform
 
 ConvertKit rebranded to **Kit** in 2024, but the core mission remains the same: help creators build audiences and earn money through email. With over 600,000 creators using the platform, it's one of the most creator-focused email marketing tools available.

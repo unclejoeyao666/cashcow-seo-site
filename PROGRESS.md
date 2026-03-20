@@ -51,3 +51,8 @@
 - 为10篇文章补齐/确认 HTML hero 图（teachers / writers / freelancers / small business / translation / travel / video editing / video generators / voice cloning / website builders）
 - build 成功：149 pages
 - 下一步：继续处理 T058
+
+## 2026-03-20 03:04 — T058 完成（补图批次 8/12）
+- 为10篇文章补齐 HTML hero 图（workflow automation / writing assistants / writing tools / wordpress plugins / bolt / chatgpt / claude / claude vs chatgpt / convertkit / copy.ai vs jasper）
+- build 成功：149 pages
+- 下一步：继续处理 T059
