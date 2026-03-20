@@ -6,6 +6,12 @@ heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["AI tools", "productivity", "meetings", "transcription"]
 ---
 
+<div style="background: linear-gradient(135deg, #7c3aed 0%, #4338ca 50%, #1e3a8a 100%); padding: 3rem; border-radius: 12px; text-align: center; color: white; margin-bottom: 2rem;">
+  <div style="font-size: 3.5rem; margin-bottom: 0.5rem;">🤖🎙️✨</div>
+  <h1 style="font-size: 2.2rem; font-weight: 800; margin: 0 0 1rem 0; color: white; line-height: 1.3;">Best AI Meeting Assistant Tools 2026</h1>
+  <p style="font-size: 1.15rem; opacity: 0.92; margin: 0; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.6;">Stop taking notes in meetings. The best AI meeting assistants in 2026 automatically record, transcribe, and summarize your calls—so you can focus on what matters.</p>
+</div>
+
 Meetings eat time. Note-taking in meetings wastes even more. In 2026, there's no reason to manually scribble down action items when AI meeting assistants can do it automatically—and often better than any human.
 
 This guide covers the best AI meeting assistant tools of 2026, ranked by accuracy, integrations, pricing, and actual usefulness.
