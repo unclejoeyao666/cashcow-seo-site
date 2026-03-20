@@ -208,3 +208,10 @@
 - T013 DONE：内链补强主任务收口（A-G 批次已完成并验证）
 - Build 成功：164 pages
 - 下一步：继续推进 T028 / T030 / T032 / T040 等高商业意图 cluster
+
+
+## 2026-03-20 08:55 — T028/T034 完成（Writing & Copy clusters）
+- T028A/B/C DONE：Writesonic vs Rytr vs Anyword / Best AI Blog Writers / AI Content Generation Platforms Compared
+- T034A/B/C DONE：Jasper vs Copy.ai vs Writesonic / AI Copywriting for Ads / Best AI Sales Copy Tools
+- Build 成功：170 pages
+- 下一步：继续推进 T030 / T032 / T040

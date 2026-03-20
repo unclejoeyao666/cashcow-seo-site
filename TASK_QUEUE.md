@@ -10,12 +10,12 @@
 | T046A | P1 | [COMPARE] | DONE | 写作并发布：HubSpot AI vs Salesforce Einstein vs Zoho AI（高 intent 横向对比，含 pricing / CRM depth / SMB vs enterprise） | — | 2026-03-20 08:47 |
 | T046B | P1 | [BUYER_INTENT] | DONE | 写作并发布：Best AI CRM Tools 2026（聚焦 pipeline automation / enrichment / ROI） | — | 2026-03-20 08:47 |
 | T046C | P1 | [BUYER_INTENT] | DONE | 写作并发布：AI Lead Scoring Tools Compared（面向 RevOps / sales ops buyer intent） | — | 2026-03-20 08:47 |
-| T028A | P1 | [COMPARE] | PENDING | 写作并发布：Writesonic vs Rytr vs Anyword（高 intent 横向对比，含 pricing / use-case / output quality） | — | 2026-03-20 05:35 |
-| T028B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Blog Writers 2026（避免与已有内容重复，聚焦 editorial teams / affiliate blogs） | — | 2026-03-20 05:35 |
-| T028C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Content Generation Platforms Compared（聚焦 workflow / SEO / conversion copy） | — | 2026-03-20 05:35 |
-| T034A | P1 | [COMPARE] | PENDING | 写作并发布：Jasper vs Copy.ai vs Writesonic（Deep Dive，对比 ads / landing pages / campaign workflow） | — | 2026-03-20 05:35 |
-| T034B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Copywriting for Ads（聚焦 paid media / CTR / creative testing） | — | 2026-03-20 05:35 |
-| T034C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Sales Copy Tools（聚焦 outbound / ecommerce / funnels） | — | 2026-03-20 05:35 |
+| T028A | P1 | [COMPARE] | DONE | 写作并发布：Writesonic vs Rytr vs Anyword（高 intent 横向对比，含 pricing / use-case / output quality） | — | 2026-03-20 08:55 |
+| T028B | P1 | [BUYER_INTENT] | DONE | 写作并发布：Best AI Blog Writers 2026（避免与已有内容重复，聚焦 editorial teams / affiliate blogs） | — | 2026-03-20 08:55 |
+| T028C | P1 | [BUYER_INTENT] | DONE | 写作并发布：AI Content Generation Platforms Compared（聚焦 workflow / SEO / conversion copy） | — | 2026-03-20 08:55 |
+| T034A | P1 | [COMPARE] | DONE | 写作并发布：Jasper vs Copy.ai vs Writesonic（Deep Dive，对比 ads / landing pages / campaign workflow） | — | 2026-03-20 08:55 |
+| T034B | P1 | [BUYER_INTENT] | DONE | 写作并发布：AI Copywriting for Ads（聚焦 paid media / CTR / creative testing） | — | 2026-03-20 08:55 |
+| T034C | P1 | [BUYER_INTENT] | DONE | 写作并发布：Best AI Sales Copy Tools（聚焦 outbound / ecommerce / funnels） | — | 2026-03-20 08:55 |
 | T030A | P1 | [COMPARE] | PENDING | 写作并发布：Tidio vs Intercom vs Drift AI（高 intent 横向对比，含 pricing / chatbot quality / support fit） | — | 2026-03-20 05:35 |
 | T030B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Chatbots for Business 2026（聚焦 support / lead capture / automation ROI） | — | 2026-03-20 05:35 |
 | T030C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Customer Service Automation（聚焦 ticket deflection / CX ops / implementation） | — | 2026-03-20 05:35 |
