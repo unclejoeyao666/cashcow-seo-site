@@ -46,3 +46,8 @@
 - 为10篇文章补齐 HTML hero 图（ecommerce / freelancers / lawyers / marketing / nonprofits / photographers / real estate / small business / startups / students）
 - build 成功：149 pages
 - 下一步：继续处理 T057
+
+## 2026-03-20 03:02 — T057 完成（补图批次 7/12）
+- 为10篇文章补齐/确认 HTML hero 图（teachers / writers / freelancers / small business / translation / travel / video editing / video generators / voice cloning / website builders）
+- build 成功：149 pages
+- 下一步：继续处理 T058
