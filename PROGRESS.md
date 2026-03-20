@@ -131,3 +131,10 @@
 - T016C DONE：ai-integration-platforms-compared-ops-teams-2026.md（Ops team buyer-intent）
 - Build 成功：155 pages
 - 下一步：继续推进 T027 / T028 / T029
+
+## 2026-03-20 05:20 — T027 完成（Avatar Video 系列 3 篇）
+- synthesia-vs-heygen-vs-colossyan-2026.md（三方对比）
+- best-ai-avatar-video-makers-2026.md（buyer-intent 大全）
+- ai-spokesperson-generator-tools-2026.md（营销/销售场景 spokesperson 对比）
+- Build 成功：158 pages
+- 下一步：继续推进 T028 / T029 / T030

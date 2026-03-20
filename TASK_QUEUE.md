@@ -13,7 +13,7 @@
 | T017A | P1 | [COMPARE] | DONE | 写作并发布：Notion AI vs Coda AI vs Slite（高 intent 横向对比，含 docs / wiki / team knowledge 场景） | — | 2026-03-20 04:31 |
 | T017B | P1 | [BUYER_INTENT] | DONE | 写作并发布：AI Note-Taking Apps Ranked for Meetings and Research 2026（避免与既有大全文重复，强调 meeting / research intent） | — | 2026-03-20 04:31 |
 | T017C | P1 | [BUYER_INTENT] | DONE | 写作并发布：Best AI Knowledge Base Tools for Internal Teams 2026（聚焦 internal docs / SOP / support enablement） | — | 2026-03-20 04:31 |
-| T027 | P1 | [COMPARE] | PENDING | 新增3篇：Synthesia vs HeyGen vs Colossyan, Best AI Avatar Video Makers, AI Spokesperson Generator Tools | — | 2026-03-20 04:27 |
+| T027 | P1 | [COMPARE] | DONE | 新增3篇：Synthesia vs HeyGen vs Colossyan, Best AI Avatar Video Makers, AI Spokesperson Generator Tools | — | 2026-03-20 05:20 |
 | T028 | P1 | [COMPARE] | PENDING | 新增3篇：Writesonic vs Rytr vs Anyword, Best AI Blog Writers 2026, AI Content Generation Platforms Compared | — | 2026-03-20 04:27 |
 | T029 | P1 | [COMPARE] | PENDING | 新增3篇：Pictory vs InVideo vs Lumen5, Best AI Video Creators from Text, Automated Video Production Tools | — | 2026-03-20 04:27 |
 | T030 | P1 | [COMPARE] | PENDING | 新增3篇：Tidio vs Intercom vs Drift AI, Best AI Chatbots for Business, AI Customer Service Automation | — | 2026-03-20 04:27 |
