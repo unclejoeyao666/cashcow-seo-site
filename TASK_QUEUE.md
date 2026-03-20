@@ -25,9 +25,9 @@
 | T040A | P1 | [COMPARE] | DONE | 写作并发布：Shopify AI vs BigCommerce vs WooCommerce AI（高 intent 横向对比，含 pricing / store ops / app ecosystem） | — | 2026-03-20 10:13 |
 | T040B | P1 | [BUYER_INTENT] | DONE | 写作并发布：Best AI Ecommerce Platforms 2026（聚焦 catalog / conversion / merchant ROI） | — | 2026-03-20 10:13 |
 | T040C | P1 | [BUYER_INTENT] | DONE | 写作并发布：AI Product Description Tools（聚焦 PDP conversion / bulk generation / catalog scale） | — | 2026-03-20 10:13 |
-| T042A | P1 | [COMPARE] | PENDING | 写作并发布：Codeium vs Tabnine vs Amazon CodeWhisperer（高 intent 横向对比，含 free tier / IDE support / team fit） | — | 2026-03-20 05:35 |
-| T042B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best Free AI Coding Tools 2026（聚焦 developers / startups / cost-sensitive teams） | — | 2026-03-20 05:35 |
-| T042C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Code Completion Compared（聚焦 speed / accuracy / privacy / enterprise controls） | — | 2026-03-20 05:35 |
+| T042A | P1 | [COMPARE] | DONE | 写作并发布：Codeium vs Tabnine vs Amazon CodeWhisperer（高 intent 横向对比，含 free tier / IDE support / team fit） | — | 2026-03-20 10:18 |
+| T042B | P1 | [BUYER_INTENT] | DONE | 写作并发布：Best Free AI Coding Tools 2026（聚焦 developers / startups / cost-sensitive teams） | — | 2026-03-20 10:18 |
+| T042C | P1 | [BUYER_INTENT] | DONE | 写作并发布：AI Code Completion Compared（聚焦 speed / accuracy / privacy / enterprise controls） | — | 2026-03-20 10:18 |
 | T029A | P1 | [COMPARE] | PENDING | 写作并发布：Pictory vs InVideo vs Lumen5（高 intent 横向对比，含 pricing / text-to-video / social workflow） | — | 2026-03-20 05:35 |
 | T029B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Video Creators from Text 2026（聚焦 creators / agencies / repurposing） | — | 2026-03-20 05:35 |
 | T029C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Automated Video Production Tools（聚焦 scale / editing speed / template workflow） | — | 2026-03-20 05:35 |
