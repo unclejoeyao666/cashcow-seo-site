@@ -4,6 +4,65 @@
 
 | ID | Priority | Tag | Status | Task | depends_on | Updated |
 |----|----------|-----|--------|------|------------|---------|
+| T045A | P1 | [COMPARE] | DONE | 写作并发布：Ahrefs AI vs SEMrush AI vs Moz（高 intent 横向对比，含 pricing / keyword data depth / agency fit） | — | 2026-03-20 08:47 |
+| T045B | P1 | [BUYER_INTENT] | DONE | 写作并发布：Best AI SEO Suites 2026（聚焦 buyer intent，强调 ROI / workflow / rank tracking） | — | 2026-03-20 08:47 |
+| T045C | P1 | [BUYER_INTENT] | DONE | 写作并发布：AI Keyword Research Tools Deep Dive（聚焦 search volume / clustering / SERP analysis） | — | 2026-03-20 08:47 |
+| T046A | P1 | [COMPARE] | DONE | 写作并发布：HubSpot AI vs Salesforce Einstein vs Zoho AI（高 intent 横向对比，含 pricing / CRM depth / SMB vs enterprise） | — | 2026-03-20 08:47 |
+| T046B | P1 | [BUYER_INTENT] | DONE | 写作并发布：Best AI CRM Tools 2026（聚焦 pipeline automation / enrichment / ROI） | — | 2026-03-20 08:47 |
+| T046C | P1 | [BUYER_INTENT] | DONE | 写作并发布：AI Lead Scoring Tools Compared（面向 RevOps / sales ops buyer intent） | — | 2026-03-20 08:47 |
+| T028A | P1 | [COMPARE] | PENDING | 写作并发布：Writesonic vs Rytr vs Anyword（高 intent 横向对比，含 pricing / use-case / output quality） | — | 2026-03-20 05:35 |
+| T028B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Blog Writers 2026（避免与已有内容重复，聚焦 editorial teams / affiliate blogs） | — | 2026-03-20 05:35 |
+| T028C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Content Generation Platforms Compared（聚焦 workflow / SEO / conversion copy） | — | 2026-03-20 05:35 |
+| T034A | P1 | [COMPARE] | PENDING | 写作并发布：Jasper vs Copy.ai vs Writesonic（Deep Dive，对比 ads / landing pages / campaign workflow） | — | 2026-03-20 05:35 |
+| T034B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Copywriting for Ads（聚焦 paid media / CTR / creative testing） | — | 2026-03-20 05:35 |
+| T034C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Sales Copy Tools（聚焦 outbound / ecommerce / funnels） | — | 2026-03-20 05:35 |
+| T030A | P1 | [COMPARE] | PENDING | 写作并发布：Tidio vs Intercom vs Drift AI（高 intent 横向对比，含 pricing / chatbot quality / support fit） | — | 2026-03-20 05:35 |
+| T030B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Chatbots for Business 2026（聚焦 support / lead capture / automation ROI） | — | 2026-03-20 05:35 |
+| T030C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Customer Service Automation（聚焦 ticket deflection / CX ops / implementation） | — | 2026-03-20 05:35 |
+| T032A | P1 | [COMPARE] | PENDING | 写作并发布：Mailchimp AI vs Klaviyo vs ActiveCampaign（高 intent 横向对比，含 pricing / segmentation / ecommerce fit） | — | 2026-03-20 05:35 |
+| T032B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Email Tools 2026（聚焦 lifecycle marketing / SMB ROI / deliverability） | — | 2026-03-20 05:35 |
+| T032C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Email Subject Line Generators（聚焦 opens / testing / campaign speed） | — | 2026-03-20 05:35 |
+| T040A | P1 | [COMPARE] | PENDING | 写作并发布：Shopify AI vs BigCommerce vs WooCommerce AI（高 intent 横向对比，含 pricing / store ops / app ecosystem） | — | 2026-03-20 05:35 |
+| T040B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Ecommerce Platforms 2026（聚焦 catalog / conversion / merchant ROI） | — | 2026-03-20 05:35 |
+| T040C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Product Description Tools（聚焦 PDP conversion / bulk generation / catalog scale） | — | 2026-03-20 05:35 |
+| T042A | P1 | [COMPARE] | PENDING | 写作并发布：Codeium vs Tabnine vs Amazon CodeWhisperer（高 intent 横向对比，含 free tier / IDE support / team fit） | — | 2026-03-20 05:35 |
+| T042B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best Free AI Coding Tools 2026（聚焦 developers / startups / cost-sensitive teams） | — | 2026-03-20 05:35 |
+| T042C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Code Completion Compared（聚焦 speed / accuracy / privacy / enterprise controls） | — | 2026-03-20 05:35 |
+| T029A | P1 | [COMPARE] | PENDING | 写作并发布：Pictory vs InVideo vs Lumen5（高 intent 横向对比，含 pricing / text-to-video / social workflow） | — | 2026-03-20 05:35 |
+| T029B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Video Creators from Text 2026（聚焦 creators / agencies / repurposing） | — | 2026-03-20 05:35 |
+| T029C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Automated Video Production Tools（聚焦 scale / editing speed / template workflow） | — | 2026-03-20 05:35 |
+| T033A | P1 | [COMPARE] | PENDING | 写作并发布：Murf vs Play.ht vs WellSaid Labs（高 intent 横向对比，含 pricing / voice quality / commercial use） | — | 2026-03-20 05:35 |
+| T033B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Voice Generators 2026（聚焦 creators / ads / e-learning） | — | 2026-03-20 05:35 |
+| T033C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Text-to-Speech Tools Compared（聚焦 naturalness / licensing / API access） | — | 2026-03-20 05:35 |
+| T035A | P1 | [COMPARE] | PENDING | 写作并发布：Stockimg.ai vs NightCafe vs Leonardo AI（高 intent 横向对比，含 pricing / image control / marketer fit） | — | 2026-03-20 05:35 |
+| T035B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Art Generators 2026（聚焦 marketers / creators / commercial rights） | — | 2026-03-20 05:35 |
+| T035C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Image Tools for Marketing（聚焦 ad creative / blog assets / brand workflow） | — | 2026-03-20 05:35 |
+| T037A | P1 | [COMPARE] | PENDING | 写作并发布：Fireflies vs Grain vs Avoma（高 intent 横向对比，含 pricing / conversation intelligence / sales fit） | — | 2026-03-20 05:35 |
+| T037B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Sales Call Tools 2026（聚焦 coaching / note capture / pipeline impact） | — | 2026-03-20 05:35 |
+| T037C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Revenue Intelligence Platforms（聚焦 RevOps / forecasting / call analytics） | — | 2026-03-20 05:35 |
+| T044A | P1 | [COMPARE] | PENDING | 写作并发布：Perplexity vs Google AI vs You.com（高 intent 横向对比，含 accuracy / citations / workflow fit） | — | 2026-03-20 05:35 |
+| T044B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Search Engines 2026（聚焦 knowledge workers / speed / trustworthiness） | — | 2026-03-20 05:35 |
+| T044C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Research Assistants Compared（聚焦 citation workflows / synthesis / research depth） | — | 2026-03-20 05:35 |
+| T047A | P1 | [COMPARE] | PENDING | 写作并发布：Tableau AI vs Power BI Copilot vs Looker（高 intent 横向对比，含 pricing / BI depth / enterprise fit） | — | 2026-03-20 05:35 |
+| T047B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Analytics Tools 2026（聚焦 dashboards / self-serve BI / automation） | — | 2026-03-20 05:35 |
+| T047C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Data Visualization Compared（聚焦 storytelling / business users / insights speed） | — | 2026-03-20 05:35 |
+| T049A | P1 | [COMPARE] | PENDING | 写作并发布：Gemini vs Claude vs ChatGPT（2026 Update，含 pricing / reasoning / best-for matrix） | — | 2026-03-20 05:35 |
+| T049B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI for Students 2026（聚焦 studying / writing / research / budget） | — | 2026-03-20 05:35 |
+| T049C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Study Tools Ranked（聚焦 flashcards / summarization / exam prep） | — | 2026-03-20 05:35 |
+| T013 | P2 | [OPTIMIZE] | DONE | 增强文章内链结构：每篇文章至少2个内部交叉链接 | T006 | 2026-03-20 08:47 |
+
+## Archive (DONE)
+
+| ID | Priority | Tag | Status | Task | depends_on | Updated |
+|----|----------|-----|--------|------|------------|---------|
+| T013G | P2 | [OPTIMIZE] | DONE | 内链补强批次7：补强 4 个专题枢纽页（students / writers / social media / website builders） | T013 | 2026-03-20 06:00 |
+| T013F | P2 | [OPTIMIZE] | DONE | 内链补强批次6：补强 4 个专题枢纽页（coding assistants / copywriting / research / marketing） | T013 | 2026-03-20 05:58 |
+| T013E | P2 | [OPTIMIZE] | DONE | 内链补强批次5：补强 4 个流量枢纽页（ChatGPT / Claude / automation / image generators） | T013 | 2026-03-20 05:56 |
+| T013D | P2 | [OPTIMIZE] | DONE | 内链补强批次4：修复 Perplexity 结构异常并补强 3 篇低链接大全页（data analysis / productivity / small business） | T013 | 2026-03-20 05:55 |
+| T013C | P2 | [OPTIMIZE] | DONE | 内链补强批次3：为 4 个 buyer-intent cluster 页面补足相关站内链接（email / voice / ecommerce / analytics） | T013 | 2026-03-20 05:51 |
+| T013B | P2 | [OPTIMIZE] | DONE | 内链补强批次2：为 6 篇商业意图核心页补强 cluster 链接（SEO / workflow automation / CRM / chatbots） | T013 | 2026-03-20 05:48 |
+| T013A | P2 | [OPTIMIZE] | DONE | 内链补强批次1：为 6 篇高价值文章补足相关站内链接（Cursor / DeepSeek / Gemini vs Claude / Copilot vs ChatGPT / Grok / Perplexity） | T013 | 2026-03-20 05:45 |
+| T001 | P0 | [QUICK] | DONE | 修复 test-links.mjs：将 BASE 从 `/ai-tools-hub` 改为 `/cashcow-seo-site` | — | 2026-03-20 01:30 |
 | T015A | P1 | [COMPARE] | DONE | 写作并发布：Canva AI vs Adobe Express vs Figma AI（高 intent 横向对比，含 pricing / use-case / winner 模块） | — | 2026-03-20 04:31 |
 | T015B | P1 | [COMPARE] | DONE | 写作并发布：Descript vs Riverside vs Squadcast（高 intent 横向对比，含 pricing / creator fit / workflow 差异） | — | 2026-03-20 04:31 |
 | T015C | P1 | [COMPARE] | DONE | 写作并发布：Loom AI vs Vidyard vs Sendspark（高 intent 横向对比，含 sales / async video / CTA 场景） | — | 2026-03-20 04:31 |
@@ -14,28 +73,6 @@
 | T017B | P1 | [BUYER_INTENT] | DONE | 写作并发布：AI Note-Taking Apps Ranked for Meetings and Research 2026（避免与既有大全文重复，强调 meeting / research intent） | — | 2026-03-20 04:31 |
 | T017C | P1 | [BUYER_INTENT] | DONE | 写作并发布：Best AI Knowledge Base Tools for Internal Teams 2026（聚焦 internal docs / SOP / support enablement） | — | 2026-03-20 04:31 |
 | T027 | P1 | [COMPARE] | DONE | 新增3篇：Synthesia vs HeyGen vs Colossyan, Best AI Avatar Video Makers, AI Spokesperson Generator Tools | — | 2026-03-20 05:20 |
-| T028 | P1 | [COMPARE] | PENDING | 新增3篇：Writesonic vs Rytr vs Anyword, Best AI Blog Writers 2026, AI Content Generation Platforms Compared | — | 2026-03-20 04:27 |
-| T029 | P1 | [COMPARE] | PENDING | 新增3篇：Pictory vs InVideo vs Lumen5, Best AI Video Creators from Text, Automated Video Production Tools | — | 2026-03-20 04:27 |
-| T030 | P1 | [COMPARE] | PENDING | 新增3篇：Tidio vs Intercom vs Drift AI, Best AI Chatbots for Business, AI Customer Service Automation | — | 2026-03-20 04:27 |
-| T032 | P1 | [COMPARE] | PENDING | 新增3篇：Mailchimp AI vs Klaviyo vs ActiveCampaign, Best AI Email Tools 2026, AI Email Subject Line Generators | — | 2026-03-20 04:27 |
-| T033 | P1 | [COMPARE] | PENDING | 新增3篇：Murf vs Play.ht vs WellSaid Labs, Best AI Voice Generators 2026, Text-to-Speech Tools Compared | — | 2026-03-20 04:27 |
-| T034 | P1 | [COMPARE] | PENDING | 新增3篇：Jasper vs Copy.ai vs Writesonic (Deep Dive), AI Copywriting for Ads, Best AI Sales Copy Tools | — | 2026-03-20 04:27 |
-| T035 | P1 | [COMPARE] | PENDING | 新增3篇：Stockimg.ai vs NightCafe vs Leonardo AI, Best AI Art Generators 2026, AI Image Tools for Marketing | — | 2026-03-20 04:27 |
-| T037 | P1 | [COMPARE] | PENDING | 新增3篇：Fireflies vs Grain vs Avoma, Best AI Sales Call Tools, AI Revenue Intelligence Platforms | — | 2026-03-20 04:27 |
-| T040 | P1 | [COMPARE] | PENDING | 新增3篇：Shopify AI vs BigCommerce vs WooCommerce AI, Best AI Ecommerce Platforms, AI Product Description Tools | — | 2026-03-20 04:27 |
-| T042 | P1 | [COMPARE] | PENDING | 新增3篇：Codeium vs Tabnine vs Amazon CodeWhisperer, Best Free AI Coding Tools, AI Code Completion Compared | — | 2026-03-20 04:27 |
-| T044 | P1 | [COMPARE] | PENDING | 新增3篇：Perplexity vs Google AI vs You.com, Best AI Search Engines 2026, AI Research Assistants Compared | — | 2026-03-20 04:27 |
-| T045 | P1 | [COMPARE] | PENDING | 新增3篇：Ahrefs AI vs SEMrush AI vs Moz, Best AI SEO Suites 2026, AI Keyword Research Tools Deep Dive | — | 2026-03-20 04:27 |
-| T046 | P1 | [COMPARE] | PENDING | 新增3篇：Hubspot AI vs Salesforce Einstein vs Zoho AI, Best AI CRM 2026, AI Lead Scoring Tools Compared | — | 2026-03-20 04:27 |
-| T047 | P1 | [COMPARE] | PENDING | 新增3篇：Tableau AI vs Power BI Copilot vs Looker, Best AI Analytics Tools, AI Data Visualization Compared | — | 2026-03-20 04:27 |
-| T049 | P1 | [COMPARE] | PENDING | 新增3篇：Gemini vs Claude vs ChatGPT (2026 Update), Best AI for Students, AI Study Tools Ranked | — | 2026-03-20 04:27 |
-| T013 | P2 | [OPTIMIZE] | PENDING | 增强文章内链结构：每篇文章至少2个内部交叉链接 | T006 | 2026-03-20 04:27 |
-
-## Archive (DONE)
-
-| ID | Priority | Tag | Status | Task | depends_on | Updated |
-|----|----------|-----|--------|------|------------|---------|
-| T001 | P0 | [QUICK] | DONE | 修复 test-links.mjs：将 BASE 从 `/ai-tools-hub` 改为 `/cashcow-seo-site` | — | 2026-03-20 01:30 |
 | T002 | P0 |  | DONE | 修复 BaseHead.astro：favicon/fonts/sitemap href 需加 base path 前缀 | — | 2026-03-20 01:30 |
 | T003 | P0 |  | DONE | 修复 cursor-ide-review-2026.md + how-to + cross-links 硬编码路径 | — | 2026-03-20 01:30 |
 | T004 | P0 |  | DONE | 全站 build + test-links 验证断链归零 (3227→0) | T001,T002,T003 | 2026-03-20 01:30 |
