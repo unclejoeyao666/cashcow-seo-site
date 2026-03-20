@@ -6,6 +6,15 @@ heroImage: "../../assets/blog-placeholder-3.jpg"
 tags: ["ai-tools", "chatgpt-alternatives", "ai-review", "xai", "grok"]
 ---
 
+<div style="background: linear-gradient(135deg, #05060a 0%, #2a0f5f 45%, #0ea5ff 100%); padding: 3rem; border-radius: 12px; text-align: center; color: white; margin: 0 0 2rem 0; box-shadow: 0 18px 50px rgba(14, 165, 255, 0.22);">
+  <div style="font-size: 3rem; line-height: 1.1; font-weight: 800; margin-bottom: 0.75rem; letter-spacing: -0.03em;">
+    🤖⚡ Grok AI Review 2026
+  </div>
+  <div style="font-size: 1.1rem; line-height: 1.7; max-width: 760px; margin: 0 auto; color: rgba(255,255,255,0.88);">
+    An honest, in-depth Grok AI review for 2026. We test Grok 3, compare it to ChatGPT and Claude, and reveal who should (and shouldn't) use it.
+  </div>
+</div>
+
 # Grok AI Review 2026: Is xAI's Chatbot Worth It?
 
 Elon Musk's AI company xAI launched Grok to much fanfare — and controversy. After testing Grok 3 extensively, I can tell you exactly where it excels, where it falls flat, and whether it's worth paying for in 2026.

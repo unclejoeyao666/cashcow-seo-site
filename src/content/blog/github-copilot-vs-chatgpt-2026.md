@@ -6,6 +6,15 @@ heroImage: "../../assets/blog-placeholder-2.jpg"
 tags: ["ai tools", "coding", "github copilot", "chatgpt", "developer tools", "comparison"]
 ---
 
+<div style="background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 35%, #0f172a 50%, #059669 65%, #10b981 100%); padding: 3rem; border-radius: 12px; text-align: center; color: white; margin: 0 0 2rem 0; box-shadow: 0 18px 45px rgba(15, 23, 42, 0.28); position: relative; overflow: hidden;">
+  <div style="position: absolute; inset: 0; background: radial-gradient(circle at 20% 20%, rgba(255,255,255,0.16), transparent 28%), radial-gradient(circle at 80% 30%, rgba(255,255,255,0.14), transparent 24%), radial-gradient(circle at 50% 85%, rgba(255,255,255,0.10), transparent 30%);"></div>
+  <div style="position: relative; z-index: 1;">
+    <div style="font-size: 1rem; letter-spacing: 0.18em; text-transform: uppercase; opacity: 0.9; margin-bottom: 0.75rem;">🤖 AI Coding Showdown ⚡</div>
+    <div style="font-size: clamp(2rem, 5vw, 3.4rem); font-weight: 800; line-height: 1.15; margin-bottom: 0.9rem;">GitHub Copilot 💙 vs ChatGPT 💚</div>
+    <div style="font-size: 1.08rem; max-width: 760px; margin: 0 auto; line-height: 1.7; opacity: 0.96;">In-depth comparison of GitHub Copilot vs ChatGPT for developers. Real test results on code generation, debugging, refactoring, and pricing. Which should YOU pay for?</div>
+  </div>
+</div>
+
 If you're a developer choosing between GitHub Copilot and ChatGPT, you're asking the right question — and the answer isn't obvious.
 
 **GitHub Copilot** is purpose-built for code. It lives inside your IDE, autocompletes as you type, and knows your codebase. **ChatGPT** is a general-purpose AI that also writes excellent code — but works differently.

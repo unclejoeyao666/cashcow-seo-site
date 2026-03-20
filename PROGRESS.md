@@ -62,3 +62,22 @@
 - 完成并落库 Batch 27 三篇写作工具文章：Grammarly vs ProWritingAid vs QuillBot、Best AI Grammar Checkers 2026、AI Paraphrasing Tools Compared
 - build 成功：152 pages
 - 下一步：继续处理 T059
+
+## 2026-03-20 03:10 — Planner 重排完成
+- 读取 TASK_QUEUE / BLOCKERS / OPERATIONS_DASHBOARD / PROGRESS，并检查 EXECUTION_LOG 最近20条
+- 队列统计：Active 40（IN_PROGRESS=3, PENDING=37），PENDING 充足，未触发新 batch 生成，`QUEUE_EMPTY=false`
+- 日志统计（最近20条，按现有字段归类）：
+  - Watchdog：4 次检查，0 次硬失败，1 次超时重置动作（T011 reset）
+  - Sprint/Heartbeat：6 次心跳，0 次执行失败，均为“无 QUICK 任务可领”
+  - Execution/Deep：10 条 DONE 完成记录，0 条失败
+  - 耗时说明：日志未稳定记录 duration 字段；按相邻完成事件粗估，最近补图/收口完成节奏约 1-7 分钟/批
+- 已清理明显重复/占位任务：T020、T021、T022
+- 已将剩余 4 个大补图任务拆成 8 个子任务（T059A-T062B），降低单轮超时风险
+- 已将 DONE 任务移到底部 Archive，仅保留 Active Queue 作为执行入口
+- 当前下一步：优先清空 P0 补图批次 9A-12B，再并行推进 T015/T016/T017 三个高 intent 对比内容 batch
+
+## 2026-03-20 03:15 — T059 完成（补图批次 9/12）
+- 为10篇评测/教程文章补齐 HTML hero 图（Cursor / DeepSeek / Gemini vs Claude / Copilot / Grammarly / Grok / HeyGen / automation / no-code chatbot）
+- 过程中部分子 agent 因认证/限流异常未正常收口，但文件改动已成功落盘并本地验证
+- build 成功：152 pages
+- 下一步：继续处理 T060
