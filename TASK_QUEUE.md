@@ -19,9 +19,9 @@
 | T030A | P1 | [COMPARE] | DONE | 写作并发布：Tidio vs Intercom vs Drift AI（高 intent 横向对比，含 pricing / chatbot quality / support fit） | — | 2026-03-20 09:13 |
 | T030B | P1 | [BUYER_INTENT] | DONE | 写作并发布：Best AI Chatbots for Business 2026（聚焦 support / lead capture / automation ROI） | — | 2026-03-20 09:13 |
 | T030C | P1 | [BUYER_INTENT] | DONE | 写作并发布：AI Customer Service Automation（聚焦 ticket deflection / CX ops / implementation） | — | 2026-03-20 09:13 |
-| T032A | P1 | [COMPARE] | PENDING | 写作并发布：Mailchimp AI vs Klaviyo vs ActiveCampaign（高 intent 横向对比，含 pricing / segmentation / ecommerce fit） | — | 2026-03-20 05:35 |
-| T032B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Email Tools 2026（聚焦 lifecycle marketing / SMB ROI / deliverability） | — | 2026-03-20 05:35 |
-| T032C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Email Subject Line Generators（聚焦 opens / testing / campaign speed） | — | 2026-03-20 05:35 |
+| T032A | P1 | [COMPARE] | DONE | 写作并发布：Mailchimp AI vs Klaviyo vs ActiveCampaign（高 intent 横向对比，含 pricing / segmentation / ecommerce fit） | — | 2026-03-20 10:09 |
+| T032B | P1 | [BUYER_INTENT] | DONE | 写作并发布：Best AI Email Tools 2026（聚焦 lifecycle marketing / SMB ROI / deliverability） | — | 2026-03-20 10:09 |
+| T032C | P1 | [BUYER_INTENT] | DONE | 写作并发布：AI Email Subject Line Generators（聚焦 opens / testing / campaign speed） | — | 2026-03-20 10:09 |
 | T040A | P1 | [COMPARE] | PENDING | 写作并发布：Shopify AI vs BigCommerce vs WooCommerce AI（高 intent 横向对比，含 pricing / store ops / app ecosystem） | — | 2026-03-20 05:35 |
 | T040B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Ecommerce Platforms 2026（聚焦 catalog / conversion / merchant ROI） | — | 2026-03-20 05:35 |
 | T040C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Product Description Tools（聚焦 PDP conversion / bulk generation / catalog scale） | — | 2026-03-20 05:35 |
