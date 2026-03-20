@@ -18,7 +18,7 @@
 | T014 | P2 | [QUICK] | DONE | 更新首页 hero stats 数字（Tools Reviewed / Articles 数量） | T006 | 2026-03-20 01:39 |
 | T015 | P1 | | IN_PROGRESS | 新增3篇高质量AI工具评测文章（Batch 24: Canva AI vs Adobe Express vs Figma AI, Descript vs Riverside vs Squadcast, Loom AI vs Vidyard vs Sendspark） | — | 2026-03-20 02:16 |
 | T016 | P1 | | IN_PROGRESS | 新增3篇高质量AI工具评测文章（Batch 25: Zapier AI vs Make vs n8n AI, Best AI Workflow Automation 2026, AI Integration Platforms Compared） | — | 2026-03-20 02:22 |
-| T017 | P1 | | PENDING | 新增3篇高质量AI工具评测文章（Batch 26） | — | 2026-03-20 |
+| T017 | P1 | | IN_PROGRESS | 新增3篇高质量AI工具评测文章（Batch 26: Notion AI vs Coda AI vs Slite, AI Note-Taking Apps Ranked 2026, Best AI Knowledge Base Tools 2026） | — | 2026-03-20 02:30 |
 | T018 | P1 | | PENDING | 新增3篇高质量AI工具评测文章（Batch 27） | — | 2026-03-20 |
 | T019 | P1 | [COMPLEX] | DONE | 全站 SEO audit：检查 meta descriptions、OG tags、schema markup 完整性 | T004 | 2026-03-20 01:59 |
 | T020 | P1 | | PENDING | 新增3篇高质量AI工具评测文章（Batch 28） | — | 2026-03-20 |
@@ -52,7 +52,7 @@
 | T048 | P1 | | PENDING | 新增3篇：Wix AI vs Squarespace AI vs WordPress AI, Best AI Website Builders 2026, No-Code AI Site Generators | — | 2026-03-20 |
 | T049 | P1 | | PENDING | 新增3篇：Gemini vs Claude vs ChatGPT (2026 Update), Best AI for Students, AI Study Tools Ranked | — | 2026-03-20 |
 | T050 | P1 | | PENDING | 新增3篇：AI for Real Estate Agents, AI for Insurance Brokers, AI for Financial Advisors — Niche Tool Reviews | — | 2026-03-20 |
-| T051 | P0 | [COMPLEX] | PENDING | 【补图批次1/12】给以下10篇文章补 HTML hero 图：ai-passive-income-ideas-2026, best-ai-accounting-tools-2026, best-ai-agriculture-tools-2026, best-ai-architecture-3d-tools-2026, best-ai-automation-tools-2026, best-ai-chatbot-builders-2026, best-ai-coding-assistants-2026, best-ai-copywriting-tools-2026, best-ai-crm-tools-2026, best-ai-customer-support-tools-2026 | — | 2026-03-20 |
+| T051 | P0 | [COMPLEX] | DONE | 【补图批次1/12】给以下10篇文章补 HTML hero 图：ai-passive-income-ideas-2026, best-ai-accounting-tools-2026, best-ai-agriculture-tools-2026, best-ai-architecture-3d-tools-2026, best-ai-automation-tools-2026, best-ai-chatbot-builders-2026, best-ai-coding-assistants-2026, best-ai-copywriting-tools-2026, best-ai-crm-tools-2026, best-ai-customer-support-tools-2026 | — | 2026-03-20 02:30 |
 | T052 | P0 | [COMPLEX] | PENDING | 【补图批次2/12】给以下10篇文章补 HTML hero 图：best-ai-cybersecurity-tools-2026, best-ai-data-analysis-tools-2026, best-ai-design-tools-2026, best-ai-education-tutoring-tools-2026, best-ai-email-marketing-tools-2026, best-ai-fitness-health-tools-2026, best-ai-gaming-tools-2026, best-ai-hr-tools-2026, best-ai-image-generators-2026, best-ai-interior-design-tools-2026 | — | 2026-03-20 |
 | T053 | P0 | [COMPLEX] | PENDING | 【补图批次3/12】给以下10篇文章补 HTML hero 图：best-ai-inventory-management-tools-2026, best-ai-journalism-tools-2026, best-ai-language-learning-tools-2026, best-ai-legal-tools-2026, best-ai-meeting-assistants-2026, best-ai-mental-health-wellness-tools-2026, best-ai-music-generators-2026, best-ai-note-taking-apps-2026, best-ai-personal-finance-tools-2026, best-ai-photo-editing-tools-2026 | — | 2026-03-20 |
 | T054 | P0 | [COMPLEX] | PENDING | 【补图批次4/12】给以下10篇文章补 HTML hero 图：best-ai-podcast-tools-2026, best-ai-presentation-tools-2026, best-ai-productivity-tools-2026, best-ai-project-management-tools-2026, best-ai-real-estate-tools-2026, best-ai-recruiting-tools-2026, best-ai-research-tools-2026, best-ai-resume-builders-2026, best-ai-sales-tools-2026, best-ai-scheduling-tools-2026 | — | 2026-03-20 |

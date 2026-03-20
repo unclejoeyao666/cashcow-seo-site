@@ -9,6 +9,12 @@ featured: false
 affiliate: true
 ---
 
+<div style="background: linear-gradient(135deg, #FF6B35 0%, #F7931E 40%, #D4A017 70%, #C8860A 100%); padding: 3rem; border-radius: 12px; text-align: center; color: white; margin-bottom: 2rem; box-shadow: 0 8px 32px rgba(255, 107, 53, 0.3);">
+  <div style="font-size: 3.5rem; margin-bottom: 0.5rem;">🤖👥📊</div>
+  <h1 style="font-size: 2.2rem; font-weight: 800; margin: 0 0 0.75rem 0; color: white; line-height: 1.2; text-shadow: 0 2px 8px rgba(0,0,0,0.2);">Best AI HR Tools 2026</h1>
+  <p style="font-size: 1.1rem; opacity: 0.92; margin: 0; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5;">Top 5 AI HR platforms for recruiting, onboarding, payroll automation, and employee engagement. Compare pricing and features.</p>
+</div>
+
 # Best AI HR Tools 2026
 
 AI is transforming HR — from resume screening to payroll to engagement. Here are the top 5 platforms delivering measurable hiring and retention ROI.
