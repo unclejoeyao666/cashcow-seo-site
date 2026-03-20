@@ -52,6 +52,7 @@
 - ⭐ 所有付费工具必须详列价格套餐（全 tier），用 HTML pricing table
 
 ## 状态标志
+- PROJECT_STATUS=PAUSED
 - QUEUE_EMPTY=false
 - URGENT=false
 - DEADLINE=2026-03-20T09:00:00+01:00
