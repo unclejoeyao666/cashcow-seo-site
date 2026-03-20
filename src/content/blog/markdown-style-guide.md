@@ -5,6 +5,12 @@ pubDate: 2024-06-19
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
 
+<div style="background: linear-gradient(135deg, #334155 0%, #475569 45%, #0f172a 100%); padding: 3rem; border-radius: 12px; text-align: center; color: white; margin: 0 0 2rem 0; box-shadow: 0 20px 50px rgba(15, 23, 42, 0.26);">
+  <div style="font-size: 3rem; line-height: 1; margin-bottom: 0.75rem;">#️⃣📝✅</div>
+  <div style="font-size: 2.35rem; font-weight: 800; line-height: 1.2; margin-bottom: 0.9rem; letter-spacing: -0.02em;">Markdown Style Guide</div>
+  <div style="font-size: 1.08rem; line-height: 1.7; max-width: 760px; margin: 0 auto; color: rgba(255,255,255,0.92);">Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.</div>
+</div>
+
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
 
 ## Headings

@@ -91,3 +91,8 @@
 - 为10篇对比/评测/affiliate 文章补齐 HTML hero 图（Notion/Obsidian、Perplexity、Runway、Semrush、Sora/Kling/Runway、Surfer、Synthesia、Teachable、Thinkific）
 - build 成功：152 pages
 - 下一步：处理最后一批 T062
+
+## 2026-03-20 03:20 — T062 完成（补图批次 12/12）
+- 为最后6篇文章补齐 HTML hero 图（v0、Windsurf、first/second/third-post、markdown-style-guide）
+- 完成最终 build 验证：152 pages
+- 下一步：补图主线已全部完成，可转入质量审查/内链/SEO 巡检
