@@ -138,3 +138,65 @@
 - ai-spokesperson-generator-tools-2026.md（营销/销售场景 spokesperson 对比）
 - Build 成功：158 pages
 - 下一步：继续推进 T028 / T029 / T030
+
+## 2026-03-20 05:35 — Planner 三次重排完成
+- 已读取 TASK_QUEUE / BLOCKERS / OPERATIONS_DASHBOARD / PROGRESS，并检查 EXECUTION_LOG 最近20条
+- 队列原始统计：PENDING=16，未低于 15，因此本轮未新增新 batch，也未触发话题审计子 agent
+- 已执行清理：将 Active Queue 中 DONE 的 T015A-T017C、T027 统一移入 Archive
+- 已执行拆解：将剩余 15 个内容 batch 全部拆成 45 个文章级子任务（每个 batch 拆为 A/B/C），便于后续最大并行
+- 重排后队列：Active PENDING=46（P1=45 / P2=1），`QUEUE_EMPTY=false`
+- 本轮无新增阻塞；deadline 距离约 3 小时 25 分，尚未进入 <2h 高压模式
+- 下一步：优先并行执行 T045A / T045B / T045C，其次 T046A / T046B / T046C
+
+## 2026-03-20 05:45 — T013A 完成（内链补强批次 1）
+- 完成质量审查首轮：确认全站 152/152 篇文章均已存在 HTML hero 图
+- 识别主要优化缺口为近期文章内链覆盖偏弱，而非 hero 缺失
+- 为 6 篇高价值文章补足相关站内链接：cursor-ide-review-2026、deepseek-review-2026、gemini-vs-claude-2026、github-copilot-vs-chatgpt-2026、grok-ai-review-2026、perplexity-ai-review-2026
+- 每篇现已具备 3 个内部交叉链接；build 成功：158 pages
+- 下一步：继续执行 T013 后续批次，优先补强高商业意图 cluster（SEO / CRM / automation / chatbots）
+
+## 2026-03-20 05:48 — T013B 完成（内链补强批次 2）
+- 为 6 篇商业意图核心页补强 cluster 内链：best-ai-seo-tools-2026、ahrefs-vs-semrush-2026、surfer-seo-review-2026、best-ai-workflow-automation-tools-small-business-2026、best-ai-crm-tools-2026、best-ai-chatbot-builders-2026
+- 本轮重点将 SEO / workflow automation / CRM / chatbot 几个 cluster 彼此串联，提升专题页与评测页之间的流动性
+- 批次内页面现有内部链接数提升到 3–6 条不等；build 成功：158 pages
+- 下一步：继续执行 T013 后续批次，补强 email / ecommerce / voice / analytics 等剩余 buyer-intent cluster
+
+## 2026-03-20 05:51 — T013C 完成（内链补强批次 3）
+- 为 4 个 buyer-intent cluster 页面补足相关站内链接：best-ai-email-marketing-tools-2026、best-ai-voice-cloning-tools-2026、best-ai-tools-for-ecommerce-2026、tableau-ai-vs-power-bi-vs-looker-2026
+- 期间清理了误指向未来待写页面的链接，统一改为当前仓库中已存在的相关文章，避免制造伪内链
+- 批次内页面现有内部链接数提升到 4–6 条；build 成功：158 pages
+- 下一步：继续执行 T013 后续批次，扫尾剩余低链接页面，并顺手修复重复 H1/语义层级异常页面
+
+## 2026-03-20 05:55 — T013D 完成（结构修复 + 内链补强批次 4）
+- 修复 `perplexity-ai-review-2026` 的语义层级异常：将误写成 Markdown H1 的代码示例改回普通代码块文本，消除重复 H1 风险
+- 为 3 篇低链接大全页补足相关文章：best-ai-data-analysis-tools-2026、best-ai-productivity-tools-2026、best-ai-tools-for-small-business-2026
+- 修复后 `perplexity-ai-review-2026` 不再含重复 H1；上述 3 页内部链接提升到 3–4 条
+- build 成功：158 pages
+- 下一步：继续筛剩余 <2 内链页面，优先处理最有商业意图或专题页价值的页面
+
+## 2026-03-20 05:56 — T013E 完成（内链补强批次 5）
+- 为 4 个流量枢纽页补足相关文章：chatgpt-review-2026、claude-ai-review-2026、best-ai-automation-tools-2026、best-ai-image-generators-2026
+- 重点打通 AI assistant / automation / creative 三个 cluster，增强 review 页与大全页之间的相互导流
+- 批次内页面内部链接数提升到 4+，其中 `claude-ai-review-2026` 已形成较强相关页网络
+- build 成功：158 pages
+- 下一步：继续扫剩余 0–1 内链页面，优先处理 best-* 枢纽页与高 intent review 页
+
+## 2026-03-20 05:58 — T013F 完成（内链补强批次 6）
+- 为 4 个专题枢纽页补足相关文章：best-ai-coding-assistants-2026、best-ai-copywriting-tools-2026、best-ai-research-tools-2026、best-ai-tools-for-marketing-2026
+- 本轮重点补强 coding / copywriting / research / marketing 四个 cluster 的内部导流，优先连接已有评测页与对比页
+- 批次内页面内部链接数均提升到 4 条；build 成功：158 pages
+- 发现 `TASK_QUEUE.lock` 为陈旧锁（>30s），按既定协议可清理
+- 下一步：清理陈旧锁后继续筛剩余低链接页面，优先补强 student / writer / social media / website builder 等专题页
+
+## 2026-03-20 06:00 — T013G 完成（内链补强批次 7）
+- 为 4 个专题枢纽页补足相关文章：best-ai-tools-for-students-2026、best-ai-tools-for-writers-2026、best-ai-social-media-tools-2026、best-ai-website-builders-2026
+- 顺手把 writers 页尾部原先的占位 `#` 链接替换成真实站内文章，消除无效内链
+- 批次内页面内部链接数均提升到 4 条；build 成功：158 pages
+- 下一步：继续筛剩余 0–1 内链页面，优先处理更长尾但仍可能承接流量的专题页（agencies / freelancers / teachers / photographers 等）
+
+## 2026-03-20 08:39 — 质量审查完成（fallback when no [RESUME]/[COMPLEX] PENDING）
+- 执行 `npm run build:test`：Astro build 成功，161 pages；内部链接检查通过，4794/4794 valid
+- 修复 1 个真实断链：`best-ai-grammar-checkers-2026` 中误指向未落地页面 `/blog/ai-copywriting-for-ads-2026`，已改为已存在的 `best-ai-copywriting-tools-2026`
+- 清理 3 篇文章残留占位 `#` 链接：`best-ai-tools-for-photographers-2026`、`best-ai-tools-for-teachers-2026`、`chatgpt-review-2026`
+- 顺手修复 `chatgpt-review-2026` 重复 H1 风险（正文首个 `#` 降为 `##`）
+- 下一步：继续执行高优先级内容主线，优先收口 T045A / T045B / T045C 并在提交前做一次相同 build:test 质检
