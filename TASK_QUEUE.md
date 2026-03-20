@@ -7,9 +7,9 @@
 | T015A | P1 | [COMPARE] | DONE | 写作并发布：Canva AI vs Adobe Express vs Figma AI（高 intent 横向对比，含 pricing / use-case / winner 模块） | — | 2026-03-20 04:31 |
 | T015B | P1 | [COMPARE] | DONE | 写作并发布：Descript vs Riverside vs Squadcast（高 intent 横向对比，含 pricing / creator fit / workflow 差异） | — | 2026-03-20 04:31 |
 | T015C | P1 | [COMPARE] | DONE | 写作并发布：Loom AI vs Vidyard vs Sendspark（高 intent 横向对比，含 sales / async video / CTA 场景） | — | 2026-03-20 04:31 |
-| T016A | P1 | [COMPARE] | PENDING | 写作并发布：Zapier AI vs Make vs n8n AI（高 intent 横向对比，含 pricing / automation depth / SMB fit） | — | 2026-03-20 04:27 |
-| T016B | P1 | [BUYER_INTENT] | PENDING | 写作并发布：Best AI Workflow Automation Tools for Small Business 2026（避免与既有大全文重复，强调 SMB 落地/ROI） | — | 2026-03-20 04:27 |
-| T016C | P1 | [BUYER_INTENT] | PENDING | 写作并发布：AI Integration Platforms Compared for Ops Teams（面向购买决策，聚焦 connectors / governance / pricing） | — | 2026-03-20 04:27 |
+| T016A | P1 | [COMPARE] | DONE | 写作并发布：Zapier AI vs Make vs n8n AI（高 intent 横向对比，含 pricing / automation depth / SMB fit） | — | 2026-03-20 05:05 |
+| T016B | P1 | [BUYER_INTENT] | DONE | 写作并发布：Best AI Workflow Automation Tools for Small Business 2026（避免与既有大全文重复，强调 SMB 落地/ROI） | — | 2026-03-20 05:05 |
+| T016C | P1 | [BUYER_INTENT] | DONE | 写作并发布：AI Integration Platforms Compared for Ops Teams（面向购买决策，聚焦 connectors / governance / pricing） | — | 2026-03-20 05:05 |
 | T017A | P1 | [COMPARE] | DONE | 写作并发布：Notion AI vs Coda AI vs Slite（高 intent 横向对比，含 docs / wiki / team knowledge 场景） | — | 2026-03-20 04:31 |
 | T017B | P1 | [BUYER_INTENT] | DONE | 写作并发布：AI Note-Taking Apps Ranked for Meetings and Research 2026（避免与既有大全文重复，强调 meeting / research intent） | — | 2026-03-20 04:31 |
 | T017C | P1 | [BUYER_INTENT] | DONE | 写作并发布：Best AI Knowledge Base Tools for Internal Teams 2026（聚焦 internal docs / SOP / support enablement） | — | 2026-03-20 04:31 |

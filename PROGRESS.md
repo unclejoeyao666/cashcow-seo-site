@@ -124,3 +124,10 @@
 - 对应文章已在仓库中存在：Canva/Figma/Adobe、Descript/Riverside/Squadcast、Loom/Vidyard/Sendspark、Notion/Coda/Slite、AI Note-Taking Ranked、Knowledge Base Tools
 - 本轮为队列校正，无内容重写
 - 下一步：优先执行仍未落地的 T016A / T016B / T016C
+
+## 2026-03-20 05:05 — T016A/B/C 完成（Automation 系列 3 篇）
+- T016A DONE：zapier-ai-vs-make-vs-n8n-ai-2026.md（三方对比）
+- T016B DONE：best-ai-workflow-automation-tools-small-business-2026.md（SMB buyer-intent）
+- T016C DONE：ai-integration-platforms-compared-ops-teams-2026.md（Ops team buyer-intent）
+- Build 成功：155 pages
+- 下一步：继续推进 T027 / T028 / T029
